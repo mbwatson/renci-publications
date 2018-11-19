@@ -275,7 +275,7 @@
 
 # 2009
 
-##  High-throughput sialylmotif analysis in the glycosyltransferase protein family
+## High-throughput sialylmotif analysis in the glycosyltransferase protein family
 - DOI: ?
 - CITATION: Datta, A.K., Tilson, J.L., Rendon, G., Jakobsson, E. High-throughput sialylmotif analysis in the glycosyltransferase protein family. Proceedings in TeraGrid ‘op. Arlington, VA, June 22-25, 2009.
 
@@ -304,7 +304,7 @@
 - DOI: 10.1109/milcom.2009.5379933 
 - CITATION: Rauschenbach, K., Hain, R., Jackson, A., Jacob, J., Leland, W., Lowry, J., Millliken, W., Pal, P., Santivanez, C., Baldin, I., Huang, S., Wood, D. Dynamic provisioning system for bandwidth-scalable core optical network. Milcom’09. Boston, MA, Oct. 18-21, 2009.
 
-##  Grid information retrieval
+## Grid information retrieval
 - DOI: ?
 - CITATION: Nassar, N.  Grid information retrieval. Open Grid Forum. Chapel Hill, NC, May, 2009.
 
@@ -316,7 +316,7 @@
 - DOI: ?
 - CITATION: Heard, J. Large tree visualization of the melanoma genome. UNC Endeavors Magazine. Winter 2009
 
-##  Multi-threaded library for many-core systems
+## Multi-threaded library for many-core systems
 - DOI: 10.1109/ipdps.2009.5161104 
 - CITATION: Porterfield, A., Nassar, N., Fowler, R.  Multi-threaded library for many-core systems.  2009 IEEE International Symposium on Parallel & Distributed Processing. Rome, Italy, 2009.
 
@@ -425,7 +425,7 @@
 - DOI: 
 - CITATION: Dreher, P., Vouk, M., Averitt, S., Sills, E. (2010). An open source option for cloud computing in education and research. In Cloud Computing, San Murugesan, Ed, Chapman & Hall, (2010).
 
-##  Analyzing lock contention in multithreaded applications
+## Analyzing lock contention in multithreaded applications
 - DOI: 
 - CITATION: Tallent, N., Mellor-Cummey, J., Porterfield, A. Analyzing lock contention in multithreaded applications. 15th ACM SIGPLAN Symposium on Principles and Practice of 
 Parallel Programming. Bangalore, India, January 2010.
@@ -628,267 +628,271 @@ Parallel Programming. Bangalore, India, January 2010.
 
 # 2011
 
-## ?
-- DOI: 
+## A blood-based algorithm for the detection of Alzheimer’s disease
+- DOI: 10.1159/000330750 
 - CITATION: O’Bryant, S.E., Xiao, G., Barber, R., Reisch, J., Hall, J., Cullum, C.M., Doody, R., Fairchild, T., Adams, P., Wilhelmsen, K., et al. (2011). A blood-based algorithm for the detection of Alzheimer’s disease. Dementia and Geriatric Cognitive Disorders. 32, 55-62.
 
-## ?
-- DOI: 
+## A blood-based screening tool for Alzheimer’s disease that spans serum and plasma: findings from TARC and ADNI
+- DOI: 10.1371/journal.pone.0028092 
 - CITATION: O’Bryant, S.E., Xiao, G., Barber, R., Huebinger, R., Wilhelmsen, K., Edwards, M., Graff-Radford, N., Doody, R., and Diaz-Arrastia, R. (2011). A blood-based screening tool for Alzheimer’s disease that spans serum and plasma: findings from TARC and ADNI. PLoSOne. 6, e28092.
 
-## ?
-- DOI: 
+## A science driven production cyberinfrastructure—the Open Science Grid
+- DOI: 10.1007/s10723-010-9176-6 
 - CITATION: Altunay, M., Avery, P., Blackburn, K., Bockelman, B., Ernst. M., Fraser, D., Quick, R., Gardner, R., Goasguen, S., Levshina, T., McGee, J., et al.(2011). A science driven production cyberinfrastructure—the Open Science Grid. Journal of Grid Computing. 9.2 : 201-218.
 
-## ?
-- DOI: 
+## A system for scalable visualization of geographic archival records
+- DOI: 10.1109/ldav.2011.6092329 
 - CITATION: Heard, J., & Marciano, R. A system for scalable visualization of geographic archival records. IEEE Symposium on Large-scale Data Analysis and Visualization. Providence, RI, October 23, 2011.
 
-## ?
-- DOI: 
+## Adapting visual-analytical tools to explore the structural features of polymer conformations derived from molecular dynamics simulations
+- DOI: 10.1002/mats.201000086
 - CITATION: Thakur, S., &  Pasquinelli, M.A. (2011). Adapting visual-analytical tools to explore the structural features of polymer conformations derived from molecular dynamics simulations. Journal of Macromolecular Theory and - Simulation. DOI: 10.1002/mats.201000086.
 
-## ?
-- DOI: 
-- CITATION: Borland, D. (2011).  Ambient occlusion opacity mapping for visualization of internal molecular structure.  Journal of WSCG, 19(1-3).
+## Ambient occlusion opacity mapping for visualization of internal molecular structure
+- DOI: ?
+- CITATION: Borland, D. (2011). Ambient occlusion opacity mapping for visualization of internal molecular structure.  Journal of WSCG, 19(1-3).
 
-## ?
-- DOI: 
-- CITATION: Peck, T., Fuchs, H., Whitton, M. (2011).  An evaluation of navigational ability comparing redirected free exploration with distractors to walking-in-place and joystick locomotion interfaces. Proceedings of IEEE Virtual Reality 2011. Singapore, March 19-23, 2011.
+## An evaluation of navigational ability comparing redirected free exploration with distractors to walking-in-place and joystick locomotion interfaces
+- DOI: 10.1109/vr.2011.5759437 
+- CITATION: Peck, T., Fuchs, H., Whitton, M. (2011). An evaluation of navigational ability comparing redirected free exploration with distractors to walking-in-place and joystick locomotion interfaces. Proceedings of IEEE Virtual Reality 2011. Singapore, March 19-23, 2011.
 
-## ?
-- DOI: 
+## Association of alcohol dehydrogenase genes with - alcohol-related phenotypes in a Native American community sample
+- DOI: 10.1111/j.1530-0277.2011.01552.x 
 - CITATION: Gizer, I.R., Edenberg, H.J., Gilder, D.A., Wilhelmsen, K.C., and Ehlers, C.L. (2011). Association of alcohol dehydrogenase genes with - alcohol-related phenotypes in a Native American community sample. Alcoholism: Clinical and Experimental Research. 35, 2008-2018.
 
-## ?
-- DOI: 
+## Coastal storm surge analysis system: Digital elevation model, report 1: Ids no. 1.1
+- DOI: ?
 - CITATION: Forte, M., Hanson, J., Stillwell, L., Blanchard-Montgomery, M., Blanton, B., Luettich, R., Roberts, H., Atkinson, J., Miller, J. (2011). Coastal storm surge analysis system: Digital elevation model, report 1: Ids no. 1.1.” Technical Report CHL TR-11-1, USACE/ERDC.
 
-## ?
-- DOI: 
+## Coastal storm surge analysis: Computational system, report 2: Ids no. 1.2
+- DOI: 10.21236/ada539306 
 - CITATION: Blanton, B., Stillwell, L., Roberts, H., Atkinson, J., Zhou, S., Forte, M., Hanson, J., Luettich, R. (2011). Coastal storm surge analysis: Computational system, report 2: Ids no. 1.2.” Technical Report CHL TR-11-1, USACE/ERDC.
 
-## ?
-- DOI: 
+## Collaboration-specific color-map design
+- DOI: 10.1109/mcg.2011.55 
 - CITATION: Borland, D. & Huber, H. (2011). Collaboration-specific color-map design. IEEE Computer Graphics and Applications. 31(4).
 
-## ?
-- DOI: 
+## Communicating coastal risk analysis in an age of climate change
+- DOI: 10.1109/escience.2011.20 
 - CITATION: B. Blanton, McGee, J., Kapeljushnik, O. Communicating coastal risk analysis in an age of climate change. 2011 IEEE 7th International Conference on E-Science (e-Science). Stockholm, Sweden, Dec. 5-8, 2011.
+- RELATED: 10.21236/ada551861 
 
-## ?
+## Data management practices for - collaborative research. Frontiers in Psychiatry
 - DOI: 10.3389/fpsyt.2011.00047
 - CITATION: Schmitt, C. & Buchinal, M. (2011). Data management practices for - collaborative research. Frontiers in Psychiatry. (47)2. doi: 10.3389/fpsyt.2011.00047.
 
-## ?
-- DOI: 
+## Proceedings of the Third iRODS User Group Meeting
+- DOI: ?
 - CITATION: Brieger, L., Coposky, J., Dantuluri, V., Gamiel, K., Idaszak, R., Kapeljushnik, O., Nassar, N., Reilly, J., Stealey, M., Stillwell, L., Wang, X. iRODS@RENCI. Proceedings of the Third iRODS User Group Meeting. Chapel Hill, NC, February 2011.
 
-## ?
-- DOI: 
+## Linkage scan of alcohol dependence in the UCSF Family Alcoholism Study
+- DOI: 10.1016/j.drugalcdep.2010.07.017 
 - CITATION: Gizer, I.R., Ehlers, C.L., Vieten, C., Seaton-Smith, K.L., Feiler, H.S., Lee, J.V., Segall, S.K., Gilder, D.A., Wilhelmsen, K.C. (2011). Linkage scan of alcohol dependence in the UCSF Family Alcoholism Study. Drug and Alcohol Dependence. 113, 125-132.
 
-## ?
-- DOI: 
+## Linkage scan of nicotine dependence in the University of California, San Francisco (UCSF) Family Alcoholism Study
+- DOI: 10.1017/s0033291710001273 
 - CITATION: Gizer, I.R., Ehlers, C.L., Vieten, C., Seaton-Smith, K.L., Feiler, H.S., Lee, J.V., Segall, S.K., Gilder, D.A., Wilhelmsen, K.C. (2011). Linkage scan of nicotine dependence in the University of California, San Francisco (UCSF) Family Alcoholism Study. Psychological Medicine Journal. 41, 799-808.
 
-## ?
-- DOI: 
+## Long-term regional hurricane hazard analysis for wind and storm surge
+- DOI: 10.1016/j.coastaleng.2011.01.015 
 - CITATION: Apivatanagul, P., Davidson, R., Blanton, B., Nozick, L. (2011). Long-term regional hurricane hazard analysis for wind and storm surge. Coastal Engineering. (58)6.
 
-## ?
-- DOI: 
+## Next-generation sequencing for clinical diagnosis
+- DOI: ?
 - CITATION: Berg, J. S., Evans, J. P., Leigh, M. W., Omran, H., Bizon, C., Mane, K., Knowles, M. R., Weck, K. E., Zariwala, M. A. (2011). Next-generation sequencing for clinical diagnosis. Genetics in Medicine. (13)3.
 
-## ?
-- DOI: 
+## Olfactory copy number association with age at onset of Alzheimer disease
+- DOI: 10.1212/wnl.0b013e318221c187 
 - CITATION: Shaw, C.A., Li, Y., Wiszniewska, J., Chasse, S., Zaidi, S.N., Jin, W., Dawson, B., Wilhelmsen, K., Lupski, J.R., Belmont, J.W., et al. (2011). Olfactory copy number association with age at onset of Alzheimer disease. Neurology. 76, 1302-1309.
 
-## ?
-- DOI: 
+## Patient electronic health data-driven approach to clinical decision support
+- DOI: 10.1111/j.1752-8062.2011.00324.x 
 - CITATION: Mane, K., Bizon, C., Owen, P., Gersing, K., Mostafa, J., Schmitt, C. (2011). Patient electronic health data-driven approach to clinical decision support. Clinical and Translational Science Journal. (4)5.
 
-## ?
-- DOI: 
+## Policy-based data management
+- DOI: ?
 - CITATION: Moore, R., Rajasekar, A., Wan, M., Schroeder, W., Conway, M., Brieger, L., Coposky, J., Stillwell, L. Policy-based data management. GEOSS Interoperability Workshop XLIII. Boulder, CO, Sept 23, 2011.
 
-## ?
-- DOI: 
+## Provisioning and evaluating multi-domain networked clouds for Hadoop-based applications
+- DOI: 10.1109/cloudcom.2011.107 
 - CITATION: Mandal, A., Xin, Y., Baldin, I., Ruth, P., Heerman, C., Chase, J., Orlikowski, V., Yumerefendi, A. Provisioning and evaluating multi-domain networked clouds for Hadoop-based applications. Proceedings of the 3rd International Conference on Cloud Computing Technologies and Science 2011 (IEEE Cloudcom ’11). Athens, Greece, December 2011.
 
-## ?
-- DOI: 
+## Scheduling task parallelism on multi-socket systems
+- DOI: 10.1145/1988796.1988804 
 - CITATION: Olivier, S., Porterfield, A., Wheeler, K., Prins, J. Scheduling task parallelism on multi-socket systems. International Workshop on Runtimes and Operating Systems for Supercomputers, Tuson, AZ, June 2011.
 
-## ?
-- DOI: 
+## Summary visualizations for coastal spatial-temporal dynamics
+- DOI: 10.1615/int.j.uncertaintyquantification.2012003969 
 - CITATION: Thakur, S., Tateosian, L., Hardin, E., Mitasova, H., Weaver, K., & Overton, M. Summary visualizations for coastal spatial-temporal dynamics. IEEE VisWeek 2011, extended abstract for workshop on Uncertainty Quantification, Propagation, and Visualization. Providence, RI, Oct. 23-28, 2011.
 
-## ?
-- DOI: 
+## The CI-FLOW project: A system for total water level prediction from the summit to the sea
+- DOI: 10.1175/2011bams3150.1
 - CITATION: Van Cooten, S., et al., (2011). The CI-FLOW project: A system for total water level prediction from the summit to the sea. Bulletin of the American Meteorological Society.  92, 1427–1442.
 
-## ?
-- DOI: 
+## The integrated Rule-Oriented Data System (iRODS 3.0) micro-service workbook
+- DOI: ?
 - CITATION: Ward, R., Wan, M., Schroeder, W., Rajasekar, A., de Torcy, A., Russell, T., Xu, H., Moore, R. The integrated Rule-Oriented Data System (iRODS 3.0) micro-service workbook. DICE Foundation. November 2011, ISBN: 9781466469129. Amazon.com.
 
-## ?
-- DOI: 
+## The integrated virtual environment rehabilitation treadmill system
+- DOI: 10.1109/tnsre.2011.2120623 
 - CITATION: Feasel, J., Whitton, M., Kassler, L., Brooks, F.P., Lewek, M. (2011). The integrated virtual environment rehabilitation treadmill system. Neural Systems & Rehabilitation Engineering, IEEE Transactions on. (19)3.
 
-## ?
-- DOI: 
-- CITATION: Bedard, D., Idaszak, R., Lander, H., Ahalt, S. What open source software development  teaches us about scientific governance. (2011). An NSF EarthCube White Paper.
+## What open source software development teaches us about scientific governance
+- DOI: ?
+- CITATION: Bedard, D., Idaszak, R., Lander, H., Ahalt, S. What open source software development teaches us about scientific governance. (2011). An NSF EarthCube White Paper.
 
-## ?
-- DOI: 
+## Evalution of OpenMP task-based parallelism for the adaptive fast multipole algorithm
+- DOI: ?
 - CITATION: Prins, J.F., Overman, R., Olivier, S., Porterfield, A., Zhang, B., Huang, J., Minion, M. Evalution of OpenMP task-based parallelism for the adaptive fast multipole algorithm. SIAM conference on Computational Science and Engineering (CSE11). Reno, NV, March 2011.
 
-## ?
-- DOI: 
+## Embedding virtual topologies in networked clouds
+- DOI: 10.1145/2002396.2002403 
 - CITATION: Xin, Y., Baldin, I., Mandal, A., Heermann, C., Chase, J., Yumerefendi, A. Embedding virtual topologies in networked clouds. The 6th International Conference on Future Internet Technologies (CFI). Seoul, Korea, June 2011.
 
-## ?
-- DOI: 
+## Virtual smart grid architecture and control framework
+- DOI: 10.1109/smartgridcomm.2011.6102318 
 - CITATION: Xin, Y., Baldin, I., Chase, J., Beyene, T., Parkhurst, B., Chakrabortty, A. Virtual smart grid architecture and control framework. 2nd IEEE International Conference on Smart Grid Communications (IEEE SmartGridComm). Brussels, Belgium, Oct. 2011.
 
-## ?
-- DOI: 
+## LENS: Resource specification for wireless sensor network experimentation infrastructures
+- DOI: 10.1145/2030718.2030727 
 - CITATION: Ju, X., Zhang, H., Zeng, W., Sridharan, M., Li, J., Arora, A., Ramnath, R., Xin, Y. LENS: Resource specification for wireless sensor network experimentation infrastructures. ” The 6th International Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization (WinTECH). Las Vegas, NV, Sept. 2011.
 
-## ?
-- DOI: 
+## CI potential energy curves for three states of RuO2+
+- DOI: 10.1016/j.cplett.2011.09.075 
 - CITATION: Tilson, J.L., Ermler, W.C., Fowler, R.J. (2011). CI potential energy curves for three states of RuO2+. Chemical Physics Letters. Vol. 516.
 
-## ?
-- DOI: 
+## Identifying bacterial and archaeal homologs of pentameric ligand-gated ion channel (pLGIC) family using domain-based and alignment-based approaches
+- DOI: 10.4161/chan.5.4.16822 
 - CITATION: Rendon, G., Kantorovitz, R., Tilson, J.L., Jakobsson, E. (2011). Identifying bacterial and archaeal homologs of pentameric ligand-gated ion channel (pLGIC) family using domain-based and alignment-based approaches. Channels (Austin, Tex) Vol. 5.
 
 # 2012
 
-## ?
-- DOI: 
+## A decentralized ID algorithm for detecting slow-fast oscillations in power systems from overwhelming volumes of phasor data
+- DOI: 10.1109/cdc.2012.6426669 
 - CITATION: Chakrabortty, A., Michailidis, G., Xin, Y. A decentralized ID algorithm for detecting slow-fast oscillations in power systems from overwhelming volumes of phasor data. 51st IEEE Conference on Decision and Control (CDC). Maui, HI, Dec. 2012.
 
-## ?
-- DOI: 
+## A flexible and qualitatively stable model for cell cycle dynamics including DNA damage effects
+- DOI: 10.4137/grsb.s8476 
 - CITATION: Jeffries, C.D., Johnson, C.R., Zhou, T., Simpson, D.A., Kaufmann, W.K. A flexible and qualitatively stable model for cell cycle dynamics including DNA damage effects. (2012). Gene Regulation and Systems Biology.
 
-## ?
-- DOI: 
+## A general overview of iRODS and E-iRODS + iRODS Tutorial
+- DOI: ?
 - CITATION: Brieger, L. A general overview of iRODS and E-iRODS + iRODS Tutorial. CUNY Meeting on Integrated Rule Oriented Data Systems. HPC Center of CUNY, College of Staten Island, Staten Island, NY, February 7, 2012.
 
-## ?
-Visualization Technologies to Support Research on Human-Environment Interactions,
-- DOI: 
+## A holistic visualization of trends in spatial-temporal data
+- DOI: ?
 - CITATION: Thakur, S, Jayaratne, K.S.U. A holistic visualization of trends in spatial-temporal data. Workshop on “Visualization Technologies to Support Research on Human-Environment Interactions,” organized by National Socio-Environmental Synthesis Center. Maryland, July 2012.
 
-## ?
-- DOI: 
-- CITATION: Wilhelmsen, K.C. Significance of genomic rearrangements in epilepsy.(2012).  ArchNeurol. 69, 305-307.
+## Significance of genomic rearrangements in epilepsy
+- DOI: 10.1001/archneurol.2011.3256 
+- CITATION: Wilhelmsen, K.C. Significance of genomic rearrangements in epilepsy. (2012).  ArchNeurol. 69, 305-307.
 
-## ?
-- DOI: 
-- CITATION: McMahon, T.M., Powell, J.E., Hopkins, M., Alcazar, D.A., Miller, L.E., Collins, L., Mane, K. Social awareness tools for science research.(2012)  DLib Magazine. (18)3/4
+## Social awareness tools for science research
+- DOI: 10.1045/march2012-mcmahon 
+- CITATION: McMahon, T.M., Powell, J.E., Hopkins, M., Alcazar, D.A., Miller, L.E., Collins, L., Mane, K. Social awareness tools for science research. (2012)  DLib Magazine. (18)3/4
 
-## ?
-- DOI: 
+## Summary visualizations for coastal spatial-temporal dynamics
+- DOI: 10.1615/int.j.uncertaintyquantification.2012003969 
 - CITATION: Thakur, S., Tateosian, L., Mitasova, H., Hardin, E., Overton, M. Summary visualizations for coastal spatial-temporal dynamics. International Journal for Uncertainty Quantification.
 
-## ?
-- DOI: 
+## System-wide introspection for accurate attribution of performance bottlenecks
+- DOI: ?
 - CITATION: Mandal, A., Porterfield, A., Fowler, R. System-wide introspection for accurate attribution of performance bottlenecks. Proceedings of the 2nd International Workshop on High-Performance Infrastructure for Scalable Tools  (WHIST 2012). Venice, Italy, June 2012.
 
-## ?
-- DOI: 
+## The design and evaluation of a large-scale real-walking locomotion interface
+- DOI: 10.1109/tvcg.2011.289 
 - CITATION: Peck, T., Fuchs, H.,  Whitton, M. (2012). The design and evaluation of a large-scale real-walking locomotion interface. IEEE Transactions on Visualization and Computer Graphics. Digital Object Identifier: 10.1109/TVCG.2011.289.
 
-## ?
-- DOI: 
+## VarDB: A genomic data management and annotation system using a hybrid of relational databases and distributed data systems
+- DOI: ?
 - CITATION: Bizon, C., Nassar, N., Cavin, K., Schmitt, C., Berg, J., Wilhelmsen, K.  VarDB: A genomic data management and annotation system using a hybrid of relational databases and distributed data systems. 2012 ACMG Annual Clinical Genetics Meeting. Charlotte, NC, March, 2012.
 
-## ?
-- DOI: 
+## Visualizations of coastal elevation time-series
+- DOI: ?
 - CITATION: Tateosian, L.G., Mitasova, H., Thakur, S., Russ, E., Blundell, B. Visualizations of coastal elevation time-series. GeoVisual Analytics: Time to Focus on Time. Columbus, OH, September 18, 2012.
+- RELATED: 10.1177/1473871613487086
 
-## ?
-- DOI: 
+## Adaptive scheduling using performance introspection
+- DOI: ?
 - CITATION: Porterfield, A., Fowler, R., Mandal, A., Obrien, D., Olivier, S. Spiegel, M. Adaptive scheduling using performance introspection. (2012). RENCI Technical Report TR-12-02. May 2012.
 
-## ?
-- DOI: 
+## An architecture for mining and visualization of U.S. higher educational data
+- DOI: 10.1109/itng.2012.151 
 - CITATION: Ngo, L.B., Dantuluri, V., Stealey, M., Ahalt, S., Apon, A. An architecture for mining and visualization of U.S. higher educational data. Informational Technology: New Generation (ITNG) Conference. Las Vegas, NV, April 16-18, 2012.
 
-## ?
-- DOI: 
+## An informatics pipeline for identifying clinically relevant incidental variants in whole genome sequences
+- DOI: ?
 - CITATION: Adams, M., Nassar, N., Bizon, C., Lee, K., Schmitt, C., Evans, J., Wilhelmsen, K., Berg, J. An informatics pipeline for identifying clinically relevant incidental variants in whole genome sequences.  2012 ACMG Annual Clinical Genetics Meeting. Charlotte, NC, March, 2012.
 
-## ?
-- DOI: 
+## E-iRODS and iRODS@RENCI. iRODS User Group Meeting 2012
+- DOI: ?
 - CITATION: Brieger, L., Coposky, J., Russell, T., Stealey, M. E-iRODS and iRODS@RENCI. iRODS User Group Meeting 2012. Tucson, AZ, March 1-2, 2012.
 
-## ?
-- DOI: 
+## Event-driven data management for precipitation re-analysis
+- DOI: ?
 - CITATION: Galluppi, K., Moore, R., Brieger, L., Nelson, B., Hall, A. Event-driven data management for precipitation re-analysis. American Meteorological Society Annual Meeting. New Orleans, January 22-26, 2012.
 
-## ?
-- DOI: 
+## ExoGENI: A multi-domain Infrastructure-as-a-Service testbed
+- DOI: ?
 - CITATION: Baldin, I., Xin, Y., Mandal, A., Ruth, P., Yumerefendi, A., Chase, J. ExoGENI: A multi-domain Infrastructure-as-a-Service testbed. 8th International ICST Conference on Testbeds and Research Infrastructures for the Development of Networks and Communities (Tridentcom 2012). Thessaloniki, Greece, June 11-13, 2012.
+- RELATED: 10.1007/978-3-319-33769-2_13
+- RELATED: 10.1007/978-3-642-35576-9_12
 
-## ?
-- DOI: 
+## Image and statistical analysis of melanocytic histology
+- DOI: 10.1111/j.1365-2559.2012.04229.x 
 - CITATION: Miedema, J., Marron, J.S., Niethammer, M., Borland, D., Woosley, J., Coposky, J., Wei, S., Reisner, H., Thomas, N. (2012). Image and statistical analysis of melanocytic histology. Histopathology. 61:436-444.
 
-## ?
-- DOI: 
+## iRODS and large-scale data management
+- DOI: ?
 - CITATION: Brieger, L. iRODS and large-scale data management.  Oklahoma Supercomputing Symposium. Norman, OK, October 11-12, 2012.
 
-## ?
-- DOI: 
+## iRODS: Interoperability in data management
+- DOI: ?
 - CITATION: Wan, M., Brieger, L. iRODS: Interoperability in data management. HDF and HDF-EOS Workshop XV: Embracing New Missions – Integrating Data Across Generations. Riverdale, MD, April 17-19, 2012.
 
-## ?
-- DOI: 
-- CITATION: Mane,  K., Owen, P., Bizon, C., Schmitt, C., & Gersing, K. (2012). Mapping patient treatment profiles and electronic health records to a clinical guideline for use in patient care. Association for Computing Machinery. 
+## Mapping patient treatment profiles and electronic health records to a clinical guideline for use in patient care
+- DOI: ?
+- CITATION: Mane, K., Owen, P., Bizon, C., Schmitt, C., & Gersing, K. (2012). Mapping patient treatment profiles and electronic health records to a clinical guideline for use in patient care. Association for Computing Machinery. 
+- RELATED: 10.1145/2110363.2110453
 
-## ?
-- DOI: 
+## X3DBio1: A visual analysis tool for biomolecular structure exploration
+- DOI: 10.1117/12.906893 
 - CITATION: Yi, H., Singh, A., Yingling, Y. G. (2012). X3DBio1: A visual analysis tool for biomolecular structure exploration. Proc. of SPIE-IS&T Electronic Imaging, Visualization and Data Analysis (VDA), SPIE Vol. 8294, 82940S-1—82940S-8, San Francisco, CA, January 23-25, 2012.
 
-## ?
-- DOI: 
+## Scene-motion thresholds during head yaw for immersive virtual environments
+- DOI: 10.1145/2134203.2134207
 - CITATION: Jerald, J., Whitton, M., Brooks, F. (2012).  Scene-motion thresholds during head yaw for immersive virtual environments.  ACM Transactions on - Applied Perception (TAP). (9)1. DOI: 10.1145/2134203.2134207.
 
-## ?
-- DOI: 
+## OpenMP task scheduling strategies for multicore NUMA systems
+- DOI: 10.1177/1094342011434065 
 - CITATION: Olivier, S.L., Porterfield, A.K., Wheeler, K.B., Spiegel, M., Prins, J.F. OpenMP task scheduling strategies for multicore NUMA systems. (2012). International Journal of High Performance Computing Applications.
 
-## ?
-- DOI: 
+## Performance evaluation of 10GE NICs with SR-IOV support: I/O virtualization and network stack optimizations
+- DOI: 10.1007/978-3-642-28540-0_14 
 - CITATION: Huang, S., Baldin, I. Performance evaluation of 10GE NICs with SR-IOV support: I/O virtualization and network stack optimizations. 16th International GI/ITG Conference on Measurement, Modeling and Evaluation of Computing Systems and Dependability and Fault Tolerance. Kaiserslautern, Germany, March 19-21, 2012.
 
-## ?
-- DOI: 
+## Personalization is not a panacea: Balancing serendipity and personalization in medical news content delivery
+- DOI: 10.1145/2110363.2110445 
 - CITATION: Fan, X., Mostafa, J., Mane, K., & Sugimoto, C. (2012). Personalization is not a panacea: Balancing serendipity and personalization in medical news content delivery. 2nd ACM SIGHIT International Health Informatics Symposium. ACM, New York, NY, USA.
 
-## ?
-- DOI: 
+## Presenting results as dynamically generated co-authorship subgraphs in semantics digital library collections
+- DOI: ?
 - CITATION: Powell, J., McMohan, T.M., Mane, K., Miller, L., Collins, L. (2012). Presenting results as dynamically generated co-authorship subgraphs in semantics digital library collections. Code4lib Journal. 16.
 
-## ?
-- DOI: 
+## Quaternion maps of global protein structure
+- DOI: 10.1016/j.jmgm.2012.06.004 
 - CITATION: Hanson, A.J. and Thakur, S. Quaternion maps of global protein structure. Journal of Molecular Graphics and Modeling.
 
-## ?
-- DOI: 
+## Redirected touching: The effect of warping space on task performance
+- DOI: 10.1109/3dui.2012.6184193 
 - CITATION: Kohli, L., Whitton, M.C., Brooks, F.P. (2012).  Redirected touching: The effect of warping space on task performance. 3D User Interfaces (3DUI), 2012 IEEE Symposium.
 - DOI: 10.1109/3DUI.2012.6184193.
 
-## ?
-- DOI: 
+## Dynamic network provisioning for data intensive applications in the cloud
+- DOI: ?
 - CITATION: Ketan, M., Schmitt, C., Owen, P., Gersing, K., Ahalt S. Data-driven approaches to augment clinical decision in EMR era. 3rd International Workshop on Cognitive Information Processing. Baiona, Spain, May 28-30, 2012.
 
-## ?
+## Dynamic network provisioning for data intensive applications in the cloud
 - DOI: 
 - CITATION: Ruth, P., Mandal, A., Xin, Y., Baldin, I., Heermann, C., Chase, J. Dynamic network provisioning for data intensive applications in the cloud. (2012). IEEE e-Science. (1)2.
 
@@ -896,32 +900,33 @@ Visualization Technologies to Support Research on Human-Environment Interactions
 - DOI: 
 - CITATION: Borland D., & Peck, T. Virtual embodiment: Implications and applications of self-avatars in immersive virtual environments. Duke University Visualization Friday Forum. Oct. 2012.
 
-## ?
-- DOI: 
-- CITATION: Berg, J.S., Adams M., Nassar, N., Bizon, C., Lee, K., Schmitt, C., Wilhelmsen, K., Evans, J.  An informatics approach to analyzing the incidentalome. Genetics in Medicine. Sept. 2012
+## An informatics approach to analyzing the incidentalome
+- DOI: 10.1038/gim.2012.112 
+- CITATION: Berg, J.S., Adams M., Nassar, N., Bizon, C., Lee, K., Schmitt, C., Wilhelmsen, K., Evans, J. An informatics approach to analyzing the incidentalome. Genetics in Medicine. Sept. 2012
 
-## ?
+## Urgent computing of storm surge for North Carolina’s coast
 - DOI: 
 - CITATION: Blanton, B., McGee, J., Fleming, C., Kaiser, H., Luettich, R., Dresback, K., Kolar, R. Urgent computing of storm surge for North Carolina’s coast. International Conference on Computational Science (ICCS 2012). Omaha, NE, June 4-6, 2012.
+- RELATED: 10.1016/j.procs.2012.04.185 
 
-## ?
-- DOI: 
+## Generally contracted valence-core/valence basis sets for use with relativistic effective core potentials and spin-orbit coupling operators
+- DOI: 10.1016/j.comptc.2012.09.020 
 - CITATION: Ermler, W.C. & Tilson, J.L. Generally contracted valence-core/valence basis sets for use with relativistic effective core potentials and spin-orbit coupling operators. (2012). Computational and Theoretical Chemistry.
 
-## ?
-- DOI: 
+## Visualizing coastal tourism and landscape change
+- DOI: ?
 - CITATION: Thakur, S., Tateosian, L., Mitasova, H., Hardin E. Visualizing coastal tourism and landscape change. SESYNC Workshop on Visualization Technologies to Support Research on Human-Environment Interactions. Annapolis, MD, USA, July 2012.
 
-## ?
-- DOI: 
+## VisualDecisionLinc: A visual analytics approach to comparative effectiveness-based clinical decision support in psychiatry
+- DOI: 10.1016/j.jbi.2011.09.003
 - CITATION: Mane, K., Bizon, C., Schmitt, C., Owen, P., Burchett, B., Pietrobon, R, & Gersing, K. VisualDecisionLinc: A visual analytics approach to comparative effectiveness-based clinical decision support in psychiatry. (2012). Journal of Biomedical Informatics. (45)1.
 
-## ?
-- DOI: 
+## Generally contracted valence–core/valence basis sets for use with relativistic effective core potentials and spin–orbit coupling operators
+- DOI: 10.1016/j.comptc.2012.09.020 
 - CITATION: Ermler, W. & Tilson, J.L. Generally contracted valence–core/valence basis sets for use with relativistic effective core potentials and spin–orbit coupling operators. (2012). Comparative Theory Chemistry. Vol. 1002.
 
-## ?
-- DOI: 
+## Germline mutations in HOXB13 and prostate-cancer risk
+- DOI: ?
 - CITATION: Ewing, C.M., Ray, A.M., Lange, E.M., Zuhlke, K.A., Robbins, C.M., Tembe, W.D., Wiley, K.E., Isaacs, S.D., Johng, D., Wang, Y., Bizon, C., Yan, G., Gielzak, M., Partin, A.W., Shanmugam, V., Izatt, T., Sinari, S., Craig, D.W., Zheng, S.L., Walsh, P.C., Montie, J.E., Xu, J., Carpten, J.D., Isaacs, W.B., Cooney, K.A. Germline mutations in HOXB13 and prostate-cancer risk. (2012). New England Journal of Medicine. (366)2.
 
 # 2013
