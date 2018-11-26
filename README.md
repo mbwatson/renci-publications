@@ -24,7 +24,7 @@ years.map( year => {
     page.querySelectorAll('p').forEach( pub => {
         let text = pub.innerText
         if (text.trim() !== '') {
-          thisYearsCitations.push(pub.innerText)
+            thisYearsCitations.push(pub.innerText)
         }
       })
     allCitations[year] = thisYearsCitations
