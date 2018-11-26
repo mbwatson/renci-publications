@@ -41,4 +41,30 @@ Find publications on Crossref.org and obtain DOIs for all publications for which
 
 #### Fetch Publication Metadata
 
-Run DOI list through a Python script to fetch the metadata for known DOIs from the Crossref API. Store -- probably as JSON.
+Run DOI list through a Python script to fetch the metadata for known DOIs from the Crossref API.
+
+#### Store
+
+A master JSON file contains all fetched publication information. A general publication object will have the structure shown below.
+
+```javascript
+const publications = [
+    ...,
+    {
+        "doi": "XX.YYYY/A1234-567-89",
+        "title": "Some Article Title",
+        "authors": [
+            "Alice Alicerson",
+            "Bob Bobberton",
+            "Carl Carlton",
+            "Donna Donaldson",
+        ],
+        "type": "journal-article",
+        "container": [
+            "A Prolific Journal"
+        ],
+        "date": "2007-07-15",
+        "citation": "Anderson, A., Bobberton, B., Carlton, C. Donaldson, D.  \u201cSome Article Title.\u201d A Prolific Journal 123.4-5 (2007): 112\u2013115."
+    },
+    ...
+  ```
