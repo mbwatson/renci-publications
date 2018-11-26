@@ -1,4 +1,4 @@
-# RECNI Publications
+# RENCI Publications
 
 ## What is This?
 
