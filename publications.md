@@ -1086,7 +1086,7 @@ Parallel Programming. Bangalore, India, January 2010.
 - CITATION: Dresback, K.M., Fleming, J.G., Blanton, B.O., Gourly, J.J., Tromble, E.M., Luettich, R.A., Kolar, R.L., Hong, Y., Van Cooten, S., Bergara, H.J., Flamig, Z.L., Lander, H.M., Kelleher, K.E., Nemunaitis-Monroe, K.L. Skill assessment of a real-time forecast system utilizing a coupled hydrologic and coastal hydrodynamic model during Hurricane Irene. (2011). Continental Shelf - Research 71. 78-94. doi:10.1016/j.csr.2013.10.007.
 
 ## Sociometric methods for relevancy analysis of Long Tail Science Data
-- DOI: 
+- DOI: ?
 - CITATION: Rajasekar, A., Sankaran, S., Lander, H., Carsey, T., Crabtree, J., Kum, H., Crosas, M., King, G., Zhan, J. Sociometric methods for relevancy analysis of Long Tail Science Data. 2013 ASE/IEEE International Conference on Big Data. Santa Clara, CA, USA, Oct. 6-9, 2013.
 - RELATED: 10.1109/socialcom.2013.6 
 
@@ -1898,395 +1898,298 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 # 2017
 
 
-## ?
-- DOI: 
+## DCRI data solutions all hands meeting
+- DOI: ?
 - CITATION: Ahalt, S. (2017). DCRI data solutions all hands meeting. Invited Presentation (Speaker). Durham, NC
 
-## ?
+## Scientific training in the era of big data: A new pedagogy for graduate education
 - DOI: 10.1089/big.2016.0014 
 - CITATION: Aikat, J., Carsey, T.M., Fecho, K., Jeffay, K., Krishnamurthy, A., Mucha, P.J., Rajasekar, A., & Ahalt, S.C. (2017). Scientific training in the era of big data: A new pedagogy for graduate education. Big Data, 5(1), 12-18. - doi: 10.1089/big.2016.0014
 
-## ?
-- DOI: 
+## An adaptive core-specific runtime for energy efficiency
+- DOI: 10.1109/ipdps.2017.114 
 - CITATION: Bhalachandra, S., Porterfield, A., Olivier, S.L., & Prins, J.F. (2017). An adaptive core-specific runtime for energy efficiency. IEEE Parallel and Distributed Processing Symposium (IPDPS). 
 
-## ?
-- DOI: 
+## The building blocks of interoperability: A multisite analysis of patient demographic attributes available for matching
+- DOI: 10.4338/ACI-2016-11-RA-0196
 - CITATION: Culbertson, Goel, S., Madden, M.B., Safaenili, N., Jackson, K.L., Carton, T., Waitman, R., et al. (2017). The building blocks of interoperability: A multisite analysis of patient demographic attributes - available for matching. Applied Clinical Informatics, 8(2), 322-336. DOI: https://doi.org/10.4338/ACI-2016-11-RA-0196
 
-## ?
-- DOI: 
+## A framework for estimating long term driven behavior
+- DOI: 10.1155/2017/3080859
 - CITATION: Gadepally, V., Krishnamurthy, A., & Ozguner, U. (2017). A framework for estimating long term driven behavior. Journal of Advanced Transportation, - 2017, 11 pages. DOI:10.1155/2017/3080859
 
-## ?
+## Whole genome sequence study of cannabis dependence in two independent cohorts
 - DOI: 10.1111/adb.12489
-- CITATION: Gizer, I.R., Bizon, C., Gilder, D.A., Ehlers, C.L., & Wilhelmson, K.C. (2017). Whole genome sequence study of cannabis dependence in two - independent cohorts. Addiction Biology, doi: 10.1111/adb.12489
+- CITATION: Gizer, I.R., Bizon, C., Gilder, D.A., Ehlers, C.L., & Wilhelmson, K.C. (2017). Whole genome sequence study of cannabis dependence in two independent cohorts. Addiction Biology, doi: 10.1111/adb.12489
 
-## ?
-- DOI: 
+## Legal issues in big data
+- DOI: ?
 - CITATION: Grunninger, C., Shanley, L., Rawlings-Goss, R., Miller, J.S., Khan, F.R., Turner, C., & Hubbard, M. (2017). Legal issues in big data. Hosted by the University of Georgia, School of Law, Athens, GA
 
-## ?
-- DOI: 
+## Cost-effectiveness analysis of four stimulated colorectal cancer screening interventions, North Carolina
+- DOI: 10.5888/pcd14.160158 
 - CITATION: Hassmiller Lich, K.M., Cornejo, D.A., Mayorga, M.E., Pignone, M., Tangka, F.K.L., Richardson, L.C., Kuo, T-M., et al. (2017). Cost-effectiveness analysis of four stimulated colorectal cancer screening interventions, North Carolina. Preventing Chronic Disease, 14(18)
 
 ## ?
 - DOI: 
 - CITATION: Katz, D.S., Niemeyer, K.E., Gesing, S., Hwang, L., Bangerth, W., Hettrick, S., Idaszak, R., et al. (2017). Report on the fourth workshop on sustainable software for science: Practice and experiences. (WSSSPE4)
 
-## ?
-- DOI: 
+## Data flow prioritization for scientific workflows using a virtual SDX on ExoGENI
+- DOI: ?
 - CITATION: Mandal, A., Ruth, P., Baldin, I., Ferreira de Silva, R., & Deelman, E. (2017). Data flow prioritization for scientific workflows using a virtual SDX on ExoGENI (poster). 25th GENI Engineering Conference, Miami, FL
 
-## ?
+## ClinGen pathogenicity calculator: A configurable system for assessing pathogenicity of genetic variants
 - DOI: 10.1037/adb0000270
 - CITATION: Otto, J.M., Gizer, I.R., Ellingson, J.M., & Wilhelmsen, K.C. (2017). Genetic variation in the exome: Associations with alcohol and tobacco co-use. Psychology of Addictive Behaviors: Journal of the Society of Psychologists in - Addictive Behaviors, 31(3), 354-366. doi: 10.1037/adb0000270
 
 ## ?
-- DOI: 
+- DOI: 10.1186/s13073-016-0391-z 
 - CITATION: Patel, R.Y., Shah, N., Jackson, A.R., Ghosh, R., Pawliczek, P., Paithankar, S., Baker, A., et al. (2017). ClinGen pathogenicity calculator: A configurable system for assessing pathogenicity of genetic variants. Genome Medicine, 9(1)
 
-## ?
+## Whole genome sequence association and ancestry-informed polygenic profile of EEG alpha in a Native American population
 - DOI: 10.1002/ajmg.b.32533
-- CITATION: Peng, Q., Schork, N.J., Wilhelmson, K.C., & Ehlers, C.L. (2017). Whole genome sequence association and ancestry-informed polygenic profile of - EEG alpha in a Native American population. Neuropsychiatric Genetics, doi: 10.1002/ajmg.b.32533
+- CITATION: Peng, Q., Schork, N.J., Wilhelmson, K.C., & Ehlers, C.L. (2017). Whole genome sequence association and ancestry-informed polygenic profile of EEG alpha in a Native American population. Neuropsychiatric Genetics, doi: 10.1002/ajmg.b.32533
 
-## ?
-- DOI: 
+## A linux real-time packet scheduler for reliable static SDN routing
+- DOI: ?
 - CITATION: Qian, T., Mueller, F., & Xin, Y. (2017). A linux real-time packet scheduler for reliable static SDN routing. Euromicro conference on real-time systems (ECRTS). 
 
-## ?
-- DOI: 
+## A resilient and distributed so ware infrastructure for wide-area measurement CPS systems
+- DOI: ?
 - CITATION: Qian, T., Xu, H., Mueller, F., Chakraborty, A., & Xin, Y. (2017). A resilient and distributed so ware infrastructure for wide-area measurement CPS systems. ACM Transaction on CPS, submitted
+- RELATED: 10.1109/pesgm.2016.7741949 
 
-## ?
+## A novel tobacco use phenotype suggests the 15q25 and 19q13 loci may be differentially associated with cigarettes per - day and tobacco-related problems
 - DOI: 10.1093/ntr/ntw260
 - CITATION: Richmond-Rakerd, L.S., Otto, J.M., Slutske, W.S., Ehlers, C.L., Wilhelmsen, K.C., & Gizer, I.R. (2017). A novel tobacco use phenotype suggests the 15q25 and 19q13 loci may be differentially associated with cigarettes per - day and tobacco-related problems. Nicotine & Tobacco Research, 19(4), 426-434. - doi: 10.1093/ntr/ntw260
 
-## ?
-- DOI: 
+## Aspen institute dialogue series on sharing and integrating data for water sustainability
+- DOI: ?
 - CITATION: Shanley, L.A. (2017). Aspen institute dialogue series on sharing and integrating data for water sustainability. Invited Presentation, Aspen, Colorado
 
-## ?
-- DOI: 
+## Earth observation big data
+- DOI: ?
 - CITATION: Shanley, L.A. (2017). Earth observation big data. Space Studies Board of the National Academies of Science, Engineering and Medicine. Invited Presentation. Washington, D.C
 
-## ?
-- DOI: 
+## Gates foundation open imagery network convening
+- DOI: ?
 - CITATION: Shanley, L.A. (2017). Gates foundation open imagery network convening. Invited Presentation. Seattle, Washington
 
-## ?
-- DOI: 
+## Federal big data research challenges
+- DOI: ?
 - CITATION: Shanley, L.A., Bouazzi, V., Dennis, S., Duffy, D., & Morgan, D. (2017). Federal big data research challenges. NSF Big Data PI Workshop. Washington, DC
 
-## ?
-- DOI: 
-- CITATION: Tarboton, D., Idaszak, R., Horsburgh, J., Ames, D., Goodall, J., Band, L., Merwade, V., et al. (2017). Hydroshare- Advancing hydrology through collaborative data and model sharing. Poster presented at 2017 NSF SI2 PI meeting. 
+## Hydroshare- Advancing hydrology through collaborative data and model sharing
+- DOI: ?
+- CITATION: Tarboton, D., Idaszak, R., Horsburgh, J., Ames, D., Goodall, J., Band, L., Merwade, V., et al. (2017). Hydroshare- Advancing hydrology through collaborative data and model sharing. Poster presented at 2017 NSF SI2 PI meeting.
 
-## ?
-- DOI: 
+## Slice-based network transit service: Inter-domain L2 networking on ExoGENI
+- DOI: 10.1109/infcomw.2017.8116468 
 - CITATION: Yao, Y., Cao, Q., Chase, J., Ruth, P., Baldin, I., Xin, Y., & Mandal, A. (2017). Slice-based network transit service: Inter-domain L2 networking on ExoGENI. INFOCOM17 workshop on Distributed Cloud Computing (DCC ’17). 
 
-## ?
+## Integration of expression quantitative trait loci and pleiotropy identifies a novel psoriasis susceptibility gene, PTPN1
 - DOI: 10.1002/jgm.2939
 - CITATION: Yin, X., Lin, Y., Shen, C., Wang, L., Zuo, X., Zheng, X., Yang, S., et al. (2017). Integration of expression quantitative trait loci and pleiotropy identifies a novel psoriasis susceptibility gene, PTPN1. The - Journal of Gene Medicine, 19(1-2), doi: 10.1002/jgm.2939
 
-## ?
+## Genome-wide meta-analysis identifies a novel susceptibility signal at CACNA2D3 for nicotine dependence
 - DOI: 10.1002/ajmg.b.32540
 - CITATION: Yin, X., Bizon, C., Tilson, J., Lin, Y., Gizer, I.R., Ehlers, C.L., & Wilhelmson, K.C. (2017). Genome-wide meta-analysis identifies a novel susceptibility signal at CACNA2D3 for nicotine dependence. American Journal of - Medical Genetics Part B: Neuropsychiatric Genetics. doi: 10.1002/ajmg.b.32540
 
-## ?
+## The Role of microRNA Expression in Cortical Development During Conversion to Psychosis
 - DOI: 10.1038/npp.2017.34
 - CITATION: Zheutlin, A.B., Jeffries, C.D., Perkins, D.O., Chung, Y., Chekroud, A.M., Addington, J., et al. (2017). The role of microRNA expression in cortical development during conversion to psychosis. Neuropsychopharmacology, - doi: 10.1038/npp.2017.34
 
 
 # 2018
 
-
-## ?
-- DOI: 
-- CITATION: Aikat, J., Baldin, I., Berman, M., Breen, J., Brooks, R., Calyam, P., Chase, J., Chase, W., Clark, R., Elliott, C., Griffioen, J., Huang, D., Ibarra, J., Lehman, T., Monga, I., Matta, A., Papadopoulos, C., Reiter, M., Raychaudhuri, D., Ricart, G., Ricci, R., Ruth, P., Seskar, I., Sobieski, J., Van der Merwe, K., Wang, K-C., Wolf, T., & Zink, M. (2018). The future of CISE distributed research infrastructure. ARXIV
-
-## ?
-- DOI: 
+## Contextual visualization: making the unseen visible to combat bias during visual analysis
+- DOI: ?
 - CITATION: Borland, D., Wang, W., & Gotz, D. Contextual visualization: making the unseen visible to combat bias during visual analysis. (2018). IEEE Computer Graphics and Applications. Accepted for publication
 
-## ?
-- DOI: 
-- CITATION: Borland, D., Yi, H., Grant, G.D., Kedziora, K.M., Chao, H.X., Haggerty, R.A., Kumar, J., Wolff, S.C., Cook, J.G., & Purvis, J.E. (2018). The Cell Cycle Browser: an interactive tool for visualizing, simulating, and perturbing cell cycle progression. Cell Systems. Accepted for publication
-
-## ?
-- DOI: 
+## Visualizing Information
+- DOI: ?
 - CITATION: Borland, D. Visualizing Information. Duke Center for Health Informatics Short Course. U.S. Food and Drug Administration. March 16, 2018
 
-## ?
-- DOI: 
-- CITATION: Blanton, B., Dresback, K., Colle, B., Kolar, R., Vergara, H., Hong, Y., Leonardo, N., Davidson, R., Nozick, L. & Wachtendorf, T. (2018). An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 2-Hazard Modeling. Risk Analysis
-
-## ?
-- DOI: 
-- CITATION: Cyriac, R., Dietrich, J., Fleming, J., Blanton, B., Kaiser, C., Dawson, C., & Luettich, R. (2018). Variability in coastal flooding predictions due to forecast errors during Hurricane Arthur. Coastal Engineering, 137, 59 – 78
-
-## ?
-- DOI: 
-- CITATION: Davidson, R., Nozick, L., Wachtendorf, T, Blanton, B., Colle, B., Kolar, R., DeYoung, S., Dresback, K., Yi, W., Yang, K., & Leonardo, N. (2018). An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 1-Hazard Modeling. Risk Analysis
-
-## ?
-- DOI: 
-- CITATION: Fang, J., Castillo, C., & Ahalt, S. (2018, April). Cachalot: A network-aware, cooperative cache network for geo-distributed, data-intensive applications. IEEE/IFIP Network Operations and Management Symposium. Taipei, Taiwan
-
-## ?
-- DOI: 
+## Coping with “Big Data” in research computing
+- DOI: ?
 - CITATION: Fellinger, D. (2018, February). Coping with “Big Data” in research computing. eResearch New Zealand. Queenstown, New Zealand
 
-## ?
-- DOI: 
+## Evaluating path query mechanisms as a foundation for SDN network control
+- DOI: ?
 - CITATION: Gao, S., Shrivastava, S., Ogan, K., Baldin, I., & Xin, Y. (2018, June). Evaluating path query mechanisms as a foundation for SDN network control. IEEE Conference on Network Softwarization (Netsoft). Montreal, Canada
 
-## ?
-- DOI: 
+## HydroShare and iRODS: How iRODS manages data for a hydrology community of 1000’s of users
+- DOI: ?
 - CITATION: Idaszak, R, Tarboton, D.G. (PI), Yi, H., Calloway, C., Wang, S., Horsburgh, J., Ames, D., Clark, M., Goodall, J., Couch, A., Castronova., T., Bandaragoda, C., Seul, M., Henderson, M., & Doan, P. (2018, June). HydroShare and iRODS: How iRODS manages data for a hydrology community of 1000’s of users. iRODS User Group Meeting. Durham, NC. 
 
-## ?
-- DOI: 
-- CITATION: Jackson, L.M., Fernando, P.C., Hanscom, J.S., Balhoff, J.P., & Mabee, P.M. (2018). Automated integration of trees and traits: A case study using paired fin loss across teleost fishes. Systematic Biology, 67, 559–575
-
-## ?
+## Networks of blood proteins in the neuroimmunology of schizophrenia
 - DOI: 10.1038/s41398-018-0158-y
 - CITATION: Jeffries, C.D., Perkins, D.O., Fournier, M., Do, K.Q., Cuenod, M., Khadimallah, I., Domenici, E., Addington, J., Bearden, C.E., Cadenhead, K.S., Cannon, T.D., Cornblatt, B.A., Mathalon, D.H., McGlashan, T.H., Seidman, L.J., Tsuang, M., Walker, E.F., & Woods, S.W. (2018). Networks of blood proteins in the neuroimmunology of schizophrenia. Translational Psychiatry, 8(1), 112. - doi: 10.1038/s41398-018-0158-y
 
-## ?
+## Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)
 - DOI: 10.5334/jors.184
 Katz, D. S., Niemeyer, K. E., Gesing, S., Hwang, L., Bangerth, W., Hettrick, S., … Lago, P. (2018). Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4). Journal of Open Research Software, 6(1), - 10. DOI: http://doi.org/10.5334/jors.184
 
-## ?
-- DOI: 
+## Cyberinfrastructure for enhancing interdisciplinary engagement in coastal risk management research
+- DOI: ?
 - CITATION: Karancia, A., Stillwell, L., Lenhardt, W.C., & Dietrich, C. (2018, June). Cyberinfrastructure for enhancing interdisciplinary engagement in coastal risk management research. iEMSs 2018. Fort Collins, CO. 
 
-## ?
+## Detecting outliers in network transfers with feature extraction
 - DOI: 
 - CITATION: Kiran, M., Wang, C., Rao, N.S.V. & Mandal, A. (2018, July). Detecting outliers in network transfers with feature extraction. DISE1: Joint Workshop on Deep (or Machine) Learning for Safety-Critical Applications in Engineering, co-located with 35th International Conference on Machine Learning. Stockholm, Sweden
 
-## ?
+## NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data
 - DOI: 
 - CITATION: Lenhardt, W. C., & Blanton. B. (2018). NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data (pp. 1-42, Rep.). Chapel Hill, NC: RENCI, UNC-Chapel Hill
 
-## ?
-- DOI: 
-- CITATION: Morton, M., Werner, J., Kintis, P., Snow, K., Antonakakis, M., Polychronakis, M., & Monrose, F. (2018, April). Security risks in asynchronous web servers: When performance optimizations amplify the impact of data-oriented attacks. 3rd IEEE European Symposium on Security and Privacy. London, United Kingdom
-
-## ?
-- DOI: 
+## Routing path optimization for regulating delays in wide-area controllers implemented over cloud networks
+- DOI: ?
 - CITATION: Ni, H., Rahouti, M., Chakrabortty, A., Xiong, K., & Xin, Y. (2018, August). Routing path optimization for regulating delays in wide-area controllers implemented over cloud networks. IEEE PES General Meeting. Portland, OR. 
 
-Rajasekar, A., Lander, H, & Lenhardt, W.C. (2018, January). Analytics for earth science data discovery: Applying DataBridge to long-tail and large data collections in the earth and environmental sciences. ESIP Winter Meeting. Bethesda, MD
+## Analytics for earth science data discovery: Applying DataBridge to long-tail and large data collections in the earth and environmental sciences
+- DOI: ?
+- CITATION: Rajasekar, A., Lander, H, & Lenhardt, W.C. (2018, January). Analytics for earth science data discovery: Applying DataBridge to long-tail and large data collections in the earth and environmental sciences. ESIP Winter Meeting. Bethesda, MD
 
-## ?
-- DOI: 
+## Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO
+- DOI: ?
 - CITATION: Ramirez, G., Sarino, F., Tilson, J.L., & Ermler, W.C. Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO. Journal of Chemistry (under review)
 
-## ?
+## ???
 - DOI: 
 - CITATION: Schmitt, C. Chase, J., Baldin, I., Coposky, J., Shoffner, M., Lamm, B., & Mostafa, J. (2018). US Patent No. 9984245B2. Chapel Hill, NC
 
-## ?
-- DOI: 
-- CITATION: Yi, H., Idaszak, R., Stealey, M., Calloway, C., Couch, A.L., & Tarboton, D.G. (2018). Advancing distributed data management for the HydroShare hydrologic information system. Elsevier Environmental Modelling & Software, 102, 233–240
 
-## ?
-- DOI: 
-- CITATION: Seinfeld,,S. Arroyo-Palacios, J., Iruretagoyena, G., Hortensius, R., Zapata, L.E., Borland, D., de Gelder, B., Slater, M., & Sanchez-Vives, M.V. (2018). Offenders become the victim in virtual reality: impact of changing perspective in domestic violence. Scientific Reports, 8(1), 2692. 
-
-## ?
+## Probabilistic Hurricane Track Generation for Storm Surge Prediction
 - DOI: 
 - CITATION: Smith, J. L. (2018). Probabilistic Hurricane Track Generation for Storm Surge Prediction (Master’s thesis, UNC-Chapel Hill, 2018) (pp. 1-31). Chapel Hill: 2017
 
-## ?
-- DOI: 
-- CITATION: Yao, Y., Cao, Q., Farias, R., Chase, J., Orlikowski, V., Ruth, P., Cevik, M., Wang, C., & Buraglio, N. (2018, April). Toward live inter-domain network services on the ExoGENI testbed. IEEE International Conference on Computer Communications. Honolulu, HI. 
+==========
 
-## ?
-- DOI: 
-- CITATION: Zhang, T. & Xin, Y. (2018, April). A truthful online auction mechanism for deadline-aware cloud resource allocation. IEEE/IFIP Network Operations and Management Symposium (NOMS) 2018. Taipei, Taiwan. 
-
-## ?
-- DOI: 
-- CITATION: Zheutlin, A.B., Jeffries, C.D., Perkins, D.O., Chung, Y., Chekroud, A.M., Addington, J., Bearden, C.E., Cadenhead, K.S., Cornblatt, B.A., Mathalon, D.H., McGlashan, T.H., Seidman, L.J., Walker, E.F., Woods, S.W., Tsuang, M., & Cannon, T.D. (2018). The Role of microRNA Expression in Cortical Development During Conversion to Psychosis. Neuropsychopharmacology: official publication of the American College of Neuropsychopharmacology, 42(11), 2188-2195. 
-
-TITLE: A truthful online auction mechanism for deadline-aware cloud resource allocation
+## A truthful online auction mechanism for deadline-aware cloud resource allocation
 DOI: 10.1109/noms.2018.8406240
 
 ==========
 
-TITLE: Advancing distributed data management for the HydroShare hydrologic information system
+## Advancing distributed data management for the HydroShare hydrologic information system
 DOI: 10.1016/j.envsoft.2017.12.008 
 
 ==========
 
-TITLE: An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 1 – Decision Support System
+## An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 1 – Decision Support System
 DOI: 10.1111/risa.12990 
 
 ==========
 
-TITLE: An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 2 – Hazard modeling
+## An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 2 – Hazard modeling
 DOI: 10.1111/risa.13004 
 
 ==========
 
-TITLE: Analytics for Earth Science Data Discovery: Applying DataBridge to Long-tail and Large Data Collections in the Earth and Environmental Sciences
-DOI: ?
-
-==========
-
-TITLE: Automated Integration of Trees and Traits: A Case Study Using Paired Fin Loss Across Teleost Fishes
+## Automated Integration of Trees and Traits: A Case Study Using Paired Fin Loss Across Teleost Fishes
 DOI: 10.1093/sysbio/syx098 
 
 ==========
 
-TITLE: Cachalot: A Network-Aware, Cooperative Cache Network for Geo-Distributed, Data-Intensive Applications
+## Cachalot: A Network-Aware, Cooperative Cache Network for Geo-Distributed, Data-Intensive Applications
 DOI: 10.1109/noms.2018.8406273 
 
 ==========
 
-TITLE: Community-based Modeling Forum in Support of Integrated Water Prediction
+## Community-based Modeling Forum in Support of Integrated Water Prediction
 DOI: ?
 
 ==========
 
-TITLE: Contextual visualization: making the unseen visible to combat bias during visual analysis
+## Data Translator Hackathon
 DOI: ?
 
 ==========
 
-TITLE: Coping with "Big Data" in Research Computing
+## Dual View: multivariate visualization using linked layouts of objects and dimensions
 DOI: ?
 
 ==========
 
-TITLE: Cyberinfrastructure for Enhancing Interdisciplinary Engagement in Coastal Risk Management Research
-DOI: ?
-
-==========
-
-TITLE: Data Translator Hackathon
-DOI: ?
-
-==========
-
-TITLE: Detecting Outliers in Network Transfers with Feature Extraction
-DOI: ?
-
-==========
-
-TITLE: Dual View: multivariate visualization using linked layouts of objects and dimensions
-DOI: ?
-
-==========
-
-TITLE: Evaluating Path Query Mechanisms as a Foundation for SDN Network Control
+## Evaluating Path Query Mechanisms as a Foundation for SDN Network Control
 DOI: 10.1109/netsoft.2018.8460116 
 
 ==========
 
-TITLE: Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)
+## Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)
 DOI: 10.5334/jors.184 
 
 ==========
 
-TITLE: HydroShare and iRODS: How iRODS Manages Data for a Hydrology Community of 1000's of Users
+## Increasing understanding of survey re-weighting with visualization
 DOI: ?
 
 ==========
 
-TITLE: Increasing understanding of survey re-weighting with visualization
-DOI: ?
-
-==========
-
-TITLE: Methods, Systems, and Computer Readable Media for Providing a Secure Virtual Research Space
+## Methods, Systems, and Computer Readable Media for Providing a Secure Virtual Research Space
 DOI: ?
 PATENT
 
 ==========
 
-TITLE: NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data
-DOI: ?
-
-==========
-
-TITLE: Networks of blood proteins in the neuroimmunology of schizophrenia.
+## Networks of blood proteins in the neuroimmunology of schizophrenia.
 DOI: 10.1038/s41398-018-0158-y 
 
 ==========
 
-TITLE: Offenders become the victim in virtual reality: impact of changing perspective in domestic violence
+## Offenders become the victim in virtual reality: impact of changing perspective in domestic violence
 DOI: 10.1038/s41598-018-19987-7 
 
 ==========
 
-TITLE: Ontology-based interactive visualization of patient-generated research questions
+## Ontology-based interactive visualization of patient-generated research questions
 DOI: ?
 
 ==========
 
-TITLE: Probabilistic Hurricane Track Generation for Storm Surge Prediction
+## Probabilistic Hurricane Track Generation for Storm Surge Prediction
 DOI: ?
 
 ==========
 
-TITLE: Probabilistic Track Generation for Hurricane Storm Surge Estimates
+## Probabilistic Track Generation for Hurricane Storm Surge Estimates
 DOI: ?
 
 ==========
 
-TITLE: Rethinking Flood Analytics
+## Rethinking Flood Analytics
 DOI: ?
 
 ==========
 
-TITLE: ROUTING PATH OPTIMIZATION FOR REGULATING DELAYS IN WIDE-AREA CONTROLLERS IMPLEMENTED OVER CLOUD NETWORK
-DOI: ?
-
-==========
-
-TITLE: Security Risks in Asynchronous Web Servers: When Performance Optimizations Amplify the Impact of Data-Oriented Attacks
+## Security Risks in Asynchronous Web Servers: When Performance Optimizations Amplify the Impact of Data-Oriented Attacks
 DOI: 10.1109/eurosp.2018.00020 
 
 ==========
 
-TITLE: Spin-Orbit Con􀄗guration Interaction Calculations of Electronic Transition Energies and Spectral Properties of PbO
-DOI: ?
-
-==========
-
-TITLE: The Cell Cycle Browser: an interactive tool for visualizing, simulating, and perturbing cell cycle progression
+## The Cell Cycle Browser: an interactive tool for visualizing, simulating, and perturbing cell cycle progression
 DOI: 10.1101/234039 
 
 ==========
 
-TITLE: The Future of CISE Distributed Research Infrastructure
+## The Future of CISE Distributed Research Infrastructure
 DOI: 10.1145/3213232.3213239 
 
 ==========
 
-TITLE: Toward Live Inter-Domain Network Services on the ExoGENI Testbed
+## Toward Live Inter-Domain Network Services on the ExoGENI Testbed
 DOI: 10.1109/infcomw.2018.8407026 
 
 ==========
 
-TITLE: Upper elementary students’ explanations of “why ice melts” and the influence of haptic force feedback
+## Upper elementary students’ explanations of “why ice melts” and the influence of haptic force feedback
 DOI: ?
 
 ==========
 
-TITLE: Variability in coastal flooding predictions due to forecast errors during Hurricane Arthur
+## Variability in coastal flooding predictions due to forecast errors during Hurricane Arthur
 DOI: 10.1016/j.coastaleng.2018.02.008 
 
 ==========
 
-TITLE: Visual cohort queries for high-dimensional data: a design study
-DOI: ?
-
-==========
-
-TITLE: Visualizing Information
+## Visual cohort queries for high-dimensional data: a design study
 DOI: ?
