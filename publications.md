@@ -1105,12 +1105,12 @@ Parallel Programming. Bangalore, India, January 2010.
 # 2014
 
 
-## ?
-- DOI: 
+## A Scientist’s Perspective on Sustainable Scientific Software
+- DOI: 10.5334/jors.ba
 - CITATION: Blanton, B and Lenhardt, C. (2014). A Scientist’s Perspective on Sustainable Scientific Software. Journal of Open Research Software. 2(1):e17, http://dx.doi.org/10.5334/jors.ba
 
-## ?
-- DOI: 
+## Variant calling in low-coverage whole genome sequencing of a Native American population sample
+- DOI: 10.1186/1471-2164-15-85
 - CITATION: Bizon, C., Spiegel M., Chasse S.A., Gizer I.R., Li Y., Malc E.P., Mieczkowski P.A., Sailsbery J.K., Wang X., Ehlers C.L., Wilhelmsen, K.C. (2014). Variant calling in low-coverage whole genome sequencing of a Native American population sample, BMC Genomics. 15(85).
 
 ## ?
@@ -2112,3 +2112,181 @@ Rajasekar, A., Lander, H, & Lenhardt, W.C. (2018, January). Analytics for earth 
 - DOI: 
 - CITATION: Zheutlin, A.B., Jeffries, C.D., Perkins, D.O., Chung, Y., Chekroud, A.M., Addington, J., Bearden, C.E., Cadenhead, K.S., Cornblatt, B.A., Mathalon, D.H., McGlashan, T.H., Seidman, L.J., Walker, E.F., Woods, S.W., Tsuang, M., & Cannon, T.D. (2018). The Role of microRNA Expression in Cortical Development During Conversion to Psychosis. Neuropsychopharmacology: official publication of the American College of Neuropsychopharmacology, 42(11), 2188-2195. 
 
+TITLE: A truthful online auction mechanism for deadline-aware cloud resource allocation
+DOI: 10.1109/noms.2018.8406240
+
+==========
+
+TITLE: Advancing distributed data management for the HydroShare hydrologic information system
+DOI: 10.1016/j.envsoft.2017.12.008 
+
+==========
+
+TITLE: An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 1 – Decision Support System
+DOI: 10.1111/risa.12990 
+
+==========
+
+TITLE: An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 2 – Hazard modeling
+DOI: 10.1111/risa.13004 
+
+==========
+
+TITLE: Analytics for Earth Science Data Discovery: Applying DataBridge to Long-tail and Large Data Collections in the Earth and Environmental Sciences
+DOI: ?
+
+==========
+
+TITLE: Automated Integration of Trees and Traits: A Case Study Using Paired Fin Loss Across Teleost Fishes
+DOI: 10.1093/sysbio/syx098 
+
+==========
+
+TITLE: Cachalot: A Network-Aware, Cooperative Cache Network for Geo-Distributed, Data-Intensive Applications
+DOI: 10.1109/noms.2018.8406273 
+
+==========
+
+TITLE: Community-based Modeling Forum in Support of Integrated Water Prediction
+DOI: ?
+
+==========
+
+TITLE: Contextual visualization: making the unseen visible to combat bias during visual analysis
+DOI: ?
+
+==========
+
+TITLE: Coping with "Big Data" in Research Computing
+DOI: ?
+
+==========
+
+TITLE: Cyberinfrastructure for Enhancing Interdisciplinary Engagement in Coastal Risk Management Research
+DOI: ?
+
+==========
+
+TITLE: Data Translator Hackathon
+DOI: ?
+
+==========
+
+TITLE: Detecting Outliers in Network Transfers with Feature Extraction
+DOI: ?
+
+==========
+
+TITLE: Dual View: multivariate visualization using linked layouts of objects and dimensions
+DOI: ?
+
+==========
+
+TITLE: Evaluating Path Query Mechanisms as a Foundation for SDN Network Control
+DOI: 10.1109/netsoft.2018.8460116 
+
+==========
+
+TITLE: Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)
+DOI: 10.5334/jors.184 
+
+==========
+
+TITLE: HydroShare and iRODS: How iRODS Manages Data for a Hydrology Community of 1000's of Users
+DOI: ?
+
+==========
+
+TITLE: Increasing understanding of survey re-weighting with visualization
+DOI: ?
+
+==========
+
+TITLE: Methods, Systems, and Computer Readable Media for Providing a Secure Virtual Research Space
+DOI: ?
+PATENT
+
+==========
+
+TITLE: NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data
+DOI: ?
+
+==========
+
+TITLE: Networks of blood proteins in the neuroimmunology of schizophrenia.
+DOI: 10.1038/s41398-018-0158-y 
+
+==========
+
+TITLE: Offenders become the victim in virtual reality: impact of changing perspective in domestic violence
+DOI: 10.1038/s41598-018-19987-7 
+
+==========
+
+TITLE: Ontology-based interactive visualization of patient-generated research questions
+DOI: ?
+
+==========
+
+TITLE: Probabilistic Hurricane Track Generation for Storm Surge Prediction
+DOI: ?
+
+==========
+
+TITLE: Probabilistic Track Generation for Hurricane Storm Surge Estimates
+DOI: ?
+
+==========
+
+TITLE: Rethinking Flood Analytics
+DOI: ?
+
+==========
+
+TITLE: ROUTING PATH OPTIMIZATION FOR REGULATING DELAYS IN WIDE-AREA CONTROLLERS IMPLEMENTED OVER CLOUD NETWORK
+DOI: ?
+
+==========
+
+TITLE: Security Risks in Asynchronous Web Servers: When Performance Optimizations Amplify the Impact of Data-Oriented Attacks
+DOI: 10.1109/eurosp.2018.00020 
+
+==========
+
+TITLE: Spin-Orbit Con􀄗guration Interaction Calculations of Electronic Transition Energies and Spectral Properties of PbO
+DOI: ?
+
+==========
+
+TITLE: The Cell Cycle Browser: an interactive tool for visualizing, simulating, and perturbing cell cycle progression
+DOI: 10.1101/234039 
+
+==========
+
+TITLE: The Future of CISE Distributed Research Infrastructure
+DOI: 10.1145/3213232.3213239 
+
+==========
+
+TITLE: Toward Live Inter-Domain Network Services on the ExoGENI Testbed
+DOI: 10.1109/infcomw.2018.8407026 
+
+==========
+
+TITLE: Upper elementary students’ explanations of “why ice melts” and the influence of haptic force feedback
+DOI: ?
+
+==========
+
+TITLE: Variability in coastal flooding predictions due to forecast errors during Hurricane Arthur
+DOI: 10.1016/j.coastaleng.2018.02.008 
+
+==========
+
+TITLE: Visual cohort queries for high-dimensional data: a design study
+DOI: ?
+
+==========
+
+TITLE: Visualizing Information
+DOI: ?
