@@ -1770,128 +1770,128 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 - DOI: 
 - CITATION: Yang, K., Davidson, R., Nozick, L., Blanton, B., and Colle, B. (2016) Scenario-Based Hazard Trees for Depicting Resolution of Hurricane Uncertainty Over Time. Natural Hazards Review, in press
 
-## ?
-- DOI: 
+## Common susceptibility variants are shared between schizophrenia and psoriasis in the Han Chinese population
+- DOI: 10.1503/jpn.150210 
 - CITATION: Yin, X., Wineinger, N.E., Wang, K., Yue, W., Nogren, N., Wang, L., Yao, W., Jiang, X., Wu, B., Cui, Y., Shen, C., Cheng, H., Zhou, F., Chen, G., Zuo, X., Zheng, X., Fan, X., Wang, H., Lee, L., Lam, M., Tai, E.S., Zhang, Z., Huang, Q., Sun, L., Xu, J., Yang, S., Wilhelmson, K.C., Liu, J., Schork, N.J., Zhang, X. (2016) Common susceptibility variants are shared between schizophrenia and psoriasis in the Han Chinese population. Journal of Psychiatry Neuroscience, 41(6), 413-421
 
-## ?
-- DOI: 
+## ADMM Optimization Strategies for Wide-Area Oscillation Monitoring in Power Systems under Asynchronous Communication Delays
+- DOI: 10.1109/tsg.2016.2547939 
 - CITATION: Zhang, J., Nabavi, S., Chakrabortty, A., & Xin, Y. (2016) ADMM Optimization Strategies for Wide-Area Oscillation Monitoring in Power Systems under Asynchronous Communication Delays. IEEE Transactions on Smart Grid. 
 
-## ?
-- DOI: 
+## Capitol Hill Briefing
+- DOI: ?
 - CITATION: Ahalt, S.C. (2016) Capitol Hill Briefing. South Big Data Hub. Washinton, DC
 
-## ?
-- DOI: 
+## NSF BD Hub PI meeting
+- DOI: ?
 - CITATION: Ahalt, S.C. (2016) NSF BD Hub PI meeting. NSF Big Data Hub Principal Investigators meeting. Arlington, VA
 
-## ?
-- DOI: 
+## RENCI Overview
+- DOI: ?
 - CITATION: Ahalt, S.C. (2016) RENCI Overview. NDS annual meeting. Chapel Hill, NC
 
-## ?
-- DOI: 
+## South Big Data Hub Overview
+- DOI: ?
 - CITATION: Ahalt, S.C. (2016) South Big Data Hub Overview. South Big Data Hub & EPA Meeting. RTP, NC
 
-## ?
-- DOI: 
+## South Big Data Hub Overview
+- DOI: ?
 - CITATION: Ahalt, S.C. South Big Data Hub Overview. South Big Data Hub Overview – CASC. Arlington, VA. March 2016
 
-## ?
-- DOI: 
+## Hydroshare: Advancing Hydrologic Big Data through Modular Visualization and Analytics
+- DOI: ?
 - CITATION: Ames, D. P., Idaszak, R., Tarboton, D.G., Band, L., Couch, A., Crawley, S., Dash, P., Jones, N., Goodall, J.L., Hooper, R., Horsburgh, J.S., (Zhiyu) Li, D., Maidment, D., Merwade, V., Nelson, J., Song, C., Stealey, M., Swain, N., Yi, H. Hydroshare: Advancing Hydrologic Big Data through Modular Visualization and Analytics. 2016 AWRA Annual Water Resources Conference. 2016
 
-## ?
-- DOI: 
+## Using Juptyer Dashboard and ipympl for Tropical Storm Emergency Management
+- DOI: ?
 - CITATION: Calloway, C.B., Blanton, B.O. Using Juptyer Dashboard and ipympl for Tropical Storm Emergency Management. Jupyter Day ATL. Georgia Tech Research Institute Conference Center. 2016
 
-## ?
-- DOI: 
+## HydroShare: Promoting Collaborative Publication, Interoperability, and Reuse of Hydrologic Data and Research Products
+- DOI: ?
 - CITATION: Horsburgh, J.S., Tarboton, D.G., Idaszak, R., Ames, D.P., Goodall, J.L., Merwade, V., Couch, A., Hooper, R.P., Dash, P., Stealey, M., Yi, H., Gan, T., Castronova, A., Miles, B., Li, Z. and Morsy, M. HydroShare: Promoting Collaborative Publication, Interoperability, and Reuse of Hydrologic Data and Research Products. iEMS 2016. 2016
 
-## ?
-- DOI: 
+## Truth or Fiction: Findings from a Research Project about Data Science in NC
+- DOI: ?
 - CITATION: Knowles, D. & McKeen, S. Truth or Fiction: Findings from a Research Project about Data Science in NC. Data 4 Decisions Conference. Raleigh, NC. 2016
 
-## ?
-- DOI: 
+## Panorama: Tools for Modeling, Monitoring, Anomaly Detection, and Adaptation for Scientific Workflows on Dynamic Networked Cloud Infrastructures
+- DOI: ?
 - CITATION: Mandal, A., Ruth, P., Baldin, I., Mayani, R., Ferreira da Silva, R., Meredith, J., Vetter, J., Lynch, V., Mayer, B., Carothers, C., Tierney, B. Panorama: Tools for Modeling, Monitoring, Anomaly Detection, and Adaptation for Scientific Workflows on Dynamic Networked Cloud Infrastructures. SCinet NRE Demonstration at SuperComputing ’16. 2016
 
-## ?
-- DOI: 
+## People Powered Earth Observation: Even Big Data Starts Small
+- DOI: ?
 - CITATION: Shanley, L.A. People Powered Earth Observation: Even Big Data Starts Small. National Academy of Sciences, Engineering and Medicine’s Committee on Earth Science and Applications from Space. Washington, DC. October 4, 2016
 
-## ?
-- DOI: 
+## South Big Data Innovation Hub
+- DOI: ?
 - CITATION: Shanley, L.A. South Big Data Innovation Hub. Earth Science Information Partnership Summer Conference. Durham, NC. May 2016
 
-## ?
-- DOI: 
+## Citizen Science: Even Big Data Starts Small
+- DOI: ?
 - CITATION: Shanley, L.A. Citizen Science: Even Big Data Starts Small. US EPA Environmental Measurement Symposium. August, 2016
 
-## ?
-- DOI: 
+## Data Quality in Federal Agencies
+- DOI: ?
 - CITATION: Shanley, L.A., Wiggins, A., Liu, S. Data Quality in Federal Agencies. Citizen Science Makers Summit 2016. Hosted by Arizona State University School for the Future of Innovation in Society. Phoenix, AZ. October 27, 2016
 
-## ?
-- DOI: 
+## South Big Data Innovation Hub
+- DOI: ?
 - CITATION: Shanley, L.A. South Big Data Innovation Hub. Earth Science Information Partnership Summer Conference. Durham, NC. May 2016
 
-## ?
-- DOI: 
+## Of the people, by the people, for the people: Open Science in government
+- DOI: ?
 - CITATION: Shanley, L.A. Of the people, by the people, for the people: Open Science in government. 2016 Shenzhen Assembly: Open Innovation and the Environment. Shenzhen, China. March 2016
 
-## ?
-- DOI: 
+## Panel on Public Private Partnerships
+- DOI: ?
 - CITATION: Shanley, L.A. Panel on Public Private Partnerships. Smart Cities Data Sharing Workshop. San Francisco, CA. October 24, 2016
 
-## ?
-- DOI: 
+## Big Data Innovation Hubs
+- DOI: ?
 - CITATION: Shanley, L.A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin, M. Big Data Innovation Hubs. White House NITRD Big Data Interagency Working Group Meeting (Washington, DC). July, 2016
 
 ## ?
 - DOI: 
 - CITATION: Shanley, L.A. Big Data Innovation Hubs in the United States: Opportunities for Public- Private Partnerships. European Union Big Data Value Association. Valencia, Spain. November 31, 2016
 
-## ?
-- DOI: 
+## South Big Data Innovation Hub
+- DOI: ?
 - CITATION: Shanley, L.A. South Big Data Innovation Hub. UNC Analytics for Policy Workshop. Chapel Hill, NC. 2016
 
-## ?
-- DOI: 
+## South Big Data Innovation Hub
+- DOI: ?
 - CITATION: Shanley, L.A. South Big Data Innovation Hub. West Big Data Innovation Hub All Hands. Berkeley, CA. May 2016
 
-## ?
-- DOI: 
+## Big Data Innovation Hubs Panel
+- DOI: ?
 - CITATION: Shanley, L.A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin, M. Big Data Innovation Hubs Panel. NSF Big Data PI Workshop. Washington, D.C. April, 2016
 
-## ?
-- DOI: 
+## Big Data Innovation Hubs
+- DOI: ?
 - CITATION: Shanley, L.A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin, M. Big Data Innovation Hubs. IEEE Big Data Summit. Washington, D.C. December 7, 2016
 
-## ?
-- DOI: 
+## South Big Data Innovation Hub
+- DOI: ?
 - CITATION: Shanley, L.A. and Conway, M. South Big Data Innovation Hub. PyData Carolinas. Durham, NC. September 16, 2016
 
-## ?
-- DOI: 
+## Panel on Open Science: Policy innovation and social impact
+- DOI: ?
 - CITATION: Shanley, L.A., Rubio-Iglesias, J.M., Shade, S., Herbst, C., Owen, R. Panel on Open Science: Policy innovation and social impact. European Citizen Science Association. Berlin, Germany. May 2016
 
-## ?
-- DOI: 
+## Location Powers Workshop to Advance Geospatial Applications of Big Data
+- DOI: ?
 - CITATION: Shanley, L.A., Wang, S., Greenbacker, C., de La Beaujardiere, J. Applications. Location Powers Workshop to Advance Geospatial Applications of Big Data. Open Geospatial Consortium and University of Central Florida. Orlando, FL. September 20, 2016
 
-## ?
-- DOI: 
+## Data Quality in Federal Agencies
+- DOI: ?
 - CITATION: Shanley, L.A., Wiggins, A., & Liu, S. Data Quality in Federal Agencies. Citizen Science Makers Summit 2016. Phoenix, AZ. October 27, 2016
 
-## ?
-- DOI: 
+## Controlling Next-Generation Electric Power Grids using High-Speed Cloud Computing
+- DOI: ?
 - CITATION: Zhang, J., Weiss, M., Chakrabortty, A., & Xin, Y. Controlling Next-Generation Electric Power Grids using High-Speed Cloud Computing. US Ignite Summit. Austin. June 13-15, 2016
 
-## ?
-- DOI: 
+## DataNet Federation Meeting
+- DOI: ?
 - CITATION: Shanley, L.A. DataNet Federation Meeting. Chapel Hill, NC. August, 2016
 
 
