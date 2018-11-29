@@ -2033,77 +2033,75 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 
 ## Cyberinfrastructure for enhancing interdisciplinary engagement in coastal risk management research
 - DOI: ?
-- TYPE: 
+- TYPE: -
 - CITATION: Karancia, A., Stillwell, L., Lenhardt, W.C., & Dietrich, C. (2018, June). Cyberinfrastructure for enhancing interdisciplinary engagement in coastal risk management research. iEMSs 2018. Fort Collins, CO. 
 
 ## Detecting outliers in network transfers with feature extraction
-- DOI: 
-- TYPE: 
+- DOI: ?
+- TYPE: Workshop
 - CITATION: Kiran, M., Wang, C., Rao, N.S.V. & Mandal, A. (2018, July). Detecting outliers in network transfers with feature extraction. DISE1: Joint Workshop on Deep (or Machine) Learning for Safety-Critical Applications in Engineering, co-located with 35th International Conference on Machine Learning. Stockholm, Sweden
+- URL: https://icml.cc/Conferences/2018/Schedule?showEvent=3327
 
 ## NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data
 - DOI: 
-- TYPE: 
+- TYPE: ?
 - CITATION: Lenhardt, W. C., & Blanton. B. (2018). NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data (pp. 1-42, Rep.). Chapel Hill, NC: RENCI, UNC-Chapel Hill
+- URL: https://collaboratory.unc.edu/files/2018/04/Collaboratory-Data-Study-Report-to-NCGA-1April2018.pdf
 
 ## Routing path optimization for regulating delays in wide-area controllers implemented over cloud networks
 - DOI: ?
-- TYPE: 
+- TYPE: Presentation
 - CITATION: Ni, H., Rahouti, M., Chakrabortty, A., Xiong, K., & Xin, Y. (2018, August). Routing path optimization for regulating delays in wide-area controllers implemented over cloud networks. IEEE PES General Meeting. Portland, OR. 
 
 ## Analytics for earth science data discovery: Applying DataBridge to long-tail and large data collections in the earth and environmental sciences
 - DOI: ?
-- TYPE: 
+- TYPE: Presentation
 - CITATION: Rajasekar, A., Lander, H, & Lenhardt, W.C. (2018, January). Analytics for earth science data discovery: Applying DataBridge to long-tail and large data collections in the earth and environmental sciences. ESIP Winter Meeting. Bethesda, MD
 
 ## Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO
 - DOI: ?
-- TYPE: 
+- TYPE: Journal Article
 - CITATION: Ramirez, G., Sarino, F., Tilson, J.L., & Ermler, W.C. Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO. Journal of Chemistry (under review)
 
 ## ???
 - DOI: 
-- TYPE: 
-- CITATION: Schmitt, C. Chase, J., Baldin, I., Coposky, J., Shoffner, M., Lamm, B., & Mostafa, J. (2018). US Patent No. 9984245B2. Chapel Hill, NC
+- TYPE: Patent
+- PATENT_NUMBER: 9984245B2
+- AUTHORS: Schmitt, C. Chase, J., Baldin, I., Coposky, J., Shoffner, M., Lamm, B., & Mostafa, J. (2018). US Patent No. 9984245B2. Chapel Hill, NC
 
-
-## Probabilistic Hurricane Track Generation for Storm Surge Prediction
-- DOI: 
-- TYPE: 
-- CITATION: Smith, J. L. (2018). Probabilistic Hurricane Track Generation for Storm Surge Prediction (Master’s thesis, UNC-Chapel Hill, 2018) (pp. 1-31). Chapel Hill: 2017
 
 ## A truthful online auction mechanism for deadline-aware cloud resource allocation
 - DOI: 10.1109/noms.2018.8406240
-- TYPE: 
+- TYPE: Conference Paper
 
 ## Advancing distributed data management for the HydroShare hydrologic information system
 - DOI: 10.1016/j.envsoft.2017.12.008 
-- TYPE: 
+- TYPE: Journal Article
 
 ## An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 1 – Decision Support System
 - DOI: 10.1111/risa.12990 
-- TYPE: 
+- TYPE: Journal Article
 
 ## An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 2 – Hazard modeling
 - DOI: 10.1111/risa.13004 
-- TYPE: 
+- TYPE: Journal Article
 
 ## Automated Integration of Trees and Traits: A Case Study Using Paired Fin Loss Across Teleost Fishes
 - DOI: 10.1093/sysbio/syx098 
-- TYPE: 
+- TYPE: Journal Article
 
 ## Cachalot: A Network-Aware, Cooperative Cache Network for Geo-Distributed, Data-Intensive Applications
 - DOI: 10.1109/noms.2018.8406273 
-- TYPE: 
+- TYPE: Conference Paper
 
 ## Community-based Modeling Forum in Support of Integrated Water Prediction
 - DOI: ?
-- TYPE: 
+- TYPE: ? Panelist
 - CITATION: NOAA’s National Ocean Service (NOS) will host a town hall to discuss the development of a community-based modeling approach to support the burgeoning NOAA Water Initiative and NOAA’s unified modeling framework.  The NOAA Water Initiative is working towards establishing boundary-spanning partnerships across multiple sectors to create and deliver integrated or ”total” water information to meet the needs around inland and coastal water issues.  A unified modeling approach will facilitate the transition of new models and upgrades by laying out the framework and standards for model coupling in order to streamline the process of sharing data sets and model code.  NOS intends to discuss its model requirements and gather feedback on ways to improve service delivery through this unified modeling effort, and better leverage the external research community to accelerate the transition of regional coastal research models into NOAA. Opportunities to foster collaboration with coastal modelers and practitioners through cloud computing and grant initiatives like the Coastal Ocean Modeling Testbed will be discussed.
 
 ## Data Translator Hackathon
 - DOI: ?
-- TYPE: 
+- TYPE: Workshop
 - CITATION: Participated in week-long hackathon for Data Translator
 
 ## Dual View: multivariate visualization using linked layouts of objects and dimensions
@@ -2115,7 +2113,7 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 
 ## Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)
 - DOI: 10.5334/jors.184 
-- TYPE: Paper
+- TYPE: Journal Article
 
 ## Increasing understanding of survey re-weighting with visualization
 - DOI: ?
@@ -2132,11 +2130,11 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 
 ## Networks of blood proteins in the neuroimmunology of schizophrenia.
 - DOI: 10.1038/s41398-018-0158-y 
-- TYPE: Paper
+- TYPE: Journal Article
 
 ## Offenders become the victim in virtual reality: impact of changing perspective in domestic violence
 - DOI: 10.1038/s41598-018-19987-7 
-- TYPE: Paper
+- TYPE: Journal Article
 
 ## Ontology-based interactive visualization of patient-generated research questions
 - DOI: ?
@@ -2154,8 +2152,9 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 
 ## Rethinking Flood Analytics
 - DOI: ?
-- TYPE: 
+- TYPE: ?
 - CITATION: This report draws from the vision of a flood-resilient nation and its associated challenges to address the current state of analytics and a “blue sky” set of principles that guides where analytics may lead. It then seeks to bridge the gaps between where flood analytics stands and the finish line by identifying key research and development needs and opportunities. Finally, it discusses opportunities within the Flood Apex Program and among other academic and agency efforts for inclusion and collaboration to rethink flood analytics
+- URL: http://coastalresiliencecenter.unc.edu/wp-content/uploads/2018/04/CRC-FloodAnalytics-Colloquium-Report.pdf
 
 ## Security Risks in Asynchronous Web Servers: When Performance Optimizations Amplify the Impact of Data-Oriented Attacks
 - DOI: 10.1109/eurosp.2018.00020 
@@ -2167,7 +2166,7 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 
 ## The Future of CISE Distributed Research Infrastructure
 - DOI: 10.1145/3213232.3213239 
-- TYPE: Paper
+- TYPE: Journal Article
 
 ## Toward Live Inter-Domain Network Services on the ExoGENI Testbed
 - DOI: 10.1109/infcomw.2018.8407026 
