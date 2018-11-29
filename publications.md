@@ -2007,192 +2007,229 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 
 ## Contextual visualization: making the unseen visible to combat bias during visual analysis
 - DOI: ?
+- TYPE: Journal Article
 - CITATION: Borland, D., Wang, W., & Gotz, D. Contextual visualization: making the unseen visible to combat bias during visual analysis. (2018). IEEE Computer Graphics and Applications. Accepted for publication
 
 ## Visualizing Information
 - DOI: ?
+- TYPE: Presentation
 - CITATION: Borland, D. Visualizing Information. Duke Center for Health Informatics Short Course. U.S. Food and Drug Administration. March 16, 2018
 
 ## Coping with “Big Data” in research computing
 - DOI: ?
+- TYPE: Presentation
 - CITATION: Fellinger, D. (2018, February). Coping with “Big Data” in research computing. eResearch New Zealand. Queenstown, New Zealand
+- URL: https://az659834.vo.msecnd.net/eventsairseasiaprod/production-uoaevents-public/fcf6dd8a1ab649d8b1476319c156e634
 
 ## Evaluating path query mechanisms as a foundation for SDN network control
-- DOI: ?
+- DOI: 10.1109/netsoft.2018.8460116 
+- TYPE: Presentation
 - CITATION: Gao, S., Shrivastava, S., Ogan, K., Baldin, I., & Xin, Y. (2018, June). Evaluating path query mechanisms as a foundation for SDN network control. IEEE Conference on Network Softwarization (Netsoft). Montreal, Canada
 
 ## HydroShare and iRODS: How iRODS manages data for a hydrology community of 1000’s of users
 - DOI: ?
+- TYPE: Presentation
 - CITATION: Idaszak, R, Tarboton, D.G. (PI), Yi, H., Calloway, C., Wang, S., Horsburgh, J., Ames, D., Clark, M., Goodall, J., Couch, A., Castronova., T., Bandaragoda, C., Seul, M., Henderson, M., & Doan, P. (2018, June). HydroShare and iRODS: How iRODS manages data for a hydrology community of 1000’s of users. iRODS User Group Meeting. Durham, NC. 
-
-## Networks of blood proteins in the neuroimmunology of schizophrenia
-- DOI: 10.1038/s41398-018-0158-y
-- CITATION: Jeffries, C.D., Perkins, D.O., Fournier, M., Do, K.Q., Cuenod, M., Khadimallah, I., Domenici, E., Addington, J., Bearden, C.E., Cadenhead, K.S., Cannon, T.D., Cornblatt, B.A., Mathalon, D.H., McGlashan, T.H., Seidman, L.J., Tsuang, M., Walker, E.F., & Woods, S.W. (2018). Networks of blood proteins in the neuroimmunology of schizophrenia. Translational Psychiatry, 8(1), 112. - doi: 10.1038/s41398-018-0158-y
-
-## Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)
-- DOI: 10.5334/jors.184
-Katz, D. S., Niemeyer, K. E., Gesing, S., Hwang, L., Bangerth, W., Hettrick, S., … Lago, P. (2018). Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4). Journal of Open Research Software, 6(1), - 10. DOI: http://doi.org/10.5334/jors.184
 
 ## Cyberinfrastructure for enhancing interdisciplinary engagement in coastal risk management research
 - DOI: ?
+- TYPE: 
 - CITATION: Karancia, A., Stillwell, L., Lenhardt, W.C., & Dietrich, C. (2018, June). Cyberinfrastructure for enhancing interdisciplinary engagement in coastal risk management research. iEMSs 2018. Fort Collins, CO. 
 
 ## Detecting outliers in network transfers with feature extraction
 - DOI: 
+- TYPE: 
 - CITATION: Kiran, M., Wang, C., Rao, N.S.V. & Mandal, A. (2018, July). Detecting outliers in network transfers with feature extraction. DISE1: Joint Workshop on Deep (or Machine) Learning for Safety-Critical Applications in Engineering, co-located with 35th International Conference on Machine Learning. Stockholm, Sweden
 
 ## NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data
 - DOI: 
+- TYPE: 
 - CITATION: Lenhardt, W. C., & Blanton. B. (2018). NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data (pp. 1-42, Rep.). Chapel Hill, NC: RENCI, UNC-Chapel Hill
 
 ## Routing path optimization for regulating delays in wide-area controllers implemented over cloud networks
 - DOI: ?
+- TYPE: 
 - CITATION: Ni, H., Rahouti, M., Chakrabortty, A., Xiong, K., & Xin, Y. (2018, August). Routing path optimization for regulating delays in wide-area controllers implemented over cloud networks. IEEE PES General Meeting. Portland, OR. 
 
 ## Analytics for earth science data discovery: Applying DataBridge to long-tail and large data collections in the earth and environmental sciences
 - DOI: ?
+- TYPE: 
 - CITATION: Rajasekar, A., Lander, H, & Lenhardt, W.C. (2018, January). Analytics for earth science data discovery: Applying DataBridge to long-tail and large data collections in the earth and environmental sciences. ESIP Winter Meeting. Bethesda, MD
 
 ## Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO
 - DOI: ?
+- TYPE: 
 - CITATION: Ramirez, G., Sarino, F., Tilson, J.L., & Ermler, W.C. Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO. Journal of Chemistry (under review)
 
 ## ???
 - DOI: 
+- TYPE: 
 - CITATION: Schmitt, C. Chase, J., Baldin, I., Coposky, J., Shoffner, M., Lamm, B., & Mostafa, J. (2018). US Patent No. 9984245B2. Chapel Hill, NC
 
 
 ## Probabilistic Hurricane Track Generation for Storm Surge Prediction
 - DOI: 
+- TYPE: 
 - CITATION: Smith, J. L. (2018). Probabilistic Hurricane Track Generation for Storm Surge Prediction (Master’s thesis, UNC-Chapel Hill, 2018) (pp. 1-31). Chapel Hill: 2017
 
-==========
-
 ## A truthful online auction mechanism for deadline-aware cloud resource allocation
-DOI: 10.1109/noms.2018.8406240
-
-==========
+- DOI: 10.1109/noms.2018.8406240
+- TYPE: 
 
 ## Advancing distributed data management for the HydroShare hydrologic information system
-DOI: 10.1016/j.envsoft.2017.12.008 
-
-==========
+- DOI: 10.1016/j.envsoft.2017.12.008 
+- TYPE: 
 
 ## An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 1 – Decision Support System
-DOI: 10.1111/risa.12990 
-
-==========
+- DOI: 10.1111/risa.12990 
+- TYPE: 
 
 ## An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 2 – Hazard modeling
-DOI: 10.1111/risa.13004 
-
-==========
+- DOI: 10.1111/risa.13004 
+- TYPE: 
 
 ## Automated Integration of Trees and Traits: A Case Study Using Paired Fin Loss Across Teleost Fishes
-DOI: 10.1093/sysbio/syx098 
-
-==========
+- DOI: 10.1093/sysbio/syx098 
+- TYPE: 
 
 ## Cachalot: A Network-Aware, Cooperative Cache Network for Geo-Distributed, Data-Intensive Applications
-DOI: 10.1109/noms.2018.8406273 
-
-==========
+- DOI: 10.1109/noms.2018.8406273 
+- TYPE: 
 
 ## Community-based Modeling Forum in Support of Integrated Water Prediction
-DOI: ?
-
-==========
+- DOI: ?
+- TYPE: 
+- CITATION: NOAA’s National Ocean Service (NOS) will host a town hall to discuss the development of a community-based modeling approach to support the burgeoning NOAA Water Initiative and NOAA’s unified modeling framework.  The NOAA Water Initiative is working towards establishing boundary-spanning partnerships across multiple sectors to create and deliver integrated or ”total” water information to meet the needs around inland and coastal water issues.  A unified modeling approach will facilitate the transition of new models and upgrades by laying out the framework and standards for model coupling in order to streamline the process of sharing data sets and model code.  NOS intends to discuss its model requirements and gather feedback on ways to improve service delivery through this unified modeling effort, and better leverage the external research community to accelerate the transition of regional coastal research models into NOAA. Opportunities to foster collaboration with coastal modelers and practitioners through cloud computing and grant initiatives like the Coastal Ocean Modeling Testbed will be discussed.
 
 ## Data Translator Hackathon
-DOI: ?
-
-==========
+- DOI: ?
+- TYPE: 
+- CITATION: Participated in week-long hackathon for Data Translator
 
 ## Dual View: multivariate visualization using linked layouts of objects and dimensions
-DOI: ?
-
-==========
-
-## Evaluating Path Query Mechanisms as a Foundation for SDN Network Control
-DOI: 10.1109/netsoft.2018.8460116 
-
-==========
+- DOI: ?
+- TYPE: Poster
+- EVENT: IEEE VIS 2018
+- AUTHORS: D. Borland, D. Gotz.
+- URL: http://ieeevis.org/year/2018/info/posters
 
 ## Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)
-DOI: 10.5334/jors.184 
-
-==========
+- DOI: 10.5334/jors.184 
+- TYPE: Paper
 
 ## Increasing understanding of survey re-weighting with visualization
-DOI: ?
-
-==========
+- DOI: ?
+- TYPE: Poster
+- EVENT: IEEE VIS 2018. 2018.
+- AUTHORS: Y. Zhang, D. Borland, D. Gotz.
+- URL: http://ieeevis.org/year/2018/info/posters
 
 ## Methods, Systems, and Computer Readable Media for Providing a Secure Virtual Research Space
-DOI: ?
-PATENT
-
-==========
+- DOI: ?
+- TYPE: Patent
+- PATENT_NUMBER: ?
+- DESCRIPTION: Methods, systems, and computer readable media for providing a secure virtual research space are disclosed. According to one aspect, a system for providing a secure virtual research space includes: a data grid for storing and managing data to be shared among multiple collaborative partners, the data grid comprising at least one data storage device; at least one virtual network appliance, each virtual network appliance comprising a hardware processor for providing controlled access to shared data on the data grid by a user; and a data leakage protection mechanism for preventing unauthorized transfer of data out of the secure virtual research space.
 
 ## Networks of blood proteins in the neuroimmunology of schizophrenia.
-DOI: 10.1038/s41398-018-0158-y 
-
-==========
+- DOI: 10.1038/s41398-018-0158-y 
+- TYPE: Paper
 
 ## Offenders become the victim in virtual reality: impact of changing perspective in domestic violence
-DOI: 10.1038/s41598-018-19987-7 
-
-==========
+- DOI: 10.1038/s41598-018-19987-7 
+- TYPE: Paper
 
 ## Ontology-based interactive visualization of patient-generated research questions
-DOI: ?
-
-==========
-
-## Probabilistic Hurricane Track Generation for Storm Surge Prediction
-DOI: ?
-
-==========
+- DOI: ?
+- TYPE: Presentation
+- EVENT: 2018 Workshop on Visual Analytics in Healthcare (VAHC 2018)
+- CITATION: D. Borland, L. Christopherson, and C. Schmitt. Ontology-based interactive visualization of patient-generated research questions. 2018 Workshop on Visual Analytics in Healthcare (VAHC 2018). 2018.
+- URL: https://www.visualanalyticshealthcare.org/docs/VAHC-2018-Schedule.pdf
 
 ## Probabilistic Track Generation for Hurricane Storm Surge Estimates
-DOI: ?
-
-==========
+- DOI: ?
+- TYPE: Master's Thesis
+- AUTHOR: Jessica L. Smith
+- CITATION: Storm surge is a major source of devastation for hurricane events, and as such it is important to understand the uncertainty associated with storm surge forecasting. Uncertainty in predicted storm surge can be quantified by synthesizing a suite of probable storm tracks that are based on errors in predictions of previous hurricanes and computing storm surge with a suitable model. Davis et al (2010) developed an approach to track generation based on cross track errors in the official National Hurricane Center forecast tracks. In this work, we extend the methods from Davis et al (2010) to include along track and maximum wind speed errors. Errors in the NHC forecasts are used to compute probability distributions that are sampled to generate synthetic tracks on either side of the official forecast, with each track having an equal likelihood of occurrence. Storm surge for each track is then computed with the ADCIRC model (Westerink et al, 2008) to generate probability of exceedance maps and worst-case potential storm surge (maximum of maximums).
+- URL: https://cdr.lib.unc.edu/indexablecontent/uuid:1021fc4d-0b0f-497f-a7bd-c4b82b455739
 
 ## Rethinking Flood Analytics
-DOI: ?
-
-==========
+- DOI: ?
+- TYPE: 
+- CITATION: This report draws from the vision of a flood-resilient nation and its associated challenges to address the current state of analytics and a “blue sky” set of principles that guides where analytics may lead. It then seeks to bridge the gaps between where flood analytics stands and the finish line by identifying key research and development needs and opportunities. Finally, it discusses opportunities within the Flood Apex Program and among other academic and agency efforts for inclusion and collaboration to rethink flood analytics
 
 ## Security Risks in Asynchronous Web Servers: When Performance Optimizations Amplify the Impact of Data-Oriented Attacks
-DOI: 10.1109/eurosp.2018.00020 
-
-==========
+- DOI: 10.1109/eurosp.2018.00020 
+- TYPE: Conference Paper
 
 ## The Cell Cycle Browser: an interactive tool for visualizing, simulating, and perturbing cell cycle progression
-DOI: 10.1101/234039 
-
-==========
+- DOI: 10.1101/234039 
+- TYPE: Posted Content
 
 ## The Future of CISE Distributed Research Infrastructure
-DOI: 10.1145/3213232.3213239 
-
-==========
+- DOI: 10.1145/3213232.3213239 
+- TYPE: Paper
 
 ## Toward Live Inter-Domain Network Services on the ExoGENI Testbed
-DOI: 10.1109/infcomw.2018.8407026 
-
-==========
+- DOI: 10.1109/infcomw.2018.8407026 
+- TYPE: Conference Paper
 
 ## Upper elementary students’ explanations of “why ice melts” and the influence of haptic force feedback
-DOI: ?
-
-==========
+- DOI: ?
+- TYPE: Presentation
+- CITATION: J. Minogue, D. Hunter, D. Borland, and M. Russo. Upper elementary students’ explanations of “why ice melts” and the influence of haptic force feedback. 2018 NARST Annual International Conference. 2018.
+- URL: https://www.narst.org/annualconference/2018_NARST_Clickable_Conference_Program.pdf
 
 ## Variability in coastal flooding predictions due to forecast errors during Hurricane Arthur
-DOI: 10.1016/j.coastaleng.2018.02.008 
-
-==========
+- DOI: 10.1016/j.coastaleng.2018.02.008 
+- TYPE: Journal Article
 
 ## Visual cohort queries for high-dimensional data: a design study
-DOI: ?
+- DOI: ?
+- TYPE: Presentation
+- EVENT: 2018 Workshop on Visual Analytics in Healthcare (VAHC 2018)
+- CITATION: W. Zhao, D. Borland, A. E. Chung, and D. Gotz. Visual cohort queries for high-dimensional data: a design study. 2018 Workshop on Visual Analytics in Healthcare (VAHC 2018). 2018.
+- URL: https://www.visualanalyticshealthcare.org/docs/VAHC-2018-Schedule.pdf
+
+## Arachne: an OWL RL Reasoner Applied to Gene Ontology Causal Activity Models (and Beyond)
+- TYPE: Presentation
+- ABSTRACT: This paper introduces Arachne, an RDF rule engine with support for
+efficient reasoning with large OWL RL terminologies. Arachne is being used by
+the Gene Ontology (GO) Consortium to provide real-time reasoning within the
+Noctua modeling tool while creating GO “Causal Activity Models”.
+- URL: http://ceur-ws.org/Vol-2180/
+
+## Practical Experiences in Advanced Data Discovery: The DataBridge for Neuroscience project
+- TYPE: Poster
+- EVENT: NeuroInformatics 2018
+- DESCRIPTION: This poster discusses the NSF Funded DataBridge for Neuroscience project. The primary goal of this project was to introduce advanced techniques for Data Discovery to the Neuroinformatics community.
+
+## DataBridge for Neuroscience
+- TYPE: Presentation
+- EVENT: NeuroInformatics 2018
+- DESCRIPTION: This talk presented the DataBridge for Neuroscience project at the INCF 2018 Workshop on Advanced Data Discovery for Neuroscience held in conjunction with NeuroInformatics 2018, Montreal Canada.
+- URL: http://www.neuroinformatics2018.org/abstracts/
+
+## INCF 2018 Workshop on Advanced Data Discovery for Neuroscience
+- TYPE: Workshop Chair
+- EVENT: INCF 2018
+- URL: https://sites.google.com/renci.org/neuroinformatics-18-workshop/home
+
+## Tobacco use and psychosis risk in persons at clinical high risk
+- DOI: 10.1111/eip.12751
+- TYPE: Journal Article
+
+## Whole genome sequence study of cannabis dependence in two independent cohorts
+- DOI: https://doi.org/10.1111/adb.12489  
+- TYPE: Journal Article
+
+## Diagnostic utility of exome sequencing in the evaluation of neuromuscular disorders
+- DOI: 10.1212/NXG.0000000000000212
+- TYPE: Journal Article
+
+## ClinGen advancing genomic data-sharing standards as a GA4GH driver project
+- DOI: 10.1002/humu.23625
+- TYPE: Journal Article
+
+## ClinGen Allele Registry links information about genetic variants
+- DOI: 10.1002/humu.23637  ​
+- TYPE: Journal Article
