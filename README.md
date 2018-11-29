@@ -14,23 +14,34 @@ Current citations live inside `div`s with id `tabYYYY-slug`, where `YYYY` is the
 Scrape the page with Javascript, with something like the following.
 
 ```javascript
-years = [...Array(13).keys()].map(i => i + 2006)
+publications = []
+for (let i = 2005; i <= 2018; i++) {
+    const idValue = 2020 - i
+    const titleID = `#titlXX-${ idValue }_`
+    const bodyID = `#tbodXX-${ idValue }__`
+    const year = document.querySelector(titleID).querySelector('#group0').innerText.match(/Year : (\d{4})/)[1]
+    publications[year] = []
+    const body = document.querySelector(bodyID).nextElementSibling
+    const entries = body.querySelectorAll('.ms-itmhover')
+    entries.forEach(row => {
+        title = row.querySelector('.ms-vb').innerText
+        type = row.querySelector('.ms-vb2').innerText
+        citation = row.querySelector('.ms-rtestate-field').innerText
+        const publication = { title: title, type: type, citation: citation, }
+        publications[year].push(publication)
+    })
+}
+console.log(publications)
+```
 
-allCitations = []
+\* Note that the number `XX` appearing in the element id names `#titlXX-` and `#tbodXX-` changes on page refreshes, so be sure to inspect the element containing the date on the page for that value, and make the change. Executing the code will dump out an array of publications, grouped by year, to the console, like the following.
 
-years.map( year => {
-    thisYearsCitations = []
-    page = document.querySelector(`#tab${ year }-slug`)
-    page.querySelectorAll('p').forEach( pub => {
-        let text = pub.innerText
-        if (text.trim() !== '') {
-            thisYearsCitations.push(pub.innerText)
-        }
-      })
-    allCitations[year] = thisYearsCitations
-})
-
-console.log(allCitations)
+```javascript
+2005: (3) [{…}, {…}, {…}]
+2006: (10) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+2007: (34) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+...
+2018: (38) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
 ```
 
 #### Search.crossref.org
