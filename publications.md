@@ -2232,3 +2232,9 @@ Noctua modeling tool while creating GO “Causal Activity Models”.
 ## ClinGen Allele Registry links information about genetic variants
 - DOI: 10.1002/humu.23637  ​
 - TYPE: Journal Article
+
+## Keynote: The Future of Multi-Clouds: a Survey of Essential Architectural Elements
+- DOI: ?
+- TYPE: Presentation
+- EVENT: MoNeTec 2018
+- URL: http://nrig.renci.org/wp-content/uploads/2018/11/Monetec_2018.pdf
