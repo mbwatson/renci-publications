@@ -199,6 +199,7 @@
 
 ### Visualization and Analysis of Microstructure in Three-Dimensional Discrete Numerical Models
 - DOI: 10.1061/(asce)0887-3801(2009)23:5(277) 
+- TYPE: Journal Article
 - CITATION: Evans, M., S. Chall,  X. Zhao, and T.M. Rhyne.  “Visualization and Analysis of Microstructure in Three-Dimensional Discrete Numerical Models”, (submitted for publication to the American Society of Civil Engineers’ Journal of Computing in Civil Engineering – 2008 -presently under  review).
 
 ### Performance engineering challenges: the view from RENCI
@@ -2255,3 +2256,47 @@ Noctua modeling tool while creating GO “Causal Activity Models”.
 - DOI: -
 - CITATION: Robert Bradford, Ashok Krishnamurthy, Jordan Brittingham, Steve Evans, Brian Ostasiewski, Wonhee Yang and Kira Bradford, Developing Methods for Standardized Patient Cohort, Deduplication Across the Carolinas Collaborative, A Regional Data Research Network, AMIA Clinical Informatics Conference, 2018.
 
+### Surgical Critical Care Initiative Data Management: Systems and Processes Enabling Research and Clinical Decision Support Tool Development to Improve Precision Medicine in Acute Care
+- TYPE: Poster
+- EVENT: Military Health System Research Symposium (MHSRS)
+- CITATION: MacKelfresh, A., Belard, A., Schobel, S., Limkakeng, A., Heath, A., Hurst, B., James, J., Kapeljushnik, O., Shoffner, M., Sliwowski, M., Lones, J., Pinson, L., Kirsch, J., Turk, M., 
+Almond, C., Clear, C., Crubezy, M., McCourt, B., Hill, C., Huang, E., Kirk, A., Buchman, T., Elster, E. Surgical Critical Care Initiative Data Management: Systems and Processes Enabling Research and Clinical Decision Support Tool Development to Improve Precision Medicine in Acute Care. Poster presented at Military Health System Research Symposium (MHSRS), August 20-23, 2018, Kissimmee, FL
+
+====
+
+
+### Trans-Atlantic Workshop on Public Private Partnerships for Big Data Research & Innovation and Workforce Development
+- TYPE: Workshop Report
+- CITATION: Shanley, L.A., et al. (2018) Trans-Atlantic Workshop on Public Private Partnerships for Big Data Research & Innovation and Workforce Development. Chapel Hill: South Big Data Innovation Hub, University of North Carolina at Chapel Hill. (Author and Editor)
+
+### Opportunities and Challenges of Citizen Science for Earth Observation: Workshop Report
+- TYPE: Workshop Report
+- CITATION: Shanley, L.A., et al. (2018) Opportunities and Challenges of Citizen Science for Earth Observation: Workshop Report. Washington, DC: Secure World Foundation and South Big Data Innovation Hub, University of North Carolina at Chapel Hill. (Author and Editor).
+
+### Summit to Sea: Modeling Regional Watersheds and Adjoining Coastal Regions
+- TYPE: Workshop Report
+- CITATION: Band, L., Bales, J., Lenhardt, C., Linker, L., Read, J., Shanley, L. (2018). Summit to Sea: Modeling Regional Watersheds and Adjoining Coastal Regions. Chapel Hill: South Big Data Innovation Hub, University of North Carolina at Chapel Hill. (Co-author and Editor).
+
+### Translational Data Analytics for Environmental Health: Sensors, Algorithms, and Patients
+- TYPE: Workshop Report
+- CITATION: Krishnamurthy, A., Shanley, L.A., McKeen, S., et al. (2018). Translational Data Analytics for Environmental Health: Sensors, Algorithms, and Patients. Chapel, Hill: South Big Data Innovation Hub, University of North Carolina. (Co-author and Editor)
+
+### The Data Science Corps: Making a Difference by Connecting Experts to Projects
+- TYPE: Workshop Report
+- CITATION: Conroy, C., et al. (2018). The Data Science Corps: Making a Difference by Connecting Experts to Projects. Washington, DC: Georgetown University. (Report Contributor and co-editor)
+
+### Marine Mammal Passive Acoustics & Spatial Ecology (MAPS) Citizen Science Workshop Report
+- TYPE: Workshop Report
+- CITATION: Gero, S. Clabaugh, A., Holberg, J., and Zitterlind, V. (2018). Marine Mammal Passive Acoustics & Spatial Ecology (MAPS) Citizen Science Workshop Report. Washington, DC: Department of the Interior Bureau of Ocean Energy Management. (Report Contributor)
+
+### Citizen Science Maker Summit Report: Learning Outcomes and Next Steps
+- TYPE: Workshop Report
+- CITATION: Prange, E., Lande, M., and Cavalier, D. (2018). Citizen Science Maker Summit Report: Learning Outcomes and Next Steps. Tempe, AZ: Arizona State University and SciStarter. (Workshop Advisor/Report Contributor)
+
+### Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability
+- TYPE: Workshop Report
+- CITATION: Aspen Institute. (2017). Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability. Aspen, Colorado: Aspen Institute. (Report Contributor)
+
+### Research Triangle Environmental Health Collaborative
+- TYPE: Workshop Report
+- CITATION: Research Triangle Environmental Health Collaborative. (2017). 2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report. Research Triangle Park, NC: RTEHC. (Report Contributor)
