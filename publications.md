@@ -836,13 +836,13 @@ Parallel Programming. Bangalore, India, January 2010.
 - CITATION: Galluppi, K., Moore, R., Brieger, L., Nelson, B., Hall, A. Event-driven data management for precipitation re-analysis. American Meteorological Society Annual Meeting. New Orleans, January 22-26, 2012.
 
 ### ExoGENI: A multi-domain Infrastructure-as-a-Service testbed
-- DOI: -
+- DOI: 10.1007/978-3-642-35576-9_12 
+- TYPE: Chapter
 - CITATION: Baldin, I., Xin, Y., Mandal, A., Ruth, P., Yumerefendi, A., Chase, J. ExoGENI: A multi-domain Infrastructure-as-a-Service testbed. 8th International ICST Conference on Testbeds and Research Infrastructures for the Development of Networks and Communities (Tridentcom 2012). Thessaloniki, Greece, June 11-13, 2012.
-- RELATED: 10.1007/978-3-319-33769-2_13
-- RELATED: 10.1007/978-3-642-35576-9_12
 
 ### Image and statistical analysis of melanocytic histology
-- DOI: 10.1111/j.1365-2559.2012.04229.x 
+- DOI: 10.1111/j.1365-2559.2012.04229.x
+- TYPE: Journal Article
 - CITATION: Miedema, J., Marron, J.S., Niethammer, M., Borland, D., Woosley, J., Coposky, J., Wei, S., Reisner, H., Thomas, N. (2012). Image and statistical analysis of melanocytic histology. Histopathology. 61:436-444.
 
 ### iRODS and large-scale data management
@@ -1536,369 +1536,377 @@ Parallel Programming. Bangalore, India, January 2010.
 
 # 2016
 
-### ?
-- DOI: 
+### Toward a Framework for Evaluating Software Success: A Proposed First Step
+- DOI: -
+- TYPE: Poster
+- EVENT: NSF SI2 PI Workshop
+- YEAR: 2016
 - CITATION: Ahalt, S., Berriman, B., Brown, M., Carver, J., Hong, N.C., Fish, A., Idaszak, R., Newman, G., Panda, D., Patra, A., Puckett, E.G., Roland, C., Thain, D., Uluagac, S., & Zhang, B. (2016) Toward a Framework for Evaluating Software Success: A Proposed First Step. Poster at the 2016 NSF SI2 PI Workshop.
 
-### ?
-- DOI: 
+### Scientific Training in the Era of Big Data: A New Pedagogy for Graduate Education
+- DOI: 10.1089/big.2016.0014
+- TYPE: Journal Article
 - CITATION: Aikat, J., Carsey, T., Fecho, K., Jeffay, K., Krishnamurthy, A., Mucha, P., Rajasekar, A., Ahalt, S. (2016) Scientific Training in the Era of Big Data: A new Pedagogy for Graduate Education.
+- URL: https://www.liebertpub.com/doi/abs/10.1089/big.2016.0014?journalCode=big
 
-### ?
+### Report on Software Metrics for Research Software
 - DOI: 
-- CITATION: Allen, G., Chen, E., Idaszak, R., Katz, D. (2016) Report on software metrics for research software. http://ceur-ws.org/Vol-1686/. 
+- TYPE: Presentation
+- EVENT: WSSSPE4
+- YEAR: 2016
+- CITATION: Allen, G., Chen, E., Idaszak, R., Katz, D. (2016) Report on software metrics for research software.
+- URL: http://ceur-ws.org/Vol-1686/
 
-### ?
-- DOI: 
-- CITATION: Baldin, I., Chase, J., Xin, Y., Mandal, A., Ruth, P, Cstillo, C., Orlikowski, V., Heermann, C., and Mills, J. (2016) The GENI Book: ExoGENI: A Multi-Domain Infrastructure-As-A-Service Testbed.
+### ExoGENI: A Multi-domain Infrastructure-as-a-Service Testbed
+- DOI: 10.1007/978-3-319-33769-2_13 
+- TYPE: Chapter
+- CITATION: Baldin, I., Chase, J., Xin, Y., Mandal, A., Ruth, P, Castillo, C., Orlikowski, V., Heermann, C., and Mills, J. (2016) The GENI Book: ExoGENI: A Multi-Domain Infrastructure-As-A-Service Testbed.
 
-### ?
-- DOI: 
+### Can Genetic Analysis of Putative Blood Alzheimer’s Disease Biomarkers Lead to Identification of Susceptibility Loci?
+- DOI: 10.1371/journal.pone.0142360
+- TYPE: Journal Article
 - CITATION: Barber, R.C., Phillips, N.R., Tilson, J.L., Huebinger, R.M., Shewale, S.J., Koenig, J.L., Mitchel, J.S., O’Bryant, S.E., Waring, S.C., Diaz-Arrastia, R., Chasse, S., Wilhelmsen, K.C. (2015) Can Genetic Analysis of Putative Blood Alzheimer’s Disease Biomarkers Lead to Identification of Susceptibility Loci? Alzheimer’s Disease Neuroimaging Initiative; Texas Alzheimer’s Research and Care Consortium. 
 
-### ?
-- DOI: 
+### A semiquantitative metric for evaluating clinical actionability of incidental or secondary findings from genome-scale sequencing
+- DOI: 10.1038/gim.2015.104 
+- TYPE: Journal Article
 - CITATION: Berg, J.S., Foreman, A.K., O’Daniel, J.M., Booker, J.K., Boshe, L., Carey, T., Crooks, K.R., Jensen, B.C., Juengst, E.T., Lee, K., Nelson, D.K., Powell, B.C., Powell, C.M., Roche, M.I., Skrzynia, C., Strande, N.T., Weck, K.E., Wilhelmsen, K.C., & Evans, J.P. (2016) A semiquantitative metric for evaluating clinical actionability of incidental or secondary findings from genome-scale sequencing. Genetics of Medicine, 18(5), 467-475.
 
-### ?
-- DOI: 
+### Variant calling in low-coverage whole genome sequencing of a Native American population sample
+- DOI: 10.1186/1471-2164-15-85 
+- TYPE: Journal Article
 - CITATION: Bizon, C., Spiegel, M., Chasse, S.A., Gizer, I.R., Li, Y., Malc, E.P., Mieczkowski, P.A., Sailsbery, J.K., Wang, X., Ehlers, C.L, Wilhelmsen, K.C. (2016) Variant calling in low-coverage whole genome sequencing of a Native American population sample. BMC Genomics.
 
-### ?
-- DOI: 
-- CITATION: Blanton, B., Dresback, K., Colle, B., Kolar, B., Vergara, H., Hong, Y., Leonardo, N., Davidson, R., Nozick, L., & Wachtendorf, T. (2016) An integrated scenario ensemble- based framework for hurricane evacuation modeling: Part 2- Hazard modeling. Risk Analysis. 
-
-### ?
-- DOI: 
+### Multivariate Visualization of Longitudinal Clinical Data
+- DOI: -
+- TYPE: Presentation
+- EVENT: IEEE VIS 2016 Workshop on Temporal and Sequntial Event Analysis
+- YEAR: 2016
 - CITATION: Borland, D., West, V.L., & Hammond, W.E. (2016) Multivariate visualization of longitudinal clinical data. Proceedings of the IEEE VIS 2016 Workshop on Temporal and Sequntial Event Analysis. 
+- URL: https://eventevent.github.io/papers/EVENT_2016_paper_3.pdf
+
+### Pixar’s Linear Algebra
+- DOI: -
+- TYPE: Journal Article
+- CITATION: Borland, D., Chartier, T., and Peck, T. (2016) Pixar’s Linear Algebra. IMAGE: The Bulletin of the International Linear Algebra Society. Issue Number 56, pp. 1–48, Spring 2016.
+- URL: https://www.ilasic.org/IMAGE/IMAGES/image56.pdf
 
 ### ?
-- DOI: 
-- CITATION: Borland, D., Chartier, T., and Peck, T. (2016) Pixar’s Linear Algebra. The Bulletin of the International Linear Algebra Society. 
-
-### ?
-- DOI: 
+- DOI: -
+- TYPE: Poster
+- EVENT: ASHG 2016 Annual Meeting
+- YEAR: 2016
 - CITATION: Buchkovich, M.L., Brown, C.C., Robasky, K. (2016) Novel, allele sequence signature approach enables HLA-typing for biomarker identification using gene expression data. ASHG 2016 Annual Meeting. Vancouver, British Columbia.
+- URL: http://www.ashg.org/2016meeting/pdf/ASHG2016_Program_complete.pdf
 
 ### A Retrospective on ORCA: Open Resource Control Architecture
 - DOI: 10.1007/978-3-319-33769-2_7 
+- TYPE: Chapter
 - CITATION: Chase, J. and Baldin, I. (2016) The GENI Book: A Retrospective on ORCA: Open Resource Control Architecture.
 
 ### The phenotype of multiple congenital anomalies-hypotonia-seizures syndrome 1: Report and review
 - DOI: 10.1002/ajmg.a.37129 
+- TYPE: Journal Article
 - CITATION: Couser, N.L., Masood, M.M., Strande, N.T., Foreman, A.K., Crooks, K., Weck, K.E., Lu, M., Wilhelmsen, K.C., Roche, M., Evans, J.P., Berg, J.S., Powell, C.M. (2016) The phenotype of multiple congenital anomalies-hypotonia-seizures syndrome 1: report and review. Med Genet A. 
 
 ### Build It, But Will They Come? A Geoscience Cyberinfrastructure Baseline Analysis
 - DOI: 10.5334/dsj-2016-008 
+- TYPE: Journal Article
 - CITATION: Cutcher-Gershenfeld, J., Baker, K.S., Berente, N., Carter, D.R., DeChurch, L.A.,  Flint, C.C., Gershenfeld, G., Haberman, M., King, J.L., Kirkpatrick, C., Knight, E., Lawrence, B., Lewis, S., Lenhardt, W.C., Lopez, P., Mayernik, M.S., McElroy, C., Mittleman, B., Nichol, V., Nolan, M., Shin, N., Thompson, C.A., Winter, S., Zaslavsky, I. (2016) Build It, But Will They Come? A Geoscience Cyberinfrastructure Baseline Analysis. Data Science Journal. 
-
-### An integrated scenario ensemble- based framework for hurricane evacuation modeling: Part 1- Evacuation modeling
-- DOI: -
-- CITATION: Davidson, R., Nozick, L., Wachtendorf, T., Blanton, B., Colle, B., Kolar, R., DeYoung, S., Dresback, K., Yi, W., Yang, K., & Leonardo, N. (2016) An integrated scenario ensemble- based framework for hurricane evacuation modeling: Part 1- Evacuation modeling. Risk Analysis. 
-- RELATED: 10.1111/risa.12990 
 
 ### QUARC: An Array Programming Approach to High Performance Computing
 - DOI: 10.1007/978-3-319-52709-3_1 
+- TYPE: Chapter
 - CITATION: Deb, D., Fowler, R., Porterfield, A. (2016) QUARC: An Array Programming Approach to High Performance Computing. In 29th International Workshop on Languages and Compilers for Parallel Computing (LCPC 2016). Rochester, NY.
 
 ### Single nucleotide polymorphisms in theREG-CTNNA2region of chromosome 2 andNEIL3associated with impulsivity in a Native American sample
 - DOI: 10.1111/gbb.12297 
+- TYPE: Journal Article
 - CITATION: Ehlers, C.L., Gizer, I.R., Bizon, C., Slutske, W., Peng, Q., Schork, N.J., Wilhelmsen, K.C. (2016) Single nucleotide polymorphisms in the REG-CTNNA2 region of chromosome 2 an dNEIL3 associated with impulsivity in a Native American sample. Genes Brain Behav
 
 ### A New Framework and Prototype Solution for Clinical Decision Support and Research in Genomics and Other Data-intensive Fields of Medicine
 - DOI: 10.13063/2327-9214.1198 
+- TYPE: Journal Article
 - CITATION: Evans, J.P., Wilhelmsen, K.C., Berg, J., Schmitt, C.P., Krishnamurthy, A., Fecho, K., & Ahalt, S.C. (2016) A New Framework and Prototype Solution for Clinical Decision Support and Research in Genomics and Other Data-intensive Field of Medicine. EGEMS (Washington DC).
 
 ### Anomaly detection for scientific workflow applications on networked clouds
 - DOI: 10.1109/hpcsim.2016.7568396 
+- TYPE: Conference Paper
 - CITATION: Gaikwad. P., Mandal. A., Ruth. P., Juve. G., Krol. D., & Deelman. E. (2016) Anomaly Detection for Scientific Workflow Applications on Networked Clouds. 2016 International Conference on High Performance Computing and Simulation (HPCS, 2016). Innsbruck, Austria
 
 ### Data-Driven Healthcare: Challenges and Opportunities for Interactive Visualization
 - DOI: 10.1109/mcg.2016.59 
+- TYPE: Journal Article
 - CITATION: Gotz, D., & Borland, G. (2016) Data-driven healthcare: Challenges and opportunities for interactive visualization. IEEE Computer Graphics and Applications, 36(3), 90-96
 
 ### Evaluating visual analytics for health informatics applications: A progress report from the AMIA VIS Working Group Task Force on Evaluation
 - DOI: -
+- TYPE: Conference Paper
+- EVENT: Workshop on Visual Analytics in Healthcare (VAHC)
+- YEAR: 2016
 - CITATION: Gotz, D., Borland, J., Caban, D., Dowding, B., Fisher, V.K., & Wu, D.T.Y. (2016) Evaluating visual analytics for health informatics applications: A progress report from the AMIA VIS Working Group Task Force on Evaluation. 2016 Workshop on Visual Analytics in Healthcare (VAHC).
+- URL: https://www.visualanalyticshealthcare.org/VAHC2016/docs/VAHC2016_Proceedings.pdf
 
 ### Clinical Sequencing Exploratory Research Consortium: Accelerating Evidence-Based Practice of Genomic Medicine
-- DOI: -
+- DOI: 10.1016/j.ajhg.2016.04.011
+- TYPE: Journal Article
 - CITATION: Green, R.C., Goddard, K.A., Jarvik, G.P., Amendola, L.M., Appelbaum, P.S., Berg, J.S., . . . Yu, J.H. (2016) Clinical Sequencing Exploratory Research Consortium: Accelerating Evidence-Based Practice of Genomic Medicine. American Journal of Human Genetics. 
 
 ### Market-based path service composition for software defined networks
 - DOI: 10.1109/sarnof.2016.7846737 
+- TYPE: Conference Paper
 - CITATION: Huang, S. and Baldin, I. (2016) Market-Based Path Service Composition for Software Defined Networks. 37th Sarnoff Simposium
 
 ### Economics of CSE Software Tools. Computational Science and Engineering Software Productivity and Sustainability (CSESSP) Challenges Workshop Report
 - DOI: -
+- TYPE: Workshop Report
+- EVENT: Computational Science and Engineering Software Productivity and Sustainability
+- YEAR: 2016
 - CITATION: Idaszak, R., Arthur, R., Bartlett, R., Baxter, I., Bernholdt, D.E., Boisvert, R., Fecho, K., Fowler, R., Greenspan, S., Heroux, M.A., Iancu, C., Kartsaklis, C., Katz, D.S., Koziol, Q., Landsberg, S., Lucier, E., McGregor, J., Ndousse-Fetter, T., Pawlik A., Reuther, A.I., Scarborough, W., and Schroeder, W. (2016) Economics of CSE Software Tools. Computational Science and Engineering Software Productivity and Sustainability (CSESSP) Challenges Workshop Report. Washington, DC
 
 ### HydroShare – A case study of the application of modern software engineering to a large distributed federally-funded scientific software development project
 - DOI: -
-- CITATION: Idaszak, R., Tarboton, D.G., Yi, H., Christopherson, L., Stealey, M.J., Miles, B., Dash, P., Couch, A., Spealman, C., Ames, D.P., Horsburgh, J.S. (2016) HydroShare – A case study of the application of modern software engineering to a large distributed federally-funded scientific software development project. Software Engineering for Science, Taylor & Francis CRC Press
+- TYPE: Chapter
+- CITATION: Idaszak, R., Tarboton, D.G., Yi, H., Christopherson, L., Stealey, M.J., Miles, B., Dash, P., Couch, A., Spealman, C., Ames, D.P., Horsburgh, J.S. (2016) HydroShare – A case study of the application of modern software engineering to a large distributed federally-funded scientific software development project. Software Engineering for Science (pp. 217-232). Taylor & Francis CRC Press.
 
-### Hydroshare: A case study in software engineering best practices and culture change for developing sustainable community software
+### HydroShare - A Case Study in Software Engineering Best Practices and Culture Change for Developing Sustainable Community Software
 - DOI: -
+- TYPE: Presentation
+- EVENT: WSSSPE4
+- YEAR: 2016
 - CITATION: Idaszak, R., Tarboton, D.G., Yi, H., Stealey, M., Dash, P., Couch, A., Ames, D.P., Horsburgh, J.S., Castronova, T., Goodall, J., Morsey, M., Merwade, V., Ramirez, M., Gan, T., Li, D., Sadler, J., Crawley, S., Zhao, Z.X.L., Song, C., & Bandaragoda, C. (2016) Hydroshare: A case study in software engineering best practices and culture change for developing sustainable community software
+- URL: http://ceur-ws.org/Vol-1686/WSSSPE4_paper_5.pdf
 
 ### RADU: Bridging the divide between data and infrastructure management to support data-driven collaborations
 - DOI: 10.1109/bigdata.2016.7840625 
+- TYPE: Conference Paper
 - CITATION: Jiang, F., Castillo, C., and Schnitt, C. (2016) RADII: Bridging the Divide between Data and Infrastructure Management to Support Data-Driven Collaborations. IEEE BigData 2016
 
 ### A Versatile Platform for Instrumentation of Knowledge Worker's Computers to Improve Information Analysis
 - DOI: 10.1109/bigdataservice.2016.47 
+- TYPE: Conference Paper
 - CITATION: Jones, P., Thakur, S., Cox, S., & Matthews, M. (2016) A Versatile Platform for Instrumentation of Knowledge Worker’s Computers to Improve Information Analysis. IEEE BigDataService conference. Exeter College, Oxford, UK
 
 ### A novel Alzheimer disease locus located near the gene encoding tau protein
-- DOI: -
+- DOI: 10.1038/mp.2015.23
+- TYPE: Journal Article
 - CITATION: Jun, G., Ibrahim-Verbaas, C.A., Vronskaya, M., Lambert, J.C., Chung, J., Naj, A.C., Kunkle, B.W., . . . Farrer, L.A. (2016) A novel Alzheimer disease locus located near the gene encoding tau protein. Molecule Psychiatry, 21(1), 108-117
 
 ### Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3)
 - DOI: 10.5334/jors.118 
-- CITATION: Katz, D.S., Choi, S.C.T., Niemeyer, K.E., Hetherington, J. Loffler, F., Gunter, D., Idaszak, R., Brandt, S.R., Miller, M.A., Gesing, S., Jones, N.D., Weber, N., Marru, S., Allen, G., Penzenstadler, B., Venters, C.C., Davis, E., Hwang, L., Todoroc, I., Patra, A., and de Val-Borro, M. (2016) Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences. Journal of Open Research Software, 4: e37. 
+- TYPE: Journal Article
+- CITATION: Katz, D.S., Choi, S.-C.T., Niemeyer, K.E., Hetherington, J., Löffler, F., Gunter, D., Idaszak, R., Brandt, S.R., Miller, M.A., Gessing, S., Jones, N.D., Weber, N., Marru, S., Allen, G., Penzenstadler, B., Venters, C.C., Davis, E., Hwang, L., Todorov, I., Patra, A. and de Val-Borro, M., 2016. Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3). Journal of Open Research Software, 4(1), p.e37. DOI: http://doi.org/10.5334/jors.118
 
 ### ?
 - DOI: -
+- TYPE: Chapter
 - CITATION: Ahalt, S., Aikat, J., Bedard, D., Burchinall, M., Carsey, T., Christian, T.M., Crabtree, J., Dole, N., Lander, H., Sweeney, L., Whitton, M. (2016). VISR: The Virtual Institute for Social Research In Philip C. Bantin (Ed.), Building Trustworthy Digital Repositories Theory and Implementation. (pp.292-305). Rowman & Littlefield
+- ISBN:
+    + ISBN-13: 978-1442263789
+    + ISBN-10: 1442263784
 
 ### High Diagnostic Yield of Whole Exome Sequencing in Participants With Retinal Dystrophies in a Clinical Ophthalmology Setting
 - DOI: 10.1016/j.ajo.2015.04.026 
+- TYPE: Journal Article
 - CITATION: Lee, K., Berg, J.S., Milko, L., Crooks, K., Lu, M., Bizon, C., Owen, P., Wilhelmsen, K.C., Weck, K.E., Evans, J.P., & Garg, S. (2015) High Diagnostic Yield of Whole Exome Sequencing in Participants With Retinal Dystrophies in a Clinical Ophthalmology Setting. American Journal of Ophthalmology, 160(2), 354-363
 
 ### Cross-institutional research cyberinfrastructure for data intensive science
 - DOI: 10.1109/hpec.2016.7761597 
+- TYPE: Conference Paper
 - CITATION: Lenhardt, W.C., Conway, M., Scott, E., Blanton, B., Krishnamorthy, A., Hadzikadic, M., Vouk, A., & Wilson, A. (2016) Cross-Institutional Research Cyberinfrastructure for Data Intensive Science. 2016 IEEE High Performance Extreme Computing Conference (HPEC’16). Waltham, MA, USA
 
 ### From Data Center 1.0 to Data Center 3.0: Transforming the storage, access, and (re)use of research data for better science
 - DOI: -
+- TYPE: RENCI White Paper
+- YEAR: 2016
 - CITATION: Lenhardt, W.C., Blanton, B., & Schmitt, C. (2016) From Data Center 1.0 to Data Center 3.0: Transforming the storage, access, and (re)use of research data for better science. RENCI White Paper
 
 ### The Panorama Project: Tools for Modeling, Monitoring, and Anomaly Detection in Scientific Workflow Execution
 - DOI: -
+- TYPE: RENCI White Paper
+- YEAR: 2016
 - CITATION: Mandal, A., Ruth, P., Baldin, I., Mayani, R., Ferreira da Silva, R., Deelman, E., Meredith, J., Vetter, J., Lynch, V., Mayer, B., Carothers, C., Tierney, B. (2016) The Panorama Project: Tools for Modeling, Monitoring, and Anomaly Detection in Scientific Workflow Execution. Poster presentation at DOE Modeling and Simulation (MODSIM) Workshop. Seattle, WA
 
 ### Toward an End-to-End Framework for Modeling, Monitoring and Anomaly Detection for Scientific Workflows
-- DOI: 10.1109/ipdpsw.2016.202 
+- DOI: 10.1109/ipdpsw.2016.202
+- TYPE: Conference Paper
 - CITATION: Mandal, A., Ruth, P., Baldin, I., Kr’ol, D., Juve, G., Mayani, R., Silva, R., Deelman, E., Meredith, J., Vetter, J., Lunch, V., Mayer, B., Wynne III, J., Blanco, M., Carothers, C., LaPre, J., Tierney, B. (2016) Toward an End-to-end Framework for Modeling, Monitoring and Anomaly Detection for Scientific Workflows. 2016 IEEE 30th International Symposium on Parallel and Distributed Processing Workshops. Chicago, IL
 
 ### Genetic variation in FAAH is associated with cannabis use disorders in a young adult sample of Mexican Americans
 - DOI: 10.1016/j.drugalcdep.2016.06.021 
+- TYPE: Journal Article
 - CITATION: Melroy-Greif, W.E., Wilhelmsen, K.C., Ehlers, C.L. (2016) Genetic variation in FAH is associated with cannabis use disorders in a young adult sample of Mexican Americans. Drug Alcohol Depend, 249-253
 
 ### Investigating Students’ Ideas About Buoyancy and the Influence of Haptic Feedback
 - DOI: 10.1007/s10956-015-9585-1 
-- CITATION: Minogue, J. and Borland, D. (2016) Investigating students’ ideas about bouyancy and the influence of haptic feedback. Journal of Science Education and Technology. 22(5)
+- TYPE: Journal Article
+- CITATION: Minogue, J. and Borland, D. (2016) Investigating students' ideas about bouyancy and the influence of haptic feedback. Journal of Science Education and Technology. 22(5)
 
 ### Tracing the development of a haptically-enhanced science simulation for matter and intermolecular forces
 - DOI: -
+- TYPE: Poster
+- EVENT: NARST Annual International Conference
+- YEAR: 2016
 - CITATION: Minogue, J., Borland, D., Russo. M., Chen, S.T., & Davis, T. (2016) Tracing the development of a haptically-enhanced science simulation for matter and intermolecular forces. 2016 NARST Annual International Conference
+- URL: https://narst.org/annualconference/2016_Narst_International_Conference_Program.pdf
 
 ### Tracing the Development of a Haptically-enhanced Simulation for Teaching Phase Change
 - DOI: 10.1145/2968120.2987723 
+- TYPE: Conference Paper
 - CITATION: Minogue, J., Borland, D., Russo. M., & Chen, S.T. (2016) Tracing the development of a haptically-enhanced simulation for teaching phase change. Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY ’16)
 
 ### DBcloud: Semantic Dataset for the cloud
 - DOI: 10.1109/infcomw.2016.7562073 
+- TYPE: Conference Paper
 - CITATION: Morsey, M., Willner, A., Loughnane, R., Giatili, M., Papagianni, C., Baldin, I., Grosso, P., & Al-Hazmi, Y. (2016) DBcloud: Semantic Dataset for the Cloud. CNERT
 
 ### Correlation analysis of genetic admixture and social identification with body mass index in a Native American Community
 - DOI: 10.1002/ajhb.22521 
+- TYPE: Journal Article
 - CITATION: Norden-Krichmar, T.M., Gizer, I.R., Libiger, O., Wilhelmsen, K.C., Ehlers, C.L., Schork, N.J. (2016) Correlation analysis of genetic admixture and social identification with body mass index in a Native American community. American Journal of Human Biology, 26(3), 347-360
 
 ### Protective variant associated with alcohol dependence in a Mexican American cohort
 - DOI: 10.1186/s12881-014-0136-z 
+- TYPE: Journal Article
 - CITATION: Norden-Krichmar, T.M., Gizer, I.R., Wilhelmsen, K.C., Schork, N.J., Ehlers, C.L. (2016) Protective variant associated with alcohol dependence in a Mexican American cohort. BMC Med Genet
 
 ### Variants Near CCK Receptors are Associated With Electrophysiological Responses to Pre-pulse Startle Stimuli in a Mexican American Cohort
 - DOI: 10.1017/thg.2015.77 
+- TYPE: Journal Article
 - CITATION: Norden-Krichmar, T.M., Gizer, I.R., Phillips, E., Wilhelmsen, K.C., Schork, N.J., Ehlers, C.L. (2016) Variants Near CCK Receptors are Associated with Electrophysiological Responses to Pre-pulse Startle Stimuli in a Mexican American Cohort. Twin Res Hum Genet. 
 
 ### Molecular neuropsychology: creation of testspecific blood biomarker algorithms
 - DOI: 10.1159/000345605 
+- TYPE: Journal Article
 - CITATION: O’Bryant, S.E., Xiao, G., Barber, R., Cullum, C.M., Weiner, M., Hall, J., Edwards, M., Grammas, P., Wilhelmsen, K., Doody, R., Diaz-Arrastia, R. (2016) Molecular neuropsychology: creation of testspecific blood biomarker algorithms. Dement Geriatr Cogn Disord. 37 (1-2); 45-57
-
-### Drug Alochol \[sic\] Depend
-- DOI: -
-- CITATION: Otto, J.M., Gizer, I.R., Bizon, C., Wilhelmsen, K.C., Ehlers, C.L. (2016) Drug Alochol Depend. http://https://www.ncbi.nlm.nih.gov/pubmed/27530288
 
 ### Polygenic risk scores for cigarettes smoked per day do not generalize to a Native American population
 - DOI: 10.1016/j.drugalcdep.2016.07.029 
+- TYPE: Journal Article
 - CITATION: Otto, J.M., Gizer, I.R., Bizon, C., Wilhelmsen, K.C., Ehlers, C.L. (2016) Polygenic risk scores for cigarettes smoked per day do not generalize to a Native American population. Drug Alcohol Depend
 
 ### Association and ancestry analysis of sequence variants in ADH and ALDH using alcohol-related phenotypes in a Native American community sample
 - DOI: 10.1002/ajmg.b.32272 
+- TYPE: Journal Article
 - CITATION: Peng, Q., Gizer, I.R., Libiger, O., Bizon, C., Wilhelmsen, K.C., Schork, N.J., & Ehlers, C.L. (2014) Association and ancestry analysis of - sequence variants in ADH and ALDH using alcohol-related phenotypes in a Native American community sample. American Journal of Medical Genetics. Part B, Neuropsychiatric Genetics, 165B(8): 673-683
 
 ### Variability: A Tuning Headache. Smposium on Parallel and Distributed Processing
 - DOI: -
-- CITATION: Porterfield, A., Bhalachandra, S., Wang, W., and Fowler, R. (2016) Variability: A Tuning Headache. Smposium on Parallel and Distributed Processing (IPDPS) – Workshop Proceedings. Chicago, Illinois
+- TYPE: Conference Paper
+- EVENT: 30th IEEE International Parallel & Distributed Processing Symposium
+- YEAR: 2016
+- CITATION: Porterfield, A., Bhalachandra, S., Wang, W., and Fowler, R. (2016) Variability: A Tuning Headache. Symposium on Parallel and Distributed Processing (IPDPS) – Workshop Proceedings. Chicago, Illinois
 
 ### A Resilient Software Infrastructure for Wide-Area Measurement Systems
 - DOI: 10.1109/pesgm.2016.7741949 
+- TYPE: Conference Paper
 - CITATION: Qian, T., Xu, H., Chakrabortty, A., Mueller, F., Xin, Y. (2016) A Resilient Software Infrastructure for Wide-Area Measurement Systems. IEEE Power & Energy Society General Meeting. 
 
 ### A Novel Tobacco Use Phenotype Suggests the 15q25 and 19q13 Loci May be Differentially Associated With Cigarettes per Day and Tobacco-Related Problems
 - DOI: 10.1093/ntr/ntw260 
+- TYPE: Journal Article
 - CITATION: Richmond-Rakerd, L.S., Otto, J.M., Slutske, W.S., Ehlers, C.L., Wilhelmsen, K.C., Gizer, I.R. (2016) A Novel Tobacco Use Phenotype Suggests the 15q25 and 19q13 Loci May be Differentially Associated With Cigarettes per - Day and Tobacco- Related Problems. Nicotine and Tobacco Research. 
 
 ### Return to the Zombie Gadgets: Undermining Destructive Code Reads via Code Inference Attacks
 - DOI: 10.1109/sp.2016.61 
+- TYPE: Conference Paper
 - CITATION: Snow, K.Z., Rogowski, R., Werner, J., Koo, H., Monrose, F., Polychronakis, M. (2016) Return to the Zombie Gadgets: Undermining Destructive Code Reads via Code Inference Attacks. 2016 IEEE Symposium on Security and Privacy. 
 
 ### Hydroshare: Advancing Hydrology through Collaborative Data and Model Sharing
 - DOI: -
+- TYPE: Presentation
+- EVENT: SI2 PI Workshop
+- YEAR: 2016
 - CITATION: Tarboton, D., Idaszek, I., Horsburgh, J., Ames, D., Goodall, J., Band, L., Merwade, V., Couch, C., Hooper, R., Maidment, D. (2016) Hydroshare: Advancing Hydrology through Collaborative Data and Model Sharing. 2016 SI2 PI Workshop. Arlington, VA
 
 ###  2016 Software Infrastructure for Sustained Innovation
 - DOI: -
-- CITATION: Timmes, F. Turk, M., Ahalt, S., Wang, S., Idaszek, R., Brower, R., Lenhardt, C., & Gustafson, K. (2016) 2016 Software Infrastructure for Sustained Innovation (SI2) PI Workshop Report. 
+- TYPE: Workshop Report
+- CITATION: Timmes, F. Turk, M., Ahalt, S., Wang, S., Idaszak, R., Brower, R., Lenhardt, C., & Gustafson, K. (2016) 2016 Software Infrastructure for Sustained Innovation (SI2) PI Workshop Report.
+- URL: https://dl.acm.org/citation.cfm?id=2965630
 
 ### Compiler Transformations Meet CPU Clock Modulation and Power Capping
-- DOI: -
+- DOI: 10.1109/icppw.2016.47 
+- TYPE: Presentation
+- EVENT: 5th International Workshop on Power-aware Algorithms, Systems,
+and Architectures (ICPP PASA 2016)
 - CITATION: Wang, W., Porterfield, A., Cavazos., & Balachandra, S. (2016) Compiler Transformations Meet CPU Clock Modulation and Power Capping. In 5th International Workshop on Power-aware Algorithms, Systems, and Architecture (PASA’16), Philadelphia, PA
-- RELATED: 10.1109/icppw.2016.47 
+- URL: http://www.cse.psu.edu/conferences/icpppasa2016/wang_slides.pdf
 
 ### No-Execute-After-Read: Preventing Code Disclosure in Commodity Software
 - DOI: 10.1145/2897845.2897891 
+- TYPE: Conference Paper
 - CITATION: Werner, J., Baltas, G., Dallara, R., Otterness, N., Snow, K.Z., Monrose, F. (2016)
 No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CCS ’16 Proceedings of the 11th ACM on Asia Conference on Computer and Communications Security, May 30 – June 03, 2016
 
 ### The feasibility of genetic dissection of endophenotypes
 - DOI: 10.1111/psyp.12366 
+- TYPE: Journal Article
 - CITATION: Wilhelmsen, K.C. (2016) The feasibility of genetic dissection of endophenotypes. Psychophysiology. 
 
 ### Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed
-- DOI: 
+- DOI: 10.1007/978-3-319-49580-4_4
+- TYPE: Chapter
+- CITATION: Xin Y., Baldin I., Mandal A., Ruth P., Chase J. (2017) Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed. In: Guo S., Wei G., Xiang Y., Lin X., Lorenz P. (eds) Testbeds and Research Infrastructures for the Development of Networks and Communities. TridentCom 2016. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 177. Springer, Cham
+- URL: https://link.springer.com/chapter/10.1007/978-3-319-49580-4_4
+
+### Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed
+- DOI: -
+- TYPE: Conference Paper
+- EVENT: TridentCom
+- YEAR: 2016
 - CITATION: Xin, Y., Baldin, I., Mandal, A., and Ruth, P. (2016) Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed. TridentCom’16. Hangzhou, China
-- RELATED: 10.1007/978-3-319-49580-4_4 
 
 ### Scenario-Based Hazard Trees for Depicting Resolution of Hurricane Uncertainty Over Time
 - DOI: 10.1061/(asce)nh.1527-6996.0000236 
+- TYPE: Journal Article
 - CITATION: Yang, K., Davidson, R., Nozick, L., Blanton, B., and Colle, B. (2016) Scenario-Based Hazard Trees for Depicting Resolution of Hurricane Uncertainty Over Time. Natural Hazards Review, in press
 
 ### Common susceptibility variants are shared between schizophrenia and psoriasis in the Han Chinese population
 - DOI: 10.1503/jpn.150210 
+- TYPE: Journal Article
 - CITATION: Yin, X., Wineinger, N.E., Wang, K., Yue, W., Nogren, N., Wang, L., Yao, W., Jiang, X., Wu, B., Cui, Y., Shen, C., Cheng, H., Zhou, F., Chen, G., Zuo, X., Zheng, X., Fan, X., Wang, H., Lee, L., Lam, M., Tai, E.S., Zhang, Z., Huang, Q., Sun, L., Xu, J., Yang, S., Wilhelmson, K.C., Liu, J., Schork, N.J., Zhang, X. (2016) Common susceptibility variants are shared between schizophrenia and psoriasis in the Han Chinese population. Journal of Psychiatry Neuroscience, 41(6), 413-421
 
 ### ADMM Optimization Strategies for Wide-Area Oscillation Monitoring in Power Systems under Asynchronous Communication Delays
 - DOI: 10.1109/tsg.2016.2547939 
+- TYPE: Journal Article
 - CITATION: Zhang, J., Nabavi, S., Chakrabortty, A., & Xin, Y. (2016) ADMM Optimization Strategies for Wide-Area Oscillation Monitoring in Power Systems under Asynchronous Communication Delays. IEEE Transactions on Smart Grid. 
-
-### Capitol Hill Briefing
-- DOI: -
-- CITATION: Ahalt, S.C. (2016) Capitol Hill Briefing. South Big Data Hub. Washinton, DC
-
-### NSF BD Hub PI meeting
-- DOI: -
-- CITATION: Ahalt, S.C. (2016) NSF BD Hub PI meeting. NSF Big Data Hub Principal Investigators meeting. Arlington, VA
-
-### RENCI Overview
-- DOI: -
-- CITATION: Ahalt, S.C. (2016) RENCI Overview. NDS annual meeting. Chapel Hill, NC
-
-### South Big Data Hub Overview
-- DOI: -
-- CITATION: Ahalt, S.C. (2016) South Big Data Hub Overview. South Big Data Hub & EPA Meeting. RTP, NC
-
-### South Big Data Hub Overview
-- DOI: -
-- CITATION: Ahalt, S.C. South Big Data Hub Overview. South Big Data Hub Overview – CASC. Arlington, VA. March 2016
 
 ### Hydroshare: Advancing Hydrologic Big Data through Modular Visualization and Analytics
 - DOI: -
+- TYPE: Presentation
+- EVENT: AWRA Annual Water Resources Conference
+- YEAR: 2016
 - CITATION: Ames, D. P., Idaszak, R., Tarboton, D.G., Band, L., Couch, A., Crawley, S., Dash, P., Jones, N., Goodall, J.L., Hooper, R., Horsburgh, J.S., (Zhiyu) Li, D., Maidment, D., Merwade, V., Nelson, J., Song, C., Stealey, M., Swain, N., Yi, H. Hydroshare: Advancing Hydrologic Big Data through Modular Visualization and Analytics. 2016 AWRA Annual Water Resources Conference. 2016
+- URL: https://www.awra.org/meetings/Orlando2016/doc/powerpoint/Session%2036%20230%20Ames.pdf
 
 ### Using Juptyer Dashboard and ipympl for Tropical Storm Emergency Management
 - DOI: -
+- TYPE: Presentation
+- EVENT: Jupyter Day ATL
+- YEAR: 2016
 - CITATION: Calloway, C.B., Blanton, B.O. Using Juptyer Dashboard and ipympl for Tropical Storm Emergency Management. Jupyter Day ATL. Georgia Tech Research Institute Conference Center. 2016
 
 ### HydroShare: Promoting Collaborative Publication, Interoperability, and Reuse of Hydrologic Data and Research Products
 - DOI: -
+- TYPE: Presentation
+- EVENT: iEMS
+- YEAR: 2016
 - CITATION: Horsburgh, J.S., Tarboton, D.G., Idaszak, R., Ames, D.P., Goodall, J.L., Merwade, V., Couch, A., Hooper, R.P., Dash, P., Stealey, M., Yi, H., Gan, T., Castronova, A., Miles, B., Li, Z. and Morsy, M. HydroShare: Promoting Collaborative Publication, Interoperability, and Reuse of Hydrologic Data and Research Products. iEMS 2016. 2016
+- URL: https://works.bepress.com/pabitra-dash/8/
 
 ### Truth or Fiction: Findings from a Research Project about Data Science in NC
 - DOI: -
+- TYPE: Presentation
+- EVENT: Data 4 Decisions Conference
+- YEAR: 2016
 - CITATION: Knowles, D. & McKeen, S. Truth or Fiction: Findings from a Research Project about Data Science in NC. Data 4 Decisions Conference. Raleigh, NC. 2016
 
 ### Panorama: Tools for Modeling, Monitoring, Anomaly Detection, and Adaptation for Scientific Workflows on Dynamic Networked Cloud Infrastructures
 - DOI: -
-- CITATION: Mandal, A., Ruth, P., Baldin, I., Mayani, R., Ferreira da Silva, R., Meredith, J., Vetter, J., Lynch, V., Mayer, B., Carothers, C., Tierney, B. Panorama: Tools for Modeling, Monitoring, Anomaly Detection, and Adaptation for Scientific Workflows on Dynamic Networked Cloud Infrastructures. SCinet NRE Demonstration at SuperComputing ’16. 2016
-
-### People Powered Earth Observation: Even Big Data Starts Small
-- DOI: -
-- CITATION: Shanley, L.A. People Powered Earth Observation: Even Big Data Starts Small. National Academy of Sciences, Engineering and Medicine’s Committee on Earth Science and Applications from Space. Washington, DC. October 4, 2016
-
-### South Big Data Innovation Hub
-- DOI: -
-- CITATION: Shanley, L.A. South Big Data Innovation Hub. Earth Science Information Partnership Summer Conference. Durham, NC. May 2016
-
-### Citizen Science: Even Big Data Starts Small
-- DOI: -
-- CITATION: Shanley, L.A. Citizen Science: Even Big Data Starts Small. US EPA Environmental Measurement Symposium. August, 2016
-
-### Data Quality in Federal Agencies
-- DOI: -
-- CITATION: Shanley, L.A., Wiggins, A., Liu, S. Data Quality in Federal Agencies. Citizen Science Makers Summit 2016. Hosted by Arizona State University School for the Future of Innovation in Society. Phoenix, AZ. October 27, 2016
-
-### South Big Data Innovation Hub
-- DOI: -
-- CITATION: Shanley, L.A. South Big Data Innovation Hub. Earth Science Information Partnership Summer Conference. Durham, NC. May 2016
-
-### Of the people, by the people, for the people: Open Science in government
-- DOI: -
-- CITATION: Shanley, L.A. Of the people, by the people, for the people: Open Science in government. 2016 Shenzhen Assembly: Open Innovation and the Environment. Shenzhen, China. March 2016
-
-### Panel on Public Private Partnerships
-- DOI: -
-- CITATION: Shanley, L.A. Panel on Public Private Partnerships. Smart Cities Data Sharing Workshop. San Francisco, CA. October 24, 2016
-
-### Big Data Innovation Hubs
-- DOI: -
-- CITATION: Shanley, L.A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin, M. Big Data Innovation Hubs. White House NITRD Big Data Interagency Working Group Meeting (Washington, DC). July, 2016
-
-### ?
-- DOI: 
-- CITATION: Shanley, L.A. Big Data Innovation Hubs in the United States: Opportunities for Public- Private Partnerships. European Union Big Data Value Association. Valencia, Spain. November 31, 2016
-
-### South Big Data Innovation Hub
-- DOI: -
-- CITATION: Shanley, L.A. South Big Data Innovation Hub. UNC Analytics for Policy Workshop. Chapel Hill, NC. 2016
-
-### South Big Data Innovation Hub
-- DOI: -
-- CITATION: Shanley, L.A. South Big Data Innovation Hub. West Big Data Innovation Hub All Hands. Berkeley, CA. May 2016
-
-### Big Data Innovation Hubs Panel
-- DOI: -
-- CITATION: Shanley, L.A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin, M. Big Data Innovation Hubs Panel. NSF Big Data PI Workshop. Washington, D.C. April, 2016
-
-### Big Data Innovation Hubs
-- DOI: -
-- CITATION: Shanley, L.A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin, M. Big Data Innovation Hubs. IEEE Big Data Summit. Washington, D.C. December 7, 2016
-
-### South Big Data Innovation Hub
-- DOI: -
-- CITATION: Shanley, L.A. and Conway, M. South Big Data Innovation Hub. PyData Carolinas. Durham, NC. September 16, 2016
-
-### Panel on Open Science: Policy innovation and social impact
-- DOI: -
-- CITATION: Shanley, L.A., Rubio-Iglesias, J.M., Shade, S., Herbst, C., Owen, R. Panel on Open Science: Policy innovation and social impact. European Citizen Science Association. Berlin, Germany. May 2016
-
-### Location Powers Workshop to Advance Geospatial Applications of Big Data
-- DOI: -
-- CITATION: Shanley, L.A., Wang, S., Greenbacker, C., de La Beaujardiere, J. Applications. Location Powers Workshop to Advance Geospatial Applications of Big Data. Open Geospatial Consortium and University of Central Florida. Orlando, FL. September 20, 2016
-
-### Data Quality in Federal Agencies
-- DOI: -
-- CITATION: Shanley, L.A., Wiggins, A., & Liu, S. Data Quality in Federal Agencies. Citizen Science Makers Summit 2016. Phoenix, AZ. October 27, 2016
-
-### Controlling Next-Generation Electric Power Grids using High-Speed Cloud Computing
-- DOI: -
-- CITATION: Zhang, J., Weiss, M., Chakrabortty, A., & Xin, Y. Controlling Next-Generation Electric Power Grids using High-Speed Cloud Computing. US Ignite Summit. Austin. June 13-15, 2016
-
-### DataNet Federation Meeting
-- DOI: -
-- CITATION: Shanley, L.A. DataNet Federation Meeting. Chapel Hill, NC. August, 2016
+- TYPE: Presentation
+- CITATION: Mandal, A., Ruth, P., Baldin, I., Mayani, R., Ferreira da Silva, R., Meredith, J., Vetter, J., Lynch, V., Mayer, B., Carothers, C., Tierney, B. Panorama: Tools for Modeling, Monitoring, Anomaly Detection, and Adaptation for Scientific Workflows on Dynamic Networked Cloud Infrastructures. SCinet NRE Demonstration at SuperComputing '16. 2016
+- URL: http://sc16.supercomputing.org/scinet/research-demos/nre-demo-2016/index.html#30
 
 
 # 2017
@@ -1906,7 +1914,7 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 
 ### Accurate and High Throughput Cell Segmentation Method for Mouse Brain Nuclei Using Cascaded Convolutional Neural Network
 - DOI: 10.1007/978-3-319-67434-6_7 
-- Type: Book Chapter
+- Type: Chapter
 
 ### xDCI - Accelerating Data Cyberinfrastructure and Research for Community Science Gateways
 - DOI: -
@@ -1920,138 +1928,142 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 
 ### DCRI data solutions all hands meeting
 - DOI: -
+- TYPE: Presentation
+- EVENT: DCRI data solutions all hands meeting
+- YEAR: 2017
 - CITATION: Ahalt, S. (2017). DCRI data solutions all hands meeting. Invited Presentation (Speaker). Durham, NC
 
 ### Scientific training in the era of big data: A new pedagogy for graduate education
 - DOI: 10.1089/big.2016.0014 
+- TYPE: Journal Article
 - CITATION: Aikat, J., Carsey, T.M., Fecho, K., Jeffay, K., Krishnamurthy, A., Mucha, P.J., Rajasekar, A., & Ahalt, S.C. (2017). Scientific training in the era of big data: A new pedagogy for graduate education. Big Data, 5(1), 12-18. - doi: 10.1089/big.2016.0014
 
 ### An adaptive core-specific runtime for energy efficiency
 - DOI: 10.1109/ipdps.2017.114 
+- TYPE: Conference Paper
 - CITATION: Bhalachandra, S., Porterfield, A., Olivier, S.L., & Prins, J.F. (2017). An adaptive core-specific runtime for energy efficiency. IEEE Parallel and Distributed Processing Symposium (IPDPS). 
 
 ### The building blocks of interoperability: A multisite analysis of patient demographic attributes available for matching
 - DOI: 10.4338/ACI-2016-11-RA-0196
+- TYPE: Journal Article
 - CITATION: Culbertson, Goel, S., Madden, M.B., Safaenili, N., Jackson, K.L., Carton, T., Waitman, R., et al. (2017). The building blocks of interoperability: A multisite analysis of patient demographic attributes - available for matching. Applied Clinical Informatics, 8(2), 322-336. DOI: https://doi.org/10.4338/ACI-2016-11-RA-0196
 
 ### A framework for estimating long term driven behavior
 - DOI: 10.1155/2017/3080859
+- TYPE: Journal Article
 - CITATION: Gadepally, V., Krishnamurthy, A., & Ozguner, U. (2017). A framework for estimating long term driven behavior. Journal of Advanced Transportation, - 2017, 11 pages. DOI:10.1155/2017/3080859
 
 ### Whole genome sequence study of cannabis dependence in two independent cohorts
 - DOI: 10.1111/adb.12489
+- TYPE: Journal Article
 - CITATION: Gizer, I.R., Bizon, C., Gilder, D.A., Ehlers, C.L., & Wilhelmson, K.C. (2017). Whole genome sequence study of cannabis dependence in two independent cohorts. Addiction Biology, doi: 10.1111/adb.12489
 
-### Legal issues in big data
-- DOI: -
-- CITATION: Grunninger, C., Shanley, L., Rawlings-Goss, R., Miller, J.S., Khan, F.R., Turner, C., & Hubbard, M. (2017). Legal issues in big data. Hosted by the University of Georgia, School of Law, Athens, GA
-
 ### Cost-effectiveness analysis of four stimulated colorectal cancer screening interventions, North Carolina
-- DOI: 10.5888/pcd14.160158 
+- DOI: 10.5888/pcd14.160158
+- Type: Journal Article
 - CITATION: Hassmiller Lich, K.M., Cornejo, D.A., Mayorga, M.E., Pignone, M., Tangka, F.K.L., Richardson, L.C., Kuo, T-M., et al. (2017). Cost-effectiveness analysis of four stimulated colorectal cancer screening interventions, North Carolina. Preventing Chronic Disease, 14(18)
-
-### Report on the Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)
-- DOI: 10.5334/jors.184
-- CITATION: Katz, D.S., Niemeyer, K.E., Gesing, S., Hwang, L., Bangerth, W., Hettrick, S., Idaszak, R., et al. (2017). Report on the fourth workshop on sustainable software for science: Practice and experiences. (WSSSPE4)
 
 ### Data flow prioritization for scientific workflows using a virtual SDX on ExoGENI
 - DOI: -
+- TYPE: Poster
+- EVENT: 25th GENI Engineering Conference
+- YEAR: 2017
 - CITATION: Mandal, A., Ruth, P., Baldin, I., Ferreira de Silva, R., & Deelman, E. (2017). Data flow prioritization for scientific workflows using a virtual SDX on ExoGENI (poster). 25th GENI Engineering Conference, Miami, FL
+- URL: https://scitech.isi.edu/posters/2017/GEC25-DemoPoster.pdf
 
 ### ClinGen pathogenicity calculator: A configurable system for assessing pathogenicity of genetic variants
 - DOI: 10.1037/adb0000270
+- TYPE: Journal Article
 - CITATION: Otto, J.M., Gizer, I.R., Ellingson, J.M., & Wilhelmsen, K.C. (2017). Genetic variation in the exome: Associations with alcohol and tobacco co-use. Psychology of Addictive Behaviors: Journal of the Society of Psychologists in - Addictive Behaviors, 31(3), 354-366. doi: 10.1037/adb0000270
 
-### ?
+### ClinGen Pathogenicity Calculator: a configurable system for assessing pathogenicity of genetic variants
 - DOI: 10.1186/s13073-016-0391-z 
+- TYPE: Journal Article
 - CITATION: Patel, R.Y., Shah, N., Jackson, A.R., Ghosh, R., Pawliczek, P., Paithankar, S., Baker, A., et al. (2017). ClinGen pathogenicity calculator: A configurable system for assessing pathogenicity of genetic variants. Genome Medicine, 9(1)
 
 ### Whole genome sequence association and ancestry-informed polygenic profile of EEG alpha in a Native American population
 - DOI: 10.1002/ajmg.b.32533
+- TYPE: Journal Article
 - CITATION: Peng, Q., Schork, N.J., Wilhelmson, K.C., & Ehlers, C.L. (2017). Whole genome sequence association and ancestry-informed polygenic profile of EEG alpha in a Native American population. Neuropsychiatric Genetics, doi: 10.1002/ajmg.b.32533
 
 ### A linux real-time packet scheduler for reliable static SDN routing
-- DOI: -
+- DOI: 10.4230/LIPIcs.ECRTS.2017.25
+- TYPE: Conference Paper
 - CITATION: Qian, T., Mueller, F., & Xin, Y. (2017). A linux real-time packet scheduler for reliable static SDN routing. Euromicro conference on real-time systems (ECRTS). 
-
-### A resilient and distributed so ware infrastructure for wide-area measurement CPS systems
-- DOI: -
-- CITATION: Qian, T., Xu, H., Mueller, F., Chakraborty, A., & Xin, Y. (2017). A resilient and distributed so ware infrastructure for wide-area measurement CPS systems. ACM Transaction on CPS, submitted
-- RELATED: 10.1109/pesgm.2016.7741949 
+- URL: http://drops.dagstuhl.de/opus/volltexte/2017/7170/
 
 ### A novel tobacco use phenotype suggests the 15q25 and 19q13 loci may be differentially associated with cigarettes per - day and tobacco-related problems
 - DOI: 10.1093/ntr/ntw260
+- TYPE: Journal Article
 - CITATION: Richmond-Rakerd, L.S., Otto, J.M., Slutske, W.S., Ehlers, C.L., Wilhelmsen, K.C., & Gizer, I.R. (2017). A novel tobacco use phenotype suggests the 15q25 and 19q13 loci may be differentially associated with cigarettes per - day and tobacco-related problems. Nicotine & Tobacco Research, 19(4), 426-434. - doi: 10.1093/ntr/ntw260
-
-### Aspen institute dialogue series on sharing and integrating data for water sustainability
-- DOI: -
-- CITATION: Shanley, L.A. (2017). Aspen institute dialogue series on sharing and integrating data for water sustainability. Invited Presentation, Aspen, Colorado
-
-### Earth observation big data
-- DOI: -
-- CITATION: Shanley, L.A. (2017). Earth observation big data. Space Studies Board of the National Academies of Science, Engineering and Medicine. Invited Presentation. Washington, D.C
-
-### Gates foundation open imagery network convening
-- DOI: -
-- CITATION: Shanley, L.A. (2017). Gates foundation open imagery network convening. Invited Presentation. Seattle, Washington
-
-### Federal big data research challenges
-- DOI: -
-- CITATION: Shanley, L.A., Bouazzi, V., Dennis, S., Duffy, D., & Morgan, D. (2017). Federal big data research challenges. NSF Big Data PI Workshop. Washington, DC
 
 ### Hydroshare: Advancing hydrology through collaborative data and model sharing
 - DOI: -
 - TYPE: Poster
+- EVENT: NSF SI2 PI Meeting
+- YEAR: 2017
 - CITATION: Tarboton, D., Idaszak, R., Horsburgh, J., Ames, D., Goodall, J., Band, L., Merwade, V., et al. (2017). Hydroshare- Advancing hydrology through collaborative data and model sharing. Poster presented at 2017 NSF SI2 PI meeting.
 
 ### Slice-based network transit service: Inter-domain L2 networking on ExoGENI
-- DOI: 10.1109/infcomw.2017.8116468 
+- DOI: 10.1109/infcomw.2017.8116468
+- TYPE: Conference Paper 
 - CITATION: Yao, Y., Cao, Q., Chase, J., Ruth, P., Baldin, I., Xin, Y., & Mandal, A. (2017). Slice-based network transit service: Inter-domain L2 networking on ExoGENI. INFOCOM17 workshop on Distributed Cloud Computing (DCC ’17). 
 
 ### Integration of expression quantitative trait loci and pleiotropy identifies a novel psoriasis susceptibility gene, PTPN1
 - DOI: 10.1002/jgm.2939
+- TYPE: Journal Article
 - CITATION: Yin, X., Lin, Y., Shen, C., Wang, L., Zuo, X., Zheng, X., Yang, S., et al. (2017). Integration of expression quantitative trait loci and pleiotropy identifies a novel psoriasis susceptibility gene, PTPN1. The - Journal of Gene Medicine, 19(1-2), doi: 10.1002/jgm.2939
 
 ### Genome-wide meta-analysis identifies a novel susceptibility signal at CACNA2D3 for nicotine dependence
 - DOI: 10.1002/ajmg.b.32540
+- TYPE: Journal Article
 - CITATION: Yin, X., Bizon, C., Tilson, J., Lin, Y., Gizer, I.R., Ehlers, C.L., & Wilhelmson, K.C. (2017). Genome-wide meta-analysis identifies a novel susceptibility signal at CACNA2D3 for nicotine dependence. American Journal of - Medical Genetics Part B: Neuropsychiatric Genetics. doi: 10.1002/ajmg.b.32540
 
 ### The Role of microRNA Expression in Cortical Development During Conversion to Psychosis
 - DOI: 10.1038/npp.2017.34
+- TYPE: Journal Article
 - CITATION: Zheutlin, A.B., Jeffries, C.D., Perkins, D.O., Chung, Y., Chekroud, A.M., Addington, J., et al. (2017). The role of microRNA expression in cortical development during conversion to psychosis. Neuropsychopharmacology, - doi: 10.1038/npp.2017.34
+
+### Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability
+- TYPE: Workshop Report
+- CITATION: Aspen Institute. (2017). Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability. Aspen, Colorado: Aspen Institute. (Report Contributor)
+
+### Research Triangle Environmental Health Collaborative
+- TYPE: Workshop Report
+- CITATION: Research Triangle Environmental Health Collaborative. (2017). 2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report. Research Triangle Park, NC: RTEHC. (Report Contributor)
 
 # 2018
 
-### Contextual visualization: making the unseen visible to combat bias during visual analysis
-- DOI: -
-- TYPE: Journal Article
-- CITATION: Borland, D., Wang, W., & Gotz, D. Contextual visualization: making the unseen visible to combat bias during visual analysis. (2018). IEEE Computer Graphics and Applications. Accepted for publication
-
 ### Visualizing Information
 - DOI: -
-- TYPE: Presentation
+- TYPE: Short Course
 - EVENT: Duke Center for Health Informatics Short Course
+- YEAR: 2018
 - CITATION: Borland, D. Visualizing Information. Duke Center for Health Informatics Short Course. U.S. Food and Drug Administration. March 16, 2018
 
 ### Coping with “Big Data” in research computing
 - DOI: -
 - TYPE: Presentation
 - EVENT: eResearch New Zealand 2018
+- YEAR: 2018
 - URL: https://az659834.vo.msecnd.net/eventsairseasiaprod/production-uoaevents-public/fcf6dd8a1ab649d8b1476319c156e634
 
 ### Evaluating path query mechanisms as a foundation for SDN network control
 - DOI: 10.1109/netsoft.2018.8460116 
-- TYPE: Presentation
+- TYPE: Conference Paper
+- EVENT: IEEE Conference on Network Softwarization (Netsoft)
 - CITATION: Gao, S., Shrivastava, S., Ogan, K., Baldin, I., & Xin, Y. (2018, June). Evaluating path query mechanisms as a foundation for SDN network control. IEEE Conference on Network Softwarization (Netsoft). Montreal, Canada
 
 ### HydroShare and iRODS: How iRODS manages data for a hydrology community of 1000’s of users
 - DOI: -
 - TYPE: Presentation
+- EVENT: iRODS User Group Meeting
 - CITATION: Idaszak, R, Tarboton, D.G. (PI), Yi, H., Calloway, C., Wang, S., Horsburgh, J., Ames, D., Clark, M., Goodall, J., Couch, A., Castronova., T., Bandaragoda, C., Seul, M., Henderson, M., & Doan, P. (2018, June). HydroShare and iRODS: How iRODS manages data for a hydrology community of 1000’s of users. iRODS User Group Meeting. Durham, NC. 
 
 ### Cyberinfrastructure for enhancing interdisciplinary engagement in coastal risk management research
 - DOI: -
-- TYPE: -
+- TYPE: Presentation
+- EVENT: iEMSs 2018
 - CITATION: Karancia, A., Stillwell, L., Lenhardt, W.C., & Dietrich, C. (2018, June). Cyberinfrastructure for enhancing interdisciplinary engagement in coastal risk management research. iEMSs 2018. Fort Collins, CO. 
 
 ### Detecting outliers in network transfers with feature extraction
@@ -2062,24 +2074,17 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 
 ### NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data
 - DOI: 
-- TYPE: ?
+- TYPE: Report
 - CITATION: Lenhardt, W. C., & Blanton. B. (2018). NC Policy Collaboratory Project Report: Increasing Access to Certain North Carolina Environmental Monitoring and Natural Resource Data (pp. 1-42, Rep.). Chapel Hill, NC: RENCI, UNC-Chapel Hill
 - URL: https://collaboratory.unc.edu/files/2018/04/Collaboratory-Data-Study-Report-to-NCGA-1April2018.pdf
 
-### Routing path optimization for regulating delays in wide-area controllers implemented over cloud networks
-- DOI: -
-- TYPE: Presentation
-- CITATION: Ni, H., Rahouti, M., Chakrabortty, A., Xiong, K., & Xin, Y. (2018, August). Routing path optimization for regulating delays in wide-area controllers implemented over cloud networks. IEEE PES General Meeting. Portland, OR. 
-
 ### Analytics for earth science data discovery: Applying DataBridge to long-tail and large data collections in the earth and environmental sciences
 - DOI: -
-- TYPE: Presentation
+- TYPE: Poster
+- EVENT: ESIP Winter Meeting
+- YEAR: 2018
 - CITATION: Rajasekar, A., Lander, H, & Lenhardt, W.C. (2018, January). Analytics for earth science data discovery: Applying DataBridge to long-tail and large data collections in the earth and environmental sciences. ESIP Winter Meeting. Bethesda, MD
-
-### Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO
-- DOI: -
-- TYPE: Journal Article
-- CITATION: Ramirez, G., Sarino, F., Tilson, J.L., & Ermler, W.C. Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO. Journal of Chemistry (under review)
+- URL: https://figshare.com/articles/Analytics_for_Earth_Science_Data_Discovery_Applying_DataBridge_to_Long-tail_and_Large_Data_Collections_in_the_Earth_and_Environmental_Sciences_Presented_at_the_Winter_2018_ESIP_Meeting/5853063
 
 ### A truthful online auction mechanism for deadline-aware cloud resource allocation
 - DOI: 10.1109/noms.2018.8406240
@@ -2089,11 +2094,11 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 - DOI: 10.1016/j.envsoft.2017.12.008 
 - TYPE: Journal Article
 
-### An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 1 – Decision Support System
+### An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 1–Decision Support System
 - DOI: 10.1111/risa.12990 
 - TYPE: Journal Article
 
-### An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 2 – Hazard modeling
+### An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 2–Hazard modeling
 - DOI: 10.1111/risa.13004 
 - TYPE: Journal Article
 
@@ -2105,31 +2110,19 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 - DOI: 10.1109/noms.2018.8406273 
 - TYPE: Conference Paper
 
-### Community-based Modeling Forum in Support of Integrated Water Prediction
-- DOI: -
-- TYPE: ? Panelist
-- CITATION: NOAA’s National Ocean Service (NOS) will host a town hall to discuss the development of a community-based modeling approach to support the burgeoning NOAA Water Initiative and NOAA’s unified modeling framework.  The NOAA Water Initiative is working towards establishing boundary-spanning partnerships across multiple sectors to create and deliver integrated or ”total” water information to meet the needs around inland and coastal water issues.  A unified modeling approach will facilitate the transition of new models and upgrades by laying out the framework and standards for model coupling in order to streamline the process of sharing data sets and model code.  NOS intends to discuss its model requirements and gather feedback on ways to improve service delivery through this unified modeling effort, and better leverage the external research community to accelerate the transition of regional coastal research models into NOAA. Opportunities to foster collaboration with coastal modelers and practitioners through cloud computing and grant initiatives like the Coastal Ocean Modeling Testbed will be discussed.
-
-### Data Translator Hackathon
-- DOI: -
-- TYPE: Workshop
-- CITATION: Participated in week-long hackathon for Data Translator
-
 ### Dual View: multivariate visualization using linked layouts of objects and dimensions
 - DOI: -
 - TYPE: Poster
-- EVENT: IEEE VIS 2018
+- EVENT: IEEE VIS
+- YEAR: 2018
 - AUTHORS: D. Borland, D. Gotz.
 - URL: http://ieeevis.org/year/2018/info/posters
-
-### Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)
-- DOI: 10.5334/jors.184 
-- TYPE: Journal Article
 
 ### Increasing understanding of survey re-weighting with visualization
 - DOI: -
 - TYPE: Poster
-- EVENT: IEEE VIS 2018. 2018.
+- EVENT: IEEE VIS 
+- YEAR: 2018
 - AUTHORS: Y. Zhang, D. Borland, D. Gotz.
 - URL: http://ieeevis.org/year/2018/info/posters
 
@@ -2150,7 +2143,8 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 ### Ontology-based interactive visualization of patient-generated research questions
 - DOI: -
 - TYPE: Presentation
-- EVENT: 2018 Workshop on Visual Analytics in Healthcare (VAHC 2018)
+- EVENT: Workshop on Visual Analytics in Healthcare (VAHC 2018)
+- YEAR: 2018 
 - CITATION: D. Borland, L. Christopherson, and C. Schmitt. Ontology-based interactive visualization of patient-generated research questions. 2018 Workshop on Visual Analytics in Healthcare (VAHC 2018). 2018.
 - URL: https://www.visualanalyticshealthcare.org/docs/VAHC-2018-Schedule.pdf
 
@@ -2158,12 +2152,15 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 - DOI: -
 - TYPE: Master's Thesis
 - AUTHOR: Jessica L. Smith
+- YEAR: 2018
 - CITATION: Storm surge is a major source of devastation for hurricane events, and as such it is important to understand the uncertainty associated with storm surge forecasting. Uncertainty in predicted storm surge can be quantified by synthesizing a suite of probable storm tracks that are based on errors in predictions of previous hurricanes and computing storm surge with a suitable model. Davis et al (2010) developed an approach to track generation based on cross track errors in the official National Hurricane Center forecast tracks. In this work, we extend the methods from Davis et al (2010) to include along track and maximum wind speed errors. Errors in the NHC forecasts are used to compute probability distributions that are sampled to generate synthetic tracks on either side of the official forecast, with each track having an equal likelihood of occurrence. Storm surge for each track is then computed with the ADCIRC model (Westerink et al, 2008) to generate probability of exceedance maps and worst-case potential storm surge (maximum of maximums).
 - URL: https://cdr.lib.unc.edu/indexablecontent/uuid:1021fc4d-0b0f-497f-a7bd-c4b82b455739
 
 ### Rethinking Flood Analytics
 - DOI: -
-- TYPE: ?
+- TYPE: Conference Paper
+- EVENT: Flood Analytics Colloquium
+- YEAR: 2018
 - CITATION: This report draws from the vision of a flood-resilient nation and its associated challenges to address the current state of analytics and a “blue sky” set of principles that guides where analytics may lead. It then seeks to bridge the gaps between where flood analytics stands and the finish line by identifying key research and development needs and opportunities. Finally, it discusses opportunities within the Flood Apex Program and among other academic and agency efforts for inclusion and collaboration to rethink flood analytics
 - URL: http://coastalresiliencecenter.unc.edu/wp-content/uploads/2018/04/CRC-FloodAnalytics-Colloquium-Report.pdf
 
@@ -2186,7 +2183,8 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 ### Upper elementary students’ explanations of “why ice melts” and the influence of haptic force feedback
 - DOI: -
 - TYPE: Presentation
-- EVENT: 2018 NARST Annual International Conference
+- EVENT: NARST Annual International Conference
+- YEAR: 2018
 - CITATION: J. Minogue, D. Hunter, D. Borland, and M. Russo. Upper elementary students’ explanations of “why ice melts” and the influence of haptic force feedback. 2018 NARST Annual International Conference. 2018.
 - URL: https://www.narst.org/annualconference/2018_NARST_Clickable_Conference_Program.pdf
 
@@ -2198,10 +2196,12 @@ No-Execute-After-Read: Preventing Code Disclosure in Commodity Software. ASIA CC
 - DOI: -
 - TYPE: Presentation
 - EVENT: 2018 Workshop on Visual Analytics in Healthcare (VAHC 2018)
+- YEAR: 2018
 - CITATION: W. Zhao, D. Borland, A. E. Chung, and D. Gotz. Visual cohort queries for high-dimensional data: a design study. 2018 Workshop on Visual Analytics in Healthcare (VAHC 2018). 2018.
 - URL: https://www.visualanalyticshealthcare.org/docs/VAHC-2018-Schedule.pdf
 
 ### Arachne: an OWL RL Reasoner Applied to Gene Ontology Causal Activity Models (and Beyond)
+- DOI: -
 - TYPE: Presentation
 - EVENT: ISWC 2018
 - ABSTRACT: This paper introduces Arachne, an RDF rule engine with support for
@@ -2210,20 +2210,18 @@ the Gene Ontology (GO) Consortium to provide real-time reasoning within the
 Noctua modeling tool while creating GO “Causal Activity Models”.
 - URL: http://ceur-ws.org/Vol-2180/
 
-### Practical Experiences in Advanced Data Discovery: The DataBridge for Neuroscience project
-- TYPE: Poster
-- EVENT: NeuroInformatics 2018
-- DESCRIPTION: This poster discusses the NSF Funded DataBridge for Neuroscience project. The primary goal of this project was to introduce advanced techniques for Data Discovery to the Neuroinformatics community.
-
 ### DataBridge for Neuroscience
+- DOI - 
 - TYPE: Presentation
-- EVENT: NeuroInformatics 2018
+- EVENT: NeuroInformatics
+- YEAR: 2018
 - DESCRIPTION: This talk presented the DataBridge for Neuroscience project at the INCF 2018 Workshop on Advanced Data Discovery for Neuroscience held in conjunction with NeuroInformatics 2018, Montreal Canada.
 - URL: http://www.neuroinformatics2018.org/abstracts/
 
 ### INCF 2018 Workshop on Advanced Data Discovery for Neuroscience
 - TYPE: Workshop
-- EVENT: INCF 2018
+- EVENT: INCF 2018 Workshop on Advanced Data Discovery for Neuroscience
+- YEAR: 2018
 - URL: https://sites.google.com/renci.org/neuroinformatics-18-workshop/home
 
 ### Tobacco use and psychosis risk in persons at clinical high risk
@@ -2231,7 +2229,7 @@ Noctua modeling tool while creating GO “Causal Activity Models”.
 - TYPE: Journal Article
 
 ### Whole genome sequence study of cannabis dependence in two independent cohorts
-- DOI: https://doi.org/10.1111/adb.12489  
+- DOI: 10.1111/adb.12489  
 - TYPE: Journal Article
 
 ### Diagnostic utility of exome sequencing in the evaluation of neuromuscular disorders
@@ -2248,13 +2246,18 @@ Noctua modeling tool while creating GO “Causal Activity Models”.
 
 ### The Future of Multi-Clouds: a Survey of Essential Architectural Elements
 - DOI: -
-- TYPE: Presentation (Keynote)
-- EVENT: MoNeTec 2018
+- TYPE: Keynote
+- EVENT: MoNeTec
+- YEAR: 2018
 - URL: http://nrig.renci.org/wp-content/uploads/2018/11/Monetec_2018.pdf
 
-### Developing Methods for Standardized Patient Cohort
+### Developing Methods for Standardized Patient Cohort Deduplication Across the Carolinas Collaborative, A Regional Data Research Network
 - DOI: -
-- CITATION: Robert Bradford, Ashok Krishnamurthy, Jordan Brittingham, Steve Evans, Brian Ostasiewski, Wonhee Yang and Kira Bradford, Developing Methods for Standardized Patient Cohort, Deduplication Across the Carolinas Collaborative, A Regional Data Research Network, AMIA Clinical Informatics Conference, 2018.
+- TYPE: Presentation
+- EVENT: AMIA Clinical Informatics Conference
+- YEAR: 2018
+- CITATION: Robert Bradford, Ashok Krishnamurthy, Jordan Brittingham, Steve Evans, Brian Ostasiewski, Wonhee Yang and Kira Bradford, Developing Methods for Standardized Patient Cohort Deduplication Across the Carolinas Collaborative, A Regional Data Research Network, AMIA Clinical Informatics Conference, 2018.
+- URL: https://cic2018.zerista.com/event/member?item_id=7657852
 
 ### Surgical Critical Care Initiative Data Management: Systems and Processes Enabling Research and Clinical Decision Support Tool Development to Improve Precision Medicine in Acute Care
 - TYPE: Poster
@@ -2262,8 +2265,11 @@ Noctua modeling tool while creating GO “Causal Activity Models”.
 - CITATION: MacKelfresh, A., Belard, A., Schobel, S., Limkakeng, A., Heath, A., Hurst, B., James, J., Kapeljushnik, O., Shoffner, M., Sliwowski, M., Lones, J., Pinson, L., Kirsch, J., Turk, M., 
 Almond, C., Clear, C., Crubezy, M., McCourt, B., Hill, C., Huang, E., Kirk, A., Buchman, T., Elster, E. Surgical Critical Care Initiative Data Management: Systems and Processes Enabling Research and Clinical Decision Support Tool Development to Improve Precision Medicine in Acute Care. Poster presented at Military Health System Research Symposium (MHSRS), August 20-23, 2018, Kissimmee, FL
 
-====
-
+### Enabling eResearch with Automated Data Management from Ingestion Through Distribution
+- TYPE: Presentation
+- EVENT: eResearch Australia 2018
+- AUTHORS: Davis Fellinger
+- URL: https://conference.eresearch.edu.au/2018-program/
 
 ### Trans-Atlantic Workshop on Public Private Partnerships for Big Data Research & Innovation and Workforce Development
 - TYPE: Workshop Report
@@ -2293,10 +2299,3 @@ Almond, C., Clear, C., Crubezy, M., McCourt, B., Hill, C., Huang, E., Kirk, A., 
 - TYPE: Workshop Report
 - CITATION: Prange, E., Lande, M., and Cavalier, D. (2018). Citizen Science Maker Summit Report: Learning Outcomes and Next Steps. Tempe, AZ: Arizona State University and SciStarter. (Workshop Advisor/Report Contributor)
 
-### Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability
-- TYPE: Workshop Report
-- CITATION: Aspen Institute. (2017). Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability. Aspen, Colorado: Aspen Institute. (Report Contributor)
-
-### Research Triangle Environmental Health Collaborative
-- TYPE: Workshop Report
-- CITATION: Research Triangle Environmental Health Collaborative. (2017). 2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report. Research Triangle Park, NC: RTEHC. (Report Contributor)

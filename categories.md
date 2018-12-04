@@ -10,10 +10,12 @@ Presentation:
   - Panelist
   - Class
   - Poster
+  - Short Course
 
 Other:
   - Patent
   - RENCI White Paper
+  - Hackathon
   - Workshop
   - Workshop Report
   - Conference Paper
