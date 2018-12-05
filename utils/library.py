@@ -9,7 +9,8 @@ class Publication:
         work = works.doi(doi)
         if work:
             self.doi = doi
-            self.title = work['title'][0]
+            if 'title' in work:
+                self.title = work.get('title', '')
             if 'author' in work:
                 self.authors = self._authors_names(work['author'])
             self.type = work.get('type', '')
@@ -61,25 +62,27 @@ class Library:
     def __init__(self):
         self.publications = []
 
-    def _read_dois(self, filename, count = 0):
+    def _read_dois(self, filename, count = None):
         '''
-        Read <filename> for DOIs that desire to be part of the library.
+        Read existing library (specified by <filename>, if it exists.
         '''
-        print('Reading DOIs...')
-        with open(filename) as f:
-            if count < 0:
-                dois = f.readlines()
-            else:
-                dois = f.readlines()[:count]
-        dois = list(set([doi.strip() for doi in dois]))
-        print(f'...done! ({len(dois)})')
+        try:
+            assert type(count) is int or count == None
+            with open(filename) as f:
+                if count:
+                    dois = json.load(f)[:count]
+                else:
+                    dois = json.load(f)
+        except AssertionError:
+            print('Error: <count> must be of type \'int\' if set.')
+            return []
         return dois
 
     def build(self, filename):
         '''
         Read DOIs from <filename> and build list of Publications.
         '''
-        dois = self._read_dois(filename, 3)
+        dois = self._read_dois(filename)
         publications = []
         for i in range(len(dois)):
             print(f'{i + 1}. Creating publication with DOI {dois[i]}...', end='')
