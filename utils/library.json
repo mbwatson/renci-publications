@@ -1,0 +1,88 @@
+[
+  {
+    "doi": "10.1145/2491661.2481434",
+    "title": "An early prototype of an autonomic performance environment for exascale",
+    "authors": [
+      "Kevin Huck",
+      "Sameer Shende",
+      "Allen Malony",
+      "Hartmut Kaiser",
+      "Allan Porterfield",
+      "Rob Fowler",
+      "Ron Brightwell"
+    ],
+    "type": "proceedings-article",
+    "container": [
+      "Proceedings of the 3rd International Workshop on Runtime and Operating Systems for Supercomputers - ROSS '13"
+    ],
+    "date": "2013-06-11",
+    "citation": "Huck, K., Shende, S., Malony, A., Kaiser, H., Porterfield, A., Fowler, R., & Brightwell, R. (2013). An early prototype of an autonomic performance environment for exascale. Proceedings of the 3rd International Workshop on Runtime and Operating Systems for Supercomputers - ROSS  \u201913. doi:10.1145/2491661.2481434\n"
+  },
+  {
+    "doi": "10.1007/s12013-009-9042-y",
+    "title": "In\u00a0Silico Construction of a Protein Interaction Landscape for Nucleotide Excision Repair",
+    "authors": [
+      "Nancy Tran",
+      "Ping-Ping Qu",
+      "Dennis A. Simpson",
+      "Laura Lindsey-Boltz",
+      "Xiaojun Guan",
+      "Charles P. Schmitt",
+      "Joseph G. Ibrahim",
+      "William K. Kaufmann"
+    ],
+    "type": "journal-article",
+    "container": [
+      "Cell Biochemistry and Biophysics"
+    ],
+    "date": "2009-01-20",
+    "citation": "Tran, N., Qu, P.-P., Simpson, D. A., Lindsey-Boltz, L., Guan, X., Schmitt, C. P., \u2026 Kaufmann, W. K. (2009). In\u00a0Silico Construction of a Protein Interaction Landscape for Nucleotide Excision Repair. Cell Biochemistry and Biophysics, 53(2), 101\u2013114. doi:10.1007/s12013-009-9042-y\n"
+  },
+  {
+    "doi": "10.1093/bioinformatics/btt477",
+    "title": "Imputation of coding variants in African Americans: better performance using data from the exome sequencing project",
+    "authors": [
+      "Qing Duan",
+      "Eric Yi Liu",
+      "Paul L. Auer",
+      "Guosheng Zhang",
+      "Ethan M. Lange",
+      "Goo Jun",
+      "Chris Bizon",
+      "Shuo Jiao",
+      "Steven Buyske",
+      "Nora Franceschini",
+      "Chris S. Carlson",
+      "Li Hsu",
+      "Alex P. Reiner",
+      "Ulrike Peters",
+      "Jeffrey Haessler",
+      "Keith Curtis",
+      "Christina L. Wassel",
+      "Jennifer G. Robinson",
+      "Lisa W. Martin",
+      "Christopher A. Haiman",
+      "Loic Le Marchand",
+      "Tara C. Matise",
+      "Lucia A. Hindorff",
+      "Dana C. Crawford",
+      "Themistocles L. Assimes",
+      "Hyun Min Kang",
+      "Gerardo Heiss",
+      "Rebecca D. Jackson",
+      "Charles Kooperberg",
+      "James G. Wilson",
+      "Gon\u00e7alo R. Abecasis",
+      "Kari E. North",
+      "Deborah A. Nickerson",
+      "Leslie A. Lange",
+      "Yun Li"
+    ],
+    "type": "journal-article",
+    "container": [
+      "Bioinformatics"
+    ],
+    "date": "2013-08-17",
+    "citation": "Duan, Q., Liu, E. Y., Auer, P. L., Zhang, G., Lange, E. M., Jun, G., \u2026 Li, Y. (2013). Imputation of coding variants in African Americans: better performance using data from the exome sequencing project. Bioinformatics, 29(21), 2744\u20132749. doi:10.1093/bioinformatics/btt477\n"
+  }
+]
