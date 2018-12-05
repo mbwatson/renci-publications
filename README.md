@@ -1,5 +1,7 @@
 # RENCI Publications
 
+## [Jump to Publications](publications.md)
+
 ## What is This?
 
 This repo houses publication information for RENCI.
