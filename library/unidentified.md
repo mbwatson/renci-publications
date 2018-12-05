@@ -1,5 +1,178 @@
 # 2016
 
+### South Big Data Hub Overview
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Ahalt, SC, South Big Data Hub & EPA meeting, January 2016, RTP, NC. Overview of the SBDH followed by discussion.
+
+### Big Data Innovation Hubs
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L. A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin. Big Data Innovation Hubs. White House NITRD Big Data Interagency Working Group Meeting. July 2016. (Washington, DC). (Invited presentations)
+
+### Big Data Innovation Hubs in the United States: Opportunities for Public-Private Partnerships
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L.A., Big Data Innovation Hubs in the United States: Opportunities for Public-Private Partnerships. European Union Big Data Value Association. Valencia, Spain. Nov 31, 2016. (Invited Plenary)
+
+### Big Data Innovation Hubs Panel
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L. A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin, M. Big Data Innovation Hubs Panel. NSF Big Data PI Workshop. Washington, D.C. April 2016. (Invited panelist)
+
+### Big Data Innovation Hubs. IEEE Big Data Summit
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L. A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin. Big Data Innovation Hubs. IEEE Big Data Summit. Washington, DC. December 7, 2016.
+
+### Capitol Hill Briefing
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Ahalt, SC, South Big Data Hub, Capitol Hill Briefing, July 2016, Washington, DC, invited presenter/panelist
+
+### Citizen Science: Even Big Data Starts Small
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L.A., Citizen Science: Even Big Data Starts Small. US EPA Environmental Measurement Symposium. August 2016. (Orange County, CA) (Invited Keynote) 
+
+### 2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report
+- DOI: -
+- TYPE: Other
+- CITATION: Research Triangle Environmental Health Collaborative. (2017). 2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report. Research Triangle Park, NC. (Contributor)
+
+### Bidirectional Integration of Multiple Metadata Sources
+- TYPE: Publication / Paper ... Presentation?
+- CITATION: Hao Xu.  iRODS User Group Meeting 2016.  Chapel Hill, NC.  June 2016.
+
+### Behavior Genetics
+- TYPE: Publication / Paper
+- CITATION: Gizer, I., Bizon, C., Gilder, D., Wilhelmsen, K. & Ehlers, C. (2016)  783-784 (SPRINGER 233 SPRING ST, NEW YORK, NY 10013 USA).
+- TRY: https://link.springer.com/journal/volumesAndIssues/10519
+
+### Capitol Hill Briefing
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Ahalt, SC, South Big Data Hub, Capitol Hill Briefing, July 2016, Washington, DC, invited presenter/panelist
+
+### Citizen Science: Even Big Data Starts Small
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L.A., Citizen Science: Even Big Data Starts Small. US EPA Environmental Measurement Symposium. August 2016. (Orange County, CA) (Invited Keynote) 
+
+### Big Data Innovation Hubs
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L. A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin. Big Data Innovation Hubs. White House NITRD Big Data Interagency Working Group Meeting. July 2016. (Washington, DC). (Invited presentations)
+
+### Big Data Innovation Hubs in the United States: Opportunities for Public-Private Partnerships
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L.A., Big Data Innovation Hubs in the United States: Opportunities for Public-Private Partnerships. European Union Big Data Value Association. Valencia, Spain. Nov 31, 2016. (Invited Plenary)
+
+### Big Data Innovation Hubs Panel
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L. A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin, M. Big Data Innovation Hubs Panel. NSF Big Data PI Workshop. Washington, D.C. April 2016. (Invited panelist)
+
+### Big Data Innovation Hubs. IEEE Big Data Summit
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L. A., Baston, R., Rawlings-Goss, R., Lee, M., Craigin. Big Data Innovation Hubs. IEEE Big Data Summit. Washington, DC. December 7, 2016.
+
+### South Big Data Innovation Hub. UNC Analytics for Policy Workshop
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L.A. South Big Data Innovation Hub. UNC Analytics for Policy Workshop (Chapel Hill, NC) (Invited Presentation)
+
+### South Big Data Innovation Hub. West Big Data Innovation Hub All Hands
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L. A., South Big Data Innovation Hub. West Big Data Innovation Hub All Hands Workshop. May 2016. (Berkeley, CA). (Panelist) 
+
+### Privacy Preserving Linkages, Linking with Social Media and Mobile Data
+- DOI: -
+- TYPE: Publication / Paper
+- CITATION: Ashok Krishnamurthy, “Privacy Preserving Linkages, Linking with Social Media and Mobile Data,” CER Symposium, 2016.
+
+### RENCI Overview - NDS
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Ahalt, SC, RENCI Overview, NDS annual meeting, April 2016, Chapel Hill, NC, invited remarks
+
+### Scientific Training in the Era of Big Data: A New Pedagogy for Graduate Education
+- DOI: -
+- TYPE: Publication / Paper
+- CITATION: Jay Aikat, Thomas Carsey, Karamarie Fecho, Kevin Jeffay, Ashok Krishnamurthy, Peter Mucha, Arcot Rajasekar, Stanley Ahalt
+
+### South Big Data Hub DataStart Workshop
+- DOI: -
+- TYPE: Other
+- CITATION: Shanley, L.A. South Big Data Hub DataStart Workshop (Durham, NC) (Moderator)
+
+### Multi-Output Artificial Neural Network for Storm Surge Prediction in North Carolina
+- DOI: -
+- TYPE: Publication / Paper
+- CITATION: Multi-Output Artificial Neural Network for Storm Surge Prediction in North Carolina
+
+### NCDS and the Data Observatory
+- DOI: -
+- TYPE: Publication / Paper
+- CITATION: Ashok Krishnamurthy, “NCDS and the Data Observatory,” NCDS Databytes Webinar, 2016
+
+### NSF BD Hub PI meeting
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Ahalt, SC, NSF Big Data Hub Principal Investigators meeting, April 2016, Arlington, VA, Panelist
+
+### Of the people, by the people, for the people: Open Science in government
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L.A. Invited keynote. 2016 Shenzhen Assembly: Open Innovation and the Environment. Shenzhen, China. March 2016.
+
+### Controlling Next-Generation Electric Power Grids using High-Speed Cloud Computing
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Jianhua Zhang, Matthew Weiss, Aranya Chakrabortty and Yufeng Xin, Controlling Next-Generation Electric Power Grids using High-Speed Cloud Computing. US Ignite Summit, June 13-15, Austin.
+
+### Data Quality in Federal Agencies
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L.A., Wiggins, A., Liu, S. Data Quality in Federal Agencies. Citizen Science Makers Summit 2016. Hosted by Arizona State University School for the Future of Innovation in Society. Phoenix, AZ. October 27, 2016. (Invited Panel Moderator) 
+
+### Data Quality in Federal Agencies. Citizen Science Makers Summit 2016
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L.A., Wiggins, A., Liu, S. Data Quality in Federal Agencies. Citizen Science Makers Summit 2016. Hosted by Arizona State University School for the Future of Innovation in Society. Phoenix, AZ. October 27, 2016. (Invited Panel Moderator)
+
+### DataNet Federation Meeting
+- DOI: -
+- TYPE: Participant
+- CITATION: Shanley, L.A., DataNet Federation Meeting. August 2016 (Chapel Hill, NC)
+
+### Location Powers Workshop to Advance Geospatial Applications of Big Data
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L. A. Wang, S., Greenbacker, C., de La Beaujardiere, J. Applications. Location Powers Workshop to Advance Geospatial Applications of Big Data. Hosed by the Open Geospatial Consortium and University of Central Florida. Orlando, FL. September 20, 2016. (Invited Panelist)
+
+### Panel on Open Science: Policy innovation and social impact. European Citizen Science Association
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L. A., Rubio-Iglesias, J.M., Shade, S., Herbst, C., Owen, R. Panel on Open Science: Policy innovation and social impact. European Citizen Science Association. Berlin, Germany. May 2016. (Invited panelist)
+
+### Panel on Public Private Partnerships
+- DOI: -
+- TYPE: Lecture / Talk / Demonstration
+- CITATION: Shanley, L.A. Panel on Public Private Partnerships. Smart Cities Data Sharing Workshop. Co-hosted by the White House and Orange Telecommunications. San Francisco, CA. October 24, 2016. (Invited Panelist)
+
+### People Powered Earth Observation: Even Big Data Starts Small
+- DOI: -
+- TYPE: Presentation
+- EVENT: 
+- YEAR: 2016
+- CITATION: Shanley, L.A. People Powered Earth Observation: Even Big Data Starts Small. Invited presentation to the National Academy of Sciences, Engineering and Medicine’s Committee on Earth Science and Applications from Space. Washington, DC. October 4, 2016. (Invited Presentation).
+
+### Clinical Sequencing Exploratory Research Consortium: Accelerating Evidence-Based Practice of Genomic Medicine
+- DOI: 
+- TYPE: Publication / Paper
+- CITATION: Green RC, Goddard KA, Jarvik GP, Amendola LM, Appelbaum PS, Berg JS, Bernhardt BA, Biesecker LG, Biswas S, Blout CL, Bowling KM, Brothers KB, Burke W, Caga-Anan CF, Chinnaiyan AM, Chung WK, Clayton EW, Cooper GM, East K, Evans JP, Fullerton SM, Garraway LA, Garrett JR, Gray SW, Henderson GE, Hindorff LA, Holm IA, Lewis MH, Hutter CM, Janne PA, Joffe S, Kaufman D, Knoppers BM, Koenig BA, Krantz ID, Manolio TA, McCullough L, McEwen J, McGuire A, Muzny D, Myers RM, Nickerson DA, Ou J, Parsons DW, Petersen GM, Plon SE, Rehm HL, Roberts JS, Robinson D, Salama JS, Scollon S, Sharp RR, Shirts B, Spinner NB, Tabor HK, Tarczy-Hornoch P, Veenstra DL, Wagle N, Weck K, Wilfond BS, Wilhelmsen K, Wolf SM, Wynn J, Yu JH; CSER Consortium.. 
+Am J Hum Genet. 2016 Jul 7;99(1):246. doi: 10.1016/j.ajhg.2016.06.002. No abstract available. 
+PMID: 27392080 [PubMed - as supplied by publisher] Free PMC Article 
+
 ### An integrated scenario ensemble-based framework for hurricane evacuation modeling: Part 1—Evacuation modeling
 - DOI: -
 - TYPE: Journal Article
