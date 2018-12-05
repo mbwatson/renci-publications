@@ -16,11 +16,12 @@ Current citations live inside `div`s with id `tabYYYY-slug`, where `YYYY` is the
 Scrape the page with Javascript, with something like the following.
 
 ```javascript
+const num = 10
 publications = []
 for (let i = 2005; i <= 2018; i++) {
     const idValue = 2020 - i
-    const titleID = `#titlXX-${ idValue }_`
-    const bodyID = `#tbodXX-${ idValue }__`
+    const titleID = `#titl${ num }-${ idValue }_`
+    const bodyID = `#tbod${ num }-${ idValue }__`
     const year = document.querySelector(titleID).querySelector('#group0').innerText.match(/Year : (\d{4})/)[1]
     publications[year] = []
     const body = document.querySelector(bodyID).nextElementSibling
@@ -36,7 +37,7 @@ for (let i = 2005; i <= 2018; i++) {
 console.log(publications)
 ```
 
-\* Note that the number `XX` appearing in the element id names `#titlXX-` and `#tbodXX-` changes on page refreshes, so be sure to inspect the element containing the date on the page for that value, and make the change. Executing the code will dump out an array of publications, grouped by year, to the console, like the following.
+\* Note that the value of `num` appears in the element id names `#titlXX-` and `#tbodXX-` this value changes on page refreshes, so be sure to inspect the element containing the date on the page for that value, and assign `num` accordinly. Executing the code will dump out an array of publications, grouped by year, to the console, like the following.
 
 ```javascript
 2005: (3) [{…}, {…}, {…}]
