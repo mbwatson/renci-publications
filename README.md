@@ -1,10 +1,6 @@
 # RENCI Publications
 
-<<<<<<< HEAD
-## [Jump to Publications](publications.md)
-=======
 ## [Jump to Publications](library/publications.md)
->>>>>>> python
 
 ## What is This?
 
