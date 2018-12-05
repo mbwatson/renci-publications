@@ -166,12 +166,7 @@
 - CITATION: Shanley, L.A., Bouazzi, V., Dennis, S., Duffy, D., & Morgan, D. (2017). Federal big data research challenges. NSF Big Data PI Workshop. Washington, DC
 URL: https://www.bi.vt.edu/nsf-big-data/schedule
 
-### Practical Experiences in Advanced Data Discovery: The DataBridge for Neuroscience project
-- DOI: -
-- TYPE: Poster
-- EVENT: NeuroInformatics
-- YEAR: 2018
-- DESCRIPTION: This poster discusses the NSF Funded DataBridge for Neuroscience project. The primary goal of this project was to introduce advanced techniques for Data Discovery to the Neuroinformatics community.
+# 2018
 
 ### Community-based Modeling Forum in Support of Integrated Water Prediction
 - DOI: -
