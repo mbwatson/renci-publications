@@ -3,8 +3,8 @@ from pprint import pprint
 
 #
 
-FILE_IN_DOIS = 'dois.txt'
-FILE_OUT_JSON = 'library.json'
+FILE_IN_DOIS = '../library/dois.txt'
+FILE_OUT_JSON = '../library/library.json'
 
 #
 

@@ -40,4 +40,4 @@ doi_files = [f'../library/{i}.md' for i in range(2005, 2019)]
 # Scrape each filename for DOIs
 dois = scrape_files_for_dois(doi_files)
 # Write DOI list to output file
-write_dois('dois.txt', dois)
+write_dois('../library/dois.txt', dois)
