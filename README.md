@@ -1,6 +1,6 @@
 # RENCI Publications
 
-## [Jump to Publications](library/publications.md)
+## [Browse Publications](library/publications.md)
 
 ## What is This?
 
@@ -50,15 +50,19 @@ console.log(publications)
 
 Find publications on Crossref.org and obtain DOIs for all publications for which DOIs exist. For those not possessing a DOI, follow-up steps are to be determined.
 
-`publications.md` is a list of all harvested citations and DOIs as they are gathered. `dois.txt` contains a list of only DOIs. This will be the master list for the next step.
+The `./publications` directory contains lists of all harvested citations and DOIs as they are gathered manually. 
 
-#### Fetch Publication Metadata
+#### Building the Library
 
-Run DOI list through a Python script to fetch the metadata for known DOIs from the Crossref API.
+The `./utils` directory contains some utility scripts to automate generating a file of DOIs and turning that into a JSON library of publication metadata
 
-#### Store
+###### Scrape
 
-A master JSON file contains all fetched publication information. A general publication object will have the structure shown below.
+In the `./utils` directory, run `$ python scrape.py` to generate a `dois.txt` file of DOIs.
+
+###### Fetch Metadata
+
+In the `./utils` directory, run `$ python build.py` to fetch the metadata for known DOIs from the Crossref API and generate the JSON file `./library/publications.md` of metadata. Within it, a general publication object will have the structure shown below.
 
 ```javascript
 const publications = [
