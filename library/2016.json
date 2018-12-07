@@ -1,489 +1,487 @@
-{
-    "2016": [
-        {
-            "title": "2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report",
-            "doi": "",
-            "type": "Other",
-            "citation": "Research Triangle Environmental Health Collaborative. (2017). 2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report. Research Triangle Park, NC. (Contributor)"
-        },{
-            "title": "Alcoholism: Clinical and Experimental Research",
-            "doi": "",
-            "type": "Journal Article",
-            "citation": "Peng, Q., Wilhelmsen, K. & Ehlers, C.   42A-42A (WILEY-BLACKWELL 111 RIVER ST, HOBOKEN 07030-5774, NJ USA).",
-            "url": "https://onlinelibrary.wiley.com/journal/15300277"
-        },{
-            "title": "An Individualized Risk Calculator for Research in Prodromal Psychosis",
-            "doi": "10.1176/appi.ajp.2016.15070890",
-            "type": "Journal Article"
-        },{
-            "title": "Automatic Analysis of Neonatal Video Data to Evaluate Resuscitation Performance",
-            "doi": "10.1109/ICCABS.2016.7802775",
-            "type": "Conference Paper"
-        },{
-            "title": "2016 Software Infrastructure for Sustained Innovation (SI2) PI Workshop Report",
-            "doi": "",
-            "type": "Workshop Report",
-            "event": {
-                "name": "Software Infrastructure for Sustained Innovation (SI2) Principal Investigator (PI) Workshop",
-                "year": 2016
-            },
-            "citation": "Frank Timmes, Matthew Turk, Stan Ahalt, Shaowen Wang, Ray Idaszak, Richard Brower, Chris Lenhardt, Karl Gustafson. This report summarizes the organization and execution of the National Science Foundation (NSF) sponsored workshop, \"Software Infrastructure for Sustained Innovation (SI2) Principal Investigator (PI) Workshop,\" and the observations and discussions it generated.",
-            "url": "https://dl.acm.org/citation.cfm?id=2965630"
-        },{
-            "title": "A Training and User Support Program for i2b2, a Cohort Discovery Tool for Health Researchers",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "Concordium 2016",
-                "year": 2016
-            },
-            "citation": "Kellie Walters, Robert Bradford and Ashok Krishnamurthy, Concordium 2016, September 2016, https://academyhealth.confex.com/academyhealth/2016concordium/meetingapp.cgi/Paper/13151"
-        },{
-            "title": "A Versatile Platform for Instrumentation of Knowledge Worker’s Computers to Improve Information Analysis",
-            "doi": "10.1109/bigdataservice.2016.47",
-            "type": "Conference Paper"
-        },{
-            "title": "Automatic Analysis of Neonatal Video Data to Evaluate Resuscitation Performance",
-            "doi": "10.1109/iccabs.2016.7802775",
-            "type": "Conference Paper"
-        },{
-            "title": "Can Genetic Analysis of Putative Blood Alzheimer's Disease Biomarkers Lead to Identification of Susceptibility Loci?",
-            "doi": "10.1371/journal.pone.0142360",
-            "type": "Publication / Paper"
-        },{
-            "title": "Common susceptibility variants are shared between schizophrenia and psoriasis in the Han Chinese population",
-            "doi": "10.1503/jpn.150210",
-            "type": "Journal Article"
-        },{
-            "title": "Creating a Secure System: IMPLEMENTATION: VISR: The Virtual Institute for Social Research",
-            "doi": "",
-            "type": "Chapter",
-            "authors": ["Stan Ahalt", "Jay Aikat", "Dan Bedard", "Margaret Burchinall", "Thomas Carsey", "Thu Mai Christian", "Jonathan Crabtree", "Nancy Dole", "Howard Lander", "Latanya Sweeney", "Mary Whitton"],
-            "citation": "Chapter in: Building Trustworthy Digitial Repositories Theory and Implementation, Phillip C Bantin, Rowan and Littlefield Publishers, pgs 292-305"
-        },{
-            "title": "Dynamic Collaboration Infrastructure for Hydrologic Science",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "American Geophysical Union, Fall Meeting",
-                "year": 2016
-            },
-            "citation": "Ray Idaszak, Claris Castillo, David Tarboton, Fan Jiang, Hong Yi, Michael Stealey, Norm Jones, Jon Goodall",
-            "url": "http://adsabs.harvard.edu/abs/2016AGUFM.H41B1336T"
-        },{
-            "title": "Germline Analysis from Tumor-Germline Sequencing Dyads to Identify Clinically Actionable Secondary Findings",
-            "doi": "10.1158/1078-0432.ccr-16-0015",
-            "type": "Journal Article"
-        },{
-            "title": "Insights into psychosis risk from leukocyte microRNA expression",
-            "doi": "10.1038/tp.2016.148",
-            "type": "Journal Article"
-        },{
-            "title": "iRODS 4.2.0",
-            "doi": "",
-            "type": "Software Release",
-            "citation": "The integrated Rule-Oriented Data System.  Released Nov 14, 2016.  Jason Coposky, Terrell Russell, Ben Keller, Zoey Greer, Rick Skarbez, Hao Xu, Antoine de Torcy, Justin James, Cesar Garde."
-        },{
-            "title": "iRODS Audit (C++) Rule Engine Plugin and AMQP",
-            "doi": "",
-            "type": "Publication / Paper",
-            "citation": "Terrell Russell, Jason Coposky, Justin James - RENCI at UNC Chapel Hill.  iRODS User Group Meeting 2016.  Chapel Hill, NC.  June 2016."
-        },{
-            "title": "iRODS User Group Meeting 2016 Proceedings",
-            "doi": "",
-            "type": "Publication / Paper",
-            "citation": "Edited by Terrell Russell, Designed by Cesar Garde.  iRODS Consortium."
-        },{
-            "title": "Large-scale pharmacogenomic study of sulfonylureas and the QT, JT and QRS intervals: CHARGE Pharmacogenomics Working Group",
-            "doi": "10.1038/tpj.2016.90",
-            "type": "Chapter"
-        },{
-            "title": "Modeling and Simulation of Storm Surge on Staten Island to Understand Inundation Mitigation Strategies",
-            "doi": "10.2112/si76-013",
-            "type": "Journal Article"
-        },{
-            "title": "QUARC: an array programming approach to high performance computing",
-            "doi": "10.1007/978-3-319-52709-3_1",
-            "type": "Publication / Paper",
-            "citation": "Diptorup Deb, Robert Fowler, and Allan Porterfield. QUARC: an array programming approach to high performance computing. In 29th International Workshop on Languages and Compilers for Parallel Computing (LCPC 2016), Rochester, NY, 2016."
-        },{
-            "title": "Reconfiguration of Survivable IP over WDM Networks",
-            "doi": "10.1016/j.osn.2015.10.002",
-            "type": "Journal Article"
-        },{
-            "title": "Reproducibility and Visual Inspection of Data",
-            "doi": "10.1016/j.biopsych.2015.07.029",
-            "type": "Publication / Paper"
-        },{
-            "title": "South Big Data Hub Overview - CASC",
-            "doi": "",
-            "type": "Presentation",
-            "event": {
-                "name": "CASC Spring 2016 Meeting",
-                "year": 2016
-            },
-            "citation": "Ahalt, SC, South Big Data Hub Overview, CASC Spring 2016 Meeting, March 2016, Arlington, VA, invited presentation"
-        },{
-            "title": "South Big Data Innovation Hub. PyData Carolinas",
-            "doi": "",
-            "type": "Keynote",
-            "event": {
-                "name": "PyData Carolinas",
-                "year": 2016
-            },
-            "citation": "Shanley, L.A. and Conway, M., South Big Data Innovation Hub. PyData Carolinas. September 16, 2016. (Durham, NC) (Invited Keynote)"
-        },{
-            "title": "A Retrospective on ORCA: Open Resource Control Architecture",
-            "doi": "10.1007/978-3-319-33769-2_7",
-            "type": "Chapter"
-        },{
-            "title": "The Panorama Project: Tools for Modeling, Monitoring, and Anomaly Detection in Scientific Workflow Execution",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "DOE Modeling and Simulation (MODSIM) Workshop",
-                "year": 2016
-            },
-            "citation": "Anirban Mandal, Paul Ruth, Ilya Baldin, Rajiv Mayani, Rafael Ferreira da Silva, Ewa Deelman, Jeremy Meredith, Jeffrey Vetter, Vickie Lynch, Ben Mayer, Chris Carothers, Brian Tierney, Poster presentation at DOE Modeling and Simulation (MODSIM) Workshop, Seattle, WA, August 2016."
-        },{
-            "title": "Towards a Cybernetic Model of Human Movement",
-            "doi": "10.5539/mer.v6n1p29",
-            "type": "Journal Article"
-        },{
-            "title": "VISR: The Virtual Institute for Social Research",
-            "doi": "",
-            "type": "Chapter",
-            "citation": "Ahalt, S., Aikat, J., Bedard, D., Burchinall, M., Carsey, T., Christian, T.M., Crabtree, J., Dole, N., Lander, H., Sweeney, L., Whitton, M. (2016). VISR: The Virtual Institute for Social Research In Philip C. Bantin (Ed.), Building Trustworthy Digital Repositories Theory and Implementation. (pp.292-305). Rowman & Littlefield",
-            "note": "ISBN-13: 978-1442263789, ISBN-10: 1442263784"
-        },{
-            "title": "Scientific Training in the Era of Big Data: A New Pedagogy for Graduate Education",
-            "doi": "10.1089/big.2016.0014",
-            "type": "Journal Article",
-            "url": "https://www.liebertpub.com/doi/abs/10.1089/big.2016.0014?journalCode=big"
-        },{
-            "title": "A New Framework and Prototype Solution for Clinical Decision Support and Research in Genomics and Other Data-intensive Fields of Medicine",
-            "doi": "10.13063/2327-9214.1198",
-            "type": "Journal Article",
-            "citation": "Evans, J.P., Wilhelmsen, K.C., Berg, J., Schmitt, C.P., Krishnamurthy, A., Fecho, K., & Ahalt, S.C. (2016) A New Framework and Prototype Solution for Clinical Decision Support and Research in Genomics and Other Data-intensive Field of Medicine. EGEMS (Washington DC)."
-        },{
-            "title": "Cross-institutional research cyberinfrastructure for data intensive science",
-            "doi": "10.1109/hpec.2016.7761597",
-            "type": "Conference Paper"
-        },{
-            "title": "A Resilient Software Infrastructure for Wide-Area Measurement Systems",
-            "doi": "10.1109/pesgm.2016.7741949",
-            "type": "Conference Paper"
-        },{
-            "title": "A Versatile Platform for Instrumentation of Knowledge Worker's Computers to Improve Information Analysis",
-            "doi": "10.1109/bigdataservice.2016.47",
-            "type": "Conference Paper"
-        },{
-            "title": "Association and ancestry analysis of sequence variants in ADH and ALDH using alcohol-related phenotypes in a Native American community sample",
-            "doi": "10.1002/ajmg.b.32272",
-            "type": "Journal Article"
-        },{
-            "title": "Build It, But Will They Come? A Geoscience Cyberinfrastructure Baseline Analysis",
-            "doi": "10.5334/dsj-2016-008",
-            "type": "Journal Article"
-        },{
-            "title": "Can Genetic Analysis of Putative Blood Alzheimer’s Disease Biomarkers Lead to Identification of Susceptibility Loci?",
-            "doi": "10.1371/journal.pone.0142360",
-            "type": "Journal Article"
-        },{
-            "title": "Clinical Sequencing Exploratory Research Consortium: Accelerating Evidence-Based Practice of Genomic Medicine",
-            "doi": "10.1016/j.ajhg.2016.04.011",
-            "type": "Journal Article"
-        },{
-            "title": "Anomaly detection for scientific workflow applications on networked clouds",
-            "doi": "10.1109/hpcsim.2016.7568396",
-            "type": "Conference Paper"
-        },{
-            "title": "A novel Alzheimer disease locus located near the gene encoding tau protein",
-            "doi": "10.1038/mp.2015.23",
-            "type": "Journal Article"
-        },{
-            "title": "A Novel Tobacco Use Phenotype Suggests the 15q25 and 19q13 Loci May be Differentially Associated With Cigarettes per Day and Tobacco-Related Problems",
-            "doi": "10.1093/ntr/ntw260",
-            "type": "Journal Article"
-        },{
-            "title": "A semiquantitative metric for evaluating clinical actionability of incidental or secondary findings from genome-scale sequencing",
-            "doi": "10.1038/gim.2015.104",
-            "type": "Journal Article"
-        },{
-            "title": "ADMM Optimization Strategies for Wide-Area Oscillation Monitoring in Power Systems under Asynchronous Communication Delays",
-            "doi": "10.1109/tsg.2016.2547939",
-            "type": "Journal Article"
-        },{
-            "title": "Compiler Transformations Meet CPU Clock Modulation and Power Capping",
-            "doi": "10.1109/icppw.2016.47",
-            "type": "Conference Paper",
-            "citation": "Wang, W., Porterfield, A., Cavazos., & Balachandra, S. (2016) Compiler Transformations Meet CPU Clock Modulation and Power Capping. In 5th International Workshop on Power-aware Algorithms, Systems, and Architecture (PASA’16), Philadelphia, PA",
-            "url": "http://www.cse.psu.edu/conferences/icpppasa2016/wang_slides.pdf"
-        },{
-            "title": "Correlation analysis of genetic admixture and social identification with body mass index in a Native American Community",
-            "doi": "10.1002/ajhb.22521",
-            "type": "Journal Article",
-            "citation": "Norden-Krichmar, T.M., Gizer, I.R., Libiger, O., Wilhelmsen, K.C., Ehlers, C.L., Schork, N.J. (2016) Correlation analysis of genetic admixture and social identification with body mass index in a Native American community. American Journal of Human Biology, 26(3), 347-360"
-        },{
-            "title": "Data-Driven Healthcare: Challenges and Opportunities for Interactive Visualization",
-            "doi": "10.1109/mcg.2016.59",
-            "type": "Journal Article"
-        },{
-            "title": "DBcloud: Semantic Dataset for the cloud",
-            "doi": "10.1109/infcomw.2016.7562073",
-            "type": "Conference Paper"
-        },{
-            "title": "Economics of CSE Software Tools. Computational Science and Engineering Software Productivity and Sustainability (CSESSP) Challenges Workshop Report",
-            "doi": "",
-            "type": "Workshop Report",
-            "event": {
-                "name": "Computational Science and Engineering Software Productivity and Sustainability",
-                "year": 2016
-            },
-            "citation": "Idaszak, R., Arthur, R., Bartlett, R., Baxter, I., Bernholdt, D.E., Boisvert, R., Fecho, K., Fowler, R., Greenspan, S., Heroux, M.A., Iancu, C., Kartsaklis, C., Katz, D.S., Koziol, Q., Landsberg, S., Lucier, E., McGregor, J., Ndousse-Fetter, T., Pawlik A., Reuther, A.I., Scarborough, W., and Schroeder, W. (2016) Economics of CSE Software Tools. Computational Science and Engineering Software Productivity and Sustainability (CSESSP) Challenges Workshop Report. Washington, DC"
-        },{
-            "title": "Evaluating visual analytics for health informatics applications: A progress report from the AMIA VIS Working Group Task Force on Evaluation",
-            "doi": "",
-            "type": "Conference Paper",
-            "event": {
-                "name": "Workshop on Visual Analytics in Healthcare (VAHC)",
-                "year": 2016
-            },
-            "citation": "Gotz, D., Borland, J., Caban, D., Dowding, B., Fisher, V.K., & Wu, D.T.Y. (2016) Evaluating visual analytics for health informatics applications: A progress report from the AMIA VIS Working Group Task Force on Evaluation. 2016 Workshop on Visual Analytics in Healthcare (VAHC).",
-            "url": "https://www.visualanalyticshealthcare.org/VAHC2016/docs/VAHC2016_Proceedings.pdf"
-        },{
-            "title": "From Data Center 1.0 to Data Center 3.0: Transforming the storage, access, and (re)use of research data for better science",
-            "doi": "",
-            "type": "RENCI White Paper",
-            "citation": "Lenhardt, W.C., Blanton, B., & Schmitt, C. (2016) From Data Center 1.0 to Data Center 3.0: Transforming the storage, access, and (re)use of research data for better science. RENCI White Paper"
-        },{
-            "title": "Genetic variation in FAAH is associated with cannabis use disorders in a young adult sample of Mexican Americans",
-            "doi": "10.1016/j.drugalcdep.2016.06.021",
-            "type": "Journal Article"
-        },{
-            "title": "High Diagnostic Yield of Whole Exome Sequencing in Participants With Retinal Dystrophies in a Clinical Ophthalmology Setting",
-            "doi": "10.1016/j.ajo.2015.04.026",
-            "type": "Journal Article"
-        },{
-            "title": "HydroShare: A case study of the application of modern software engineering to a large distributed federally-funded scientific software development project",
-            "doi": "",
-            "type": "Chapter",
-            "citation": "Idaszak, R., Tarboton, D.G., Yi, H., Christopherson, L., Stealey, M.J., Miles, B., Dash, P., Couch, A., Spealman, C., Ames, D.P., Horsburgh, J.S. (2016) HydroShare: A case study of the application of modern software engineering to a large distributed federally-funded scientific software development project. Software Engineering for Science (pp. 217-232). Taylor & Francis CRC Press."
-        },{
-            "title": "HydroShare: A Case Study in Software Engineering Best Practices and Culture Change for Developing Sustainable Community Software",
-            "doi": "",
-            "type": "Presentation",
-            "event": {
-                "name": "WSSSPE4",
-                "year": 2016
-            },
-            "citation": "Idaszak, R., Tarboton, D.G., Yi, H., Stealey, M., Dash, P., Couch, A., Ames, D.P., Horsburgh, J.S., Castronova, T., Goodall, J., Morsey, M., Merwade, V., Ramirez, M., Gan, T., Li, D., Sadler, J., Crawley, S., Zhao, Z.X.L., Song, C., & Bandaragoda, C. (2016) Hydroshare: A case study in software engineering best practices and culture change for developing sustainable community software",
-            "url": "http://ceur-ws.org/Vol-1686/WSSSPE4_paper_5.pdf"
-        },{
-            "title": "Hydroshare: Advancing Hydrologic Big Data through Modular Visualization and Analytics",
-            "doi": "",
-            "type": "Presentation",
-            "event": {
-                "name": "AWRA Annual Water Resources Conference",
-                "year": 2016
-            },
-            "citation": "Ames, D. P., Idaszak, R., Tarboton, D.G., Band, L., Couch, A., Crawley, S., Dash, P., Jones, N., Goodall, J.L., Hooper, R., Horsburgh, J.S., (Zhiyu) Li, D., Maidment, D., Merwade, V., Nelson, J., Song, C., Stealey, M., Swain, N., Yi, H. Hydroshare: Advancing Hydrologic Big Data through Modular Visualization and Analytics. 2016 AWRA Annual Water Resources Conference. 2016",
-            "url": "https://www.awra.org/meetings/Orlando2016/doc/powerpoint/Session%2036%20230%20Ames.pdf"
-        },{
-            "title": "Hydroshare: Advancing Hydrology through Collaborative Data and Model Sharing",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "SI2 PI Workshop",
-                "year": 2016
-            },
-            "citation": "Tarboton, D., Idaszek, I., Horsburgh, J., Ames, D., Goodall, J., Band, L., Merwade, V., Couch, C., Hooper, R., Maidment, D. (2016) Hydroshare: Advancing Hydrology through Collaborative Data and Model Sharing. 2016 SI2 PI Workshop. Arlington, VA"
-        },{
-            "title": "HydroShare: Promoting Collaborative Publication, Interoperability, and Reuse of Hydrologic Data and Research Products",
-            "doi": "",
-            "type": "Presentation",
-            "event": {
-                "name": "iEMS",
-                "year": 2016
-            },
-            "citation": "Horsburgh, J.S., Tarboton, D.G., Idaszak, R., Ames, D.P., Goodall, J.L., Merwade, V., Couch, A., Hooper, R.P., Dash, P., Stealey, M., Yi, H., Gan, T., Castronova, A., Miles, B., Li, Z. and Morsy, M. HydroShare: Promoting Collaborative Publication, Interoperability, and Reuse of Hydrologic Data and Research Products. iEMS 2016. 2016",
-            "url": "https://works.bepress.com/pabitra-dash/8/"
-        },{
-            "title": "Investigating students' ideas about bouyancy and the influence of haptic feedback",
-            "doi": "10.1007/s10956-015-9585-1",
-            "type": "Journal Article"
-        },{
-            "title": "Market-based path service composition for software defined networks",
-            "doi": "10.1109/sarnof.2016.7846737",
-            "type": "Conference Paper"
-        },{
-            "title": "Molecular neuropsychology: creation of testspecific blood biomarker algorithms",
-            "doi": "10.1159/000345605",
-            "type": "Journal Article"
-        },{
-            "title": "Multivariate Visualization of Longitudinal Clinical Data",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "IEEE VIS 2016 Workshop on Temporal and Sequntial Event Analysis",
-                "year": 2016
-            },
-            "citation": "Borland, D., West, V.L., & Hammond, W.E. (2016) Multivariate visualization of longitudinal clinical data. Proceedings of the IEEE VIS 2016 Workshop on Temporal and Sequntial Event Analysis.",
-            "url": "https://eventevent.github.io/papers/EVENT_2016_paper_3.pdf"
-        },{
-            "title": "No-Execute-After-Read: Preventing Code Disclosure in Commodity Software",
-            "doi": "10.1145/2897845.2897891",
-            "type": "Conference Paper",
-            "url": "http://dl.acm.org/citation.cfm?id=2897891"
-        },{
-            "title": "Novel, allele sequence signature approach enables HLA-typing for biomarker identification using gene expression data",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "ASHG 2016 Annual Meeting",
-                "year": 2016
-            },
-            "citation": "Buchkovich, M.L., Brown, C.C., Robasky, K. (2016) Novel, allele sequence signature approach enables HLA-typing for biomarker identification using gene expression data. ASHG 2016 Annual Meeting. Vancouver, British Columbia.",
-            "url": "http://www.ashg.org/2016meeting/pdf/ASHG2016_Program_complete.pdf"
-        },{
-            "title": "Panorama: Tools for Modeling, Monitoring, Anomaly Detection, and Adaptation for Scientific Workflows on Dynamic Networked Cloud Infrastructures",
-            "doi": "",
-            "type": "Poster",
-            "citation": "Mandal, A., Ruth, P., Baldin, I., Mayani, R., Ferreira da Silva, R., Meredith, J., Vetter, J., Lynch, V., Mayer, B., Carothers, C., Tierney, B. Panorama: Tools for Modeling, Monitoring, Anomaly Detection, and Adaptation for Scientific Workflows on Dynamic Networked Cloud Infrastructures. SCinet NRE Demonstration at SuperComputing '16. 2016",
-            "url": "http://sc16.supercomputing.org/scinet/research-demos/nre-demo-2016/index.html#30"
-        },{
-            "title": "Pixar’s Linear Algebra",
-            "doi": "",
-            "type": "Journal Article",
-            "citation": "Borland, D., Chartier, T., and Peck, T. (2016) Pixar’s Linear Algebra. IMAGE: The Bulletin of the International Linear Algebra Society. Issue Number 56, pp. 1–48, Spring 2016.",
-            "url": "https://www.ilasic.org/IMAGE/IMAGES/image56.pdf"
-        },{
-            "title": "Polygenic risk scores for cigarettes smoked per day do not generalize to a Native American population",
-            "doi": "10.1016/j.drugalcdep.2016.07.029",
-            "type": "Journal Article"
-        },{
-            "title": "Protective variant associated with alcohol dependence in a Mexican American cohort",
-            "doi": "10.1186/s12881-014-0136-z",
-            "type": "Journal Article"
-        },{
-            "title": "QUARC: An Array Programming Approach to High Performance Computing",
-            "doi": "10.1007/978-3-319-52709-3_1",
-            "type": "Chapter"
-        },{
-            "title": "RADII: Bridging the divide between data and infrastructure management to support data-driven collaborations",
-            "doi": "10.1109/bigdata.2016.7840625",
-            "type": "Conference Paper"
-        },{
-            "title": "Report on Software Metrics for Research Software",
-            "doi":"",
-            "type": "Presentation",
-            "event": {
-                "name": "WSSSPE4",
-                "year": 2016
-            },
-            "citation": "Allen, G., Chen, E., Idaszak, R., Katz, D. (2016) Report on software metrics for research software.",
-            "url": "http://ceur-ws.org/Vol-1686/"
-        },{
-            "title": "Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3)",
-            "doi": "10.5334/jors.118",
-            "type": "Journal Article"
-        },{
-            "title": "Return to the Zombie Gadgets: Undermining Destructive Code Reads via Code Inference Attacks",
-            "doi": "10.1109/sp.2016.61",
-            "type": "Conference Paper",
-            "url": "http://ieeexplore.ieee.org/document/7546544/"
-        },{
-            "title": "Scenario-Based Hazard Trees for Depicting Resolution of Hurricane Uncertainty Over Time",
-            "doi": "10.1061/(asce)nh.1527-6996.0000236",
-            "type": "Journal Article"
-        },{
-            "title": "Single nucleotide polymorphisms in theREG-CTNNA2region of chromosome 2 andNEIL3associated with impulsivity in a Native American sample",
-            "doi": "10.1111/gbb.12297",
-            "type": "Journal Article"
-        },{
-            "title": "The feasibility of genetic dissection of endophenotypes",
-            "doi": "10.1111/psyp.12366",
-            "type": "Journal Article"
-        },{
-            "title": "ExoGENI: A Multi-domain Infrastructure-as-a-Service Testbed",
-            "doi": "10.1007/978-3-319-33769-2_13",
-            "type": "Chapter"
-        },{
-            "title": "The phenotype of multiple congenital anomalies-hypotonia-seizures syndrome 1: Report and review",
-            "doi": "10.1002/ajmg.a.37129",
-            "type": "Journal Article"
-        },{
-            "title": "Toward a Framework for Evaluating Software Success: A Proposed First Step",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "NSF SI2 PI Workshop",
-                "year": 2016
-            },
-            "citation": "Ahalt, S., Berriman, B., Brown, M., Carver, J., Hong, N.C., Fish, A., Idaszak, R., Newman, G., Panda, D., Patra, A., Puckett, E.G., Roland, C., Thain, D., Uluagac, S., & Zhang, B. (2016) Toward a Framework for Evaluating Software Success: A Proposed First Step. Poster at the 2016 NSF SI2 PI Workshop."
-        },{
-            "title": "Toward an End-to-End Framework for Modeling, Monitoring and Anomaly Detection for Scientific Workflows",
-            "doi": "10.1109/ipdpsw.2016.202",
-            "type": "Conference Paper"
-        },{
-            "title": "Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed",
-            "doi": "10.1007/978-3-319-49580-4_4",
-            "type": "Chapter",
-            "url": "https://link.springer.com/chapter/10.1007/978-3-319-49580-4_4"
-        },{
-            "title": "Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed",
-            "doi": "",
-            "type": "Conference Paper",
-            "event": {
-                "name": "TridentCom",
-                "year": 2016
-            },
-            "citation": "Xin, Y., Baldin, I., Mandal, A., and Ruth, P. (2016) Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed. TridentCom’16. Hangzhou, China"
-        },{
-            "title": "Tracing the development of a haptically-enhanced science simulation for matter and intermolecular forces",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "NARST Annual International Conference",
-                "year": 2016
-            },
-            "citation": "Minogue, J., Borland, D., Russo. M., Chen, S.T., & Davis, T. (2016) Tracing the development of a haptically-enhanced science simulation for matter and intermolecular forces. 2016 NARST Annual International Conference",
-            "url": "https://narst.org/annualconference/2016_Narst_International_Conference_Program.pdf"
-        },{
-            "title": "Tracing the Development of a Haptically-enhanced Simulation for Teaching Phase Change",
-            "doi": "10.1145/2968120.2987723",
-            "type": "Poster"
-        },{
-            "title": "Truth or Fiction: Findings from a Research Project about Data Science in NC",
-            "doi": "",
-            "type": "Presentation",
-            "event": {
-                "name": "Data 4 Decisions Conference",
-                "year": 2016
-            },
-            "citation": "Knowles, D. & McKeen, S. Truth or Fiction: Findings from a Research Project about Data Science in NC. Data 4 Decisions Conference. Raleigh, NC. 2016"
-        },{
-            "title": "Using Juptyer Dashboard and ipympl for Tropical Storm Emergency Management",
-            "doi": "",
-            "type": "Presentation",
-            "event": {
-                "name": "Jupyter Day ATL",
-                "year": 2016
-            },
-            "citation": "Calloway, C.B., Blanton, B.O. Using Juptyer Dashboard and ipympl for Tropical Storm Emergency Management. Jupyter Day ATL. Georgia Tech Research Institute Conference Center. 2016"
-        },{
-            "title": "Variability: A Tuning Headache. Smposium on Parallel and Distributed Processing",
-            "doi": "",
-            "type": "Conference Paper",
-            "event": {
-                "name": "30th IEEE International Parallel & Distributed Processing Symposium",
-                "year": 2016
-            },
-            "citation": "Porterfield, A., Bhalachandra, S., Wang, W., and Fowler, R. (2016) Variability: A Tuning Headache. Symposium on Parallel and Distributed Processing (IPDPS) – Workshop Proceedings. Chicago, Illinois"
-        },{
-            "title": "Variants Near CCK Receptors are Associated With Electrophysiological Responses to Pre-pulse Startle Stimuli in a Mexican American Cohort",
-            "doi": "10.1017/thg.2015.77",
-            "type": "Journal Article"
-        }
-    ]
-}
+[
+    {
+        "title": "2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report",
+        "doi": "",
+        "type": "Other",
+        "citation": "Research Triangle Environmental Health Collaborative. (2017). 2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report. Research Triangle Park, NC. (Contributor)"
+    },{
+        "title": "Alcoholism: Clinical and Experimental Research",
+        "doi": "",
+        "type": "Journal Article",
+        "citation": "Peng, Q., Wilhelmsen, K. & Ehlers, C.   42A-42A (WILEY-BLACKWELL 111 RIVER ST, HOBOKEN 07030-5774, NJ USA).",
+        "url": "https://onlinelibrary.wiley.com/journal/15300277"
+    },{
+        "title": "An Individualized Risk Calculator for Research in Prodromal Psychosis",
+        "doi": "10.1176/appi.ajp.2016.15070890",
+        "type": "Journal Article"
+    },{
+        "title": "Automatic Analysis of Neonatal Video Data to Evaluate Resuscitation Performance",
+        "doi": "10.1109/ICCABS.2016.7802775",
+        "type": "Conference Paper"
+    },{
+        "title": "2016 Software Infrastructure for Sustained Innovation (SI2) PI Workshop Report",
+        "doi": "",
+        "type": "Workshop Report",
+        "event": {
+            "name": "Software Infrastructure for Sustained Innovation (SI2) Principal Investigator (PI) Workshop",
+            "year": 2016
+        },
+        "citation": "Frank Timmes, Matthew Turk, Stan Ahalt, Shaowen Wang, Ray Idaszak, Richard Brower, Chris Lenhardt, Karl Gustafson. This report summarizes the organization and execution of the National Science Foundation (NSF) sponsored workshop, \"Software Infrastructure for Sustained Innovation (SI2) Principal Investigator (PI) Workshop,\" and the observations and discussions it generated.",
+        "url": "https://dl.acm.org/citation.cfm?id=2965630"
+    },{
+        "title": "A Training and User Support Program for i2b2, a Cohort Discovery Tool for Health Researchers",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "Concordium 2016",
+            "year": 2016
+        },
+        "citation": "Kellie Walters, Robert Bradford and Ashok Krishnamurthy, Concordium 2016, September 2016, https://academyhealth.confex.com/academyhealth/2016concordium/meetingapp.cgi/Paper/13151"
+    },{
+        "title": "A Versatile Platform for Instrumentation of Knowledge Worker’s Computers to Improve Information Analysis",
+        "doi": "10.1109/bigdataservice.2016.47",
+        "type": "Conference Paper"
+    },{
+        "title": "Automatic Analysis of Neonatal Video Data to Evaluate Resuscitation Performance",
+        "doi": "10.1109/iccabs.2016.7802775",
+        "type": "Conference Paper"
+    },{
+        "title": "Can Genetic Analysis of Putative Blood Alzheimer's Disease Biomarkers Lead to Identification of Susceptibility Loci?",
+        "doi": "10.1371/journal.pone.0142360",
+        "type": "Publication / Paper"
+    },{
+        "title": "Common susceptibility variants are shared between schizophrenia and psoriasis in the Han Chinese population",
+        "doi": "10.1503/jpn.150210",
+        "type": "Journal Article"
+    },{
+        "title": "Creating a Secure System: IMPLEMENTATION: VISR: The Virtual Institute for Social Research",
+        "doi": "",
+        "type": "Chapter",
+        "authors": ["Stan Ahalt", "Jay Aikat", "Dan Bedard", "Margaret Burchinall", "Thomas Carsey", "Thu Mai Christian", "Jonathan Crabtree", "Nancy Dole", "Howard Lander", "Latanya Sweeney", "Mary Whitton"],
+        "citation": "Chapter in: Building Trustworthy Digitial Repositories Theory and Implementation, Phillip C Bantin, Rowan and Littlefield Publishers, pgs 292-305"
+    },{
+        "title": "Dynamic Collaboration Infrastructure for Hydrologic Science",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "American Geophysical Union, Fall Meeting",
+            "year": 2016
+        },
+        "citation": "Ray Idaszak, Claris Castillo, David Tarboton, Fan Jiang, Hong Yi, Michael Stealey, Norm Jones, Jon Goodall",
+        "url": "http://adsabs.harvard.edu/abs/2016AGUFM.H41B1336T"
+    },{
+        "title": "Germline Analysis from Tumor-Germline Sequencing Dyads to Identify Clinically Actionable Secondary Findings",
+        "doi": "10.1158/1078-0432.ccr-16-0015",
+        "type": "Journal Article"
+    },{
+        "title": "Insights into psychosis risk from leukocyte microRNA expression",
+        "doi": "10.1038/tp.2016.148",
+        "type": "Journal Article"
+    },{
+        "title": "iRODS 4.2.0",
+        "doi": "",
+        "type": "Software Release",
+        "citation": "The integrated Rule-Oriented Data System.  Released Nov 14, 2016.  Jason Coposky, Terrell Russell, Ben Keller, Zoey Greer, Rick Skarbez, Hao Xu, Antoine de Torcy, Justin James, Cesar Garde."
+    },{
+        "title": "iRODS Audit (C++) Rule Engine Plugin and AMQP",
+        "doi": "",
+        "type": "Publication / Paper",
+        "citation": "Terrell Russell, Jason Coposky, Justin James - RENCI at UNC Chapel Hill.  iRODS User Group Meeting 2016.  Chapel Hill, NC.  June 2016."
+    },{
+        "title": "iRODS User Group Meeting 2016 Proceedings",
+        "doi": "",
+        "type": "Publication / Paper",
+        "citation": "Edited by Terrell Russell, Designed by Cesar Garde.  iRODS Consortium."
+    },{
+        "title": "Large-scale pharmacogenomic study of sulfonylureas and the QT, JT and QRS intervals: CHARGE Pharmacogenomics Working Group",
+        "doi": "10.1038/tpj.2016.90",
+        "type": "Chapter"
+    },{
+        "title": "Modeling and Simulation of Storm Surge on Staten Island to Understand Inundation Mitigation Strategies",
+        "doi": "10.2112/si76-013",
+        "type": "Journal Article"
+    },{
+        "title": "QUARC: an array programming approach to high performance computing",
+        "doi": "10.1007/978-3-319-52709-3_1",
+        "type": "Publication / Paper",
+        "citation": "Diptorup Deb, Robert Fowler, and Allan Porterfield. QUARC: an array programming approach to high performance computing. In 29th International Workshop on Languages and Compilers for Parallel Computing (LCPC 2016), Rochester, NY, 2016."
+    },{
+        "title": "Reconfiguration of Survivable IP over WDM Networks",
+        "doi": "10.1016/j.osn.2015.10.002",
+        "type": "Journal Article"
+    },{
+        "title": "Reproducibility and Visual Inspection of Data",
+        "doi": "10.1016/j.biopsych.2015.07.029",
+        "type": "Publication / Paper"
+    },{
+        "title": "South Big Data Hub Overview - CASC",
+        "doi": "",
+        "type": "Presentation",
+        "event": {
+            "name": "CASC Spring 2016 Meeting",
+            "year": 2016
+        },
+        "citation": "Ahalt, SC, South Big Data Hub Overview, CASC Spring 2016 Meeting, March 2016, Arlington, VA, invited presentation"
+    },{
+        "title": "South Big Data Innovation Hub. PyData Carolinas",
+        "doi": "",
+        "type": "Keynote",
+        "event": {
+            "name": "PyData Carolinas",
+            "year": 2016
+        },
+        "citation": "Shanley, L.A. and Conway, M., South Big Data Innovation Hub. PyData Carolinas. September 16, 2016. (Durham, NC) (Invited Keynote)"
+    },{
+        "title": "A Retrospective on ORCA: Open Resource Control Architecture",
+        "doi": "10.1007/978-3-319-33769-2_7",
+        "type": "Chapter"
+    },{
+        "title": "The Panorama Project: Tools for Modeling, Monitoring, and Anomaly Detection in Scientific Workflow Execution",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "DOE Modeling and Simulation (MODSIM) Workshop",
+            "year": 2016
+        },
+        "citation": "Anirban Mandal, Paul Ruth, Ilya Baldin, Rajiv Mayani, Rafael Ferreira da Silva, Ewa Deelman, Jeremy Meredith, Jeffrey Vetter, Vickie Lynch, Ben Mayer, Chris Carothers, Brian Tierney, Poster presentation at DOE Modeling and Simulation (MODSIM) Workshop, Seattle, WA, August 2016."
+    },{
+        "title": "Towards a Cybernetic Model of Human Movement",
+        "doi": "10.5539/mer.v6n1p29",
+        "type": "Journal Article"
+    },{
+        "title": "VISR: The Virtual Institute for Social Research",
+        "doi": "",
+        "type": "Chapter",
+        "citation": "Ahalt, S., Aikat, J., Bedard, D., Burchinall, M., Carsey, T., Christian, T.M., Crabtree, J., Dole, N., Lander, H., Sweeney, L., Whitton, M. (2016). VISR: The Virtual Institute for Social Research In Philip C. Bantin (Ed.), Building Trustworthy Digital Repositories Theory and Implementation. (pp.292-305). Rowman & Littlefield",
+        "note": "ISBN-13: 978-1442263789, ISBN-10: 1442263784"
+    },{
+        "title": "Scientific Training in the Era of Big Data: A New Pedagogy for Graduate Education",
+        "doi": "10.1089/big.2016.0014",
+        "type": "Journal Article",
+        "url": "https://www.liebertpub.com/doi/abs/10.1089/big.2016.0014?journalCode=big"
+    },{
+        "title": "A New Framework and Prototype Solution for Clinical Decision Support and Research in Genomics and Other Data-intensive Fields of Medicine",
+        "doi": "10.13063/2327-9214.1198",
+        "type": "Journal Article",
+        "citation": "Evans, J.P., Wilhelmsen, K.C., Berg, J., Schmitt, C.P., Krishnamurthy, A., Fecho, K., & Ahalt, S.C. (2016) A New Framework and Prototype Solution for Clinical Decision Support and Research in Genomics and Other Data-intensive Field of Medicine. EGEMS (Washington DC)."
+    },{
+        "title": "Cross-institutional research cyberinfrastructure for data intensive science",
+        "doi": "10.1109/hpec.2016.7761597",
+        "type": "Conference Paper"
+    },{
+        "title": "A Resilient Software Infrastructure for Wide-Area Measurement Systems",
+        "doi": "10.1109/pesgm.2016.7741949",
+        "type": "Conference Paper"
+    },{
+        "title": "A Versatile Platform for Instrumentation of Knowledge Worker's Computers to Improve Information Analysis",
+        "doi": "10.1109/bigdataservice.2016.47",
+        "type": "Conference Paper"
+    },{
+        "title": "Association and ancestry analysis of sequence variants in ADH and ALDH using alcohol-related phenotypes in a Native American community sample",
+        "doi": "10.1002/ajmg.b.32272",
+        "type": "Journal Article"
+    },{
+        "title": "Build It, But Will They Come? A Geoscience Cyberinfrastructure Baseline Analysis",
+        "doi": "10.5334/dsj-2016-008",
+        "type": "Journal Article"
+    },{
+        "title": "Can Genetic Analysis of Putative Blood Alzheimer’s Disease Biomarkers Lead to Identification of Susceptibility Loci?",
+        "doi": "10.1371/journal.pone.0142360",
+        "type": "Journal Article"
+    },{
+        "title": "Clinical Sequencing Exploratory Research Consortium: Accelerating Evidence-Based Practice of Genomic Medicine",
+        "doi": "10.1016/j.ajhg.2016.04.011",
+        "type": "Journal Article"
+    },{
+        "title": "Anomaly detection for scientific workflow applications on networked clouds",
+        "doi": "10.1109/hpcsim.2016.7568396",
+        "type": "Conference Paper"
+    },{
+        "title": "A novel Alzheimer disease locus located near the gene encoding tau protein",
+        "doi": "10.1038/mp.2015.23",
+        "type": "Journal Article"
+    },{
+        "title": "A Novel Tobacco Use Phenotype Suggests the 15q25 and 19q13 Loci May be Differentially Associated With Cigarettes per Day and Tobacco-Related Problems",
+        "doi": "10.1093/ntr/ntw260",
+        "type": "Journal Article"
+    },{
+        "title": "A semiquantitative metric for evaluating clinical actionability of incidental or secondary findings from genome-scale sequencing",
+        "doi": "10.1038/gim.2015.104",
+        "type": "Journal Article"
+    },{
+        "title": "ADMM Optimization Strategies for Wide-Area Oscillation Monitoring in Power Systems under Asynchronous Communication Delays",
+        "doi": "10.1109/tsg.2016.2547939",
+        "type": "Journal Article"
+    },{
+        "title": "Compiler Transformations Meet CPU Clock Modulation and Power Capping",
+        "doi": "10.1109/icppw.2016.47",
+        "type": "Conference Paper",
+        "citation": "Wang, W., Porterfield, A., Cavazos., & Balachandra, S. (2016) Compiler Transformations Meet CPU Clock Modulation and Power Capping. In 5th International Workshop on Power-aware Algorithms, Systems, and Architecture (PASA’16), Philadelphia, PA",
+        "url": "http://www.cse.psu.edu/conferences/icpppasa2016/wang_slides.pdf"
+    },{
+        "title": "Correlation analysis of genetic admixture and social identification with body mass index in a Native American Community",
+        "doi": "10.1002/ajhb.22521",
+        "type": "Journal Article",
+        "citation": "Norden-Krichmar, T.M., Gizer, I.R., Libiger, O., Wilhelmsen, K.C., Ehlers, C.L., Schork, N.J. (2016) Correlation analysis of genetic admixture and social identification with body mass index in a Native American community. American Journal of Human Biology, 26(3), 347-360"
+    },{
+        "title": "Data-Driven Healthcare: Challenges and Opportunities for Interactive Visualization",
+        "doi": "10.1109/mcg.2016.59",
+        "type": "Journal Article"
+    },{
+        "title": "DBcloud: Semantic Dataset for the cloud",
+        "doi": "10.1109/infcomw.2016.7562073",
+        "type": "Conference Paper"
+    },{
+        "title": "Economics of CSE Software Tools. Computational Science and Engineering Software Productivity and Sustainability (CSESSP) Challenges Workshop Report",
+        "doi": "",
+        "type": "Workshop Report",
+        "event": {
+            "name": "Computational Science and Engineering Software Productivity and Sustainability",
+            "year": 2016
+        },
+        "citation": "Idaszak, R., Arthur, R., Bartlett, R., Baxter, I., Bernholdt, D.E., Boisvert, R., Fecho, K., Fowler, R., Greenspan, S., Heroux, M.A., Iancu, C., Kartsaklis, C., Katz, D.S., Koziol, Q., Landsberg, S., Lucier, E., McGregor, J., Ndousse-Fetter, T., Pawlik A., Reuther, A.I., Scarborough, W., and Schroeder, W. (2016) Economics of CSE Software Tools. Computational Science and Engineering Software Productivity and Sustainability (CSESSP) Challenges Workshop Report. Washington, DC"
+    },{
+        "title": "Evaluating visual analytics for health informatics applications: A progress report from the AMIA VIS Working Group Task Force on Evaluation",
+        "doi": "",
+        "type": "Conference Paper",
+        "event": {
+            "name": "Workshop on Visual Analytics in Healthcare (VAHC)",
+            "year": 2016
+        },
+        "citation": "Gotz, D., Borland, J., Caban, D., Dowding, B., Fisher, V.K., & Wu, D.T.Y. (2016) Evaluating visual analytics for health informatics applications: A progress report from the AMIA VIS Working Group Task Force on Evaluation. 2016 Workshop on Visual Analytics in Healthcare (VAHC).",
+        "url": "https://www.visualanalyticshealthcare.org/VAHC2016/docs/VAHC2016_Proceedings.pdf"
+    },{
+        "title": "From Data Center 1.0 to Data Center 3.0: Transforming the storage, access, and (re)use of research data for better science",
+        "doi": "",
+        "type": "RENCI White Paper",
+        "citation": "Lenhardt, W.C., Blanton, B., & Schmitt, C. (2016) From Data Center 1.0 to Data Center 3.0: Transforming the storage, access, and (re)use of research data for better science. RENCI White Paper"
+    },{
+        "title": "Genetic variation in FAAH is associated with cannabis use disorders in a young adult sample of Mexican Americans",
+        "doi": "10.1016/j.drugalcdep.2016.06.021",
+        "type": "Journal Article"
+    },{
+        "title": "High Diagnostic Yield of Whole Exome Sequencing in Participants With Retinal Dystrophies in a Clinical Ophthalmology Setting",
+        "doi": "10.1016/j.ajo.2015.04.026",
+        "type": "Journal Article"
+    },{
+        "title": "HydroShare: A case study of the application of modern software engineering to a large distributed federally-funded scientific software development project",
+        "doi": "",
+        "type": "Chapter",
+        "citation": "Idaszak, R., Tarboton, D.G., Yi, H., Christopherson, L., Stealey, M.J., Miles, B., Dash, P., Couch, A., Spealman, C., Ames, D.P., Horsburgh, J.S. (2016) HydroShare: A case study of the application of modern software engineering to a large distributed federally-funded scientific software development project. Software Engineering for Science (pp. 217-232). Taylor & Francis CRC Press."
+    },{
+        "title": "HydroShare: A Case Study in Software Engineering Best Practices and Culture Change for Developing Sustainable Community Software",
+        "doi": "",
+        "type": "Presentation",
+        "event": {
+            "name": "WSSSPE4",
+            "year": 2016
+        },
+        "citation": "Idaszak, R., Tarboton, D.G., Yi, H., Stealey, M., Dash, P., Couch, A., Ames, D.P., Horsburgh, J.S., Castronova, T., Goodall, J., Morsey, M., Merwade, V., Ramirez, M., Gan, T., Li, D., Sadler, J., Crawley, S., Zhao, Z.X.L., Song, C., & Bandaragoda, C. (2016) Hydroshare: A case study in software engineering best practices and culture change for developing sustainable community software",
+        "url": "http://ceur-ws.org/Vol-1686/WSSSPE4_paper_5.pdf"
+    },{
+        "title": "Hydroshare: Advancing Hydrologic Big Data through Modular Visualization and Analytics",
+        "doi": "",
+        "type": "Presentation",
+        "event": {
+            "name": "AWRA Annual Water Resources Conference",
+            "year": 2016
+        },
+        "citation": "Ames, D. P., Idaszak, R., Tarboton, D.G., Band, L., Couch, A., Crawley, S., Dash, P., Jones, N., Goodall, J.L., Hooper, R., Horsburgh, J.S., (Zhiyu) Li, D., Maidment, D., Merwade, V., Nelson, J., Song, C., Stealey, M., Swain, N., Yi, H. Hydroshare: Advancing Hydrologic Big Data through Modular Visualization and Analytics. 2016 AWRA Annual Water Resources Conference. 2016",
+        "url": "https://www.awra.org/meetings/Orlando2016/doc/powerpoint/Session%2036%20230%20Ames.pdf"
+    },{
+        "title": "Hydroshare: Advancing Hydrology through Collaborative Data and Model Sharing",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "SI2 PI Workshop",
+            "year": 2016
+        },
+        "citation": "Tarboton, D., Idaszek, I., Horsburgh, J., Ames, D., Goodall, J., Band, L., Merwade, V., Couch, C., Hooper, R., Maidment, D. (2016) Hydroshare: Advancing Hydrology through Collaborative Data and Model Sharing. 2016 SI2 PI Workshop. Arlington, VA"
+    },{
+        "title": "HydroShare: Promoting Collaborative Publication, Interoperability, and Reuse of Hydrologic Data and Research Products",
+        "doi": "",
+        "type": "Presentation",
+        "event": {
+            "name": "iEMS",
+            "year": 2016
+        },
+        "citation": "Horsburgh, J.S., Tarboton, D.G., Idaszak, R., Ames, D.P., Goodall, J.L., Merwade, V., Couch, A., Hooper, R.P., Dash, P., Stealey, M., Yi, H., Gan, T., Castronova, A., Miles, B., Li, Z. and Morsy, M. HydroShare: Promoting Collaborative Publication, Interoperability, and Reuse of Hydrologic Data and Research Products. iEMS 2016. 2016",
+        "url": "https://works.bepress.com/pabitra-dash/8/"
+    },{
+        "title": "Investigating students' ideas about bouyancy and the influence of haptic feedback",
+        "doi": "10.1007/s10956-015-9585-1",
+        "type": "Journal Article"
+    },{
+        "title": "Market-based path service composition for software defined networks",
+        "doi": "10.1109/sarnof.2016.7846737",
+        "type": "Conference Paper"
+    },{
+        "title": "Molecular neuropsychology: creation of testspecific blood biomarker algorithms",
+        "doi": "10.1159/000345605",
+        "type": "Journal Article"
+    },{
+        "title": "Multivariate Visualization of Longitudinal Clinical Data",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "IEEE VIS 2016 Workshop on Temporal and Sequntial Event Analysis",
+            "year": 2016
+        },
+        "citation": "Borland, D., West, V.L., & Hammond, W.E. (2016) Multivariate visualization of longitudinal clinical data. Proceedings of the IEEE VIS 2016 Workshop on Temporal and Sequntial Event Analysis.",
+        "url": "https://eventevent.github.io/papers/EVENT_2016_paper_3.pdf"
+    },{
+        "title": "No-Execute-After-Read: Preventing Code Disclosure in Commodity Software",
+        "doi": "10.1145/2897845.2897891",
+        "type": "Conference Paper",
+        "url": "http://dl.acm.org/citation.cfm?id=2897891"
+    },{
+        "title": "Novel, allele sequence signature approach enables HLA-typing for biomarker identification using gene expression data",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "ASHG 2016 Annual Meeting",
+            "year": 2016
+        },
+        "citation": "Buchkovich, M.L., Brown, C.C., Robasky, K. (2016) Novel, allele sequence signature approach enables HLA-typing for biomarker identification using gene expression data. ASHG 2016 Annual Meeting. Vancouver, British Columbia.",
+        "url": "http://www.ashg.org/2016meeting/pdf/ASHG2016_Program_complete.pdf"
+    },{
+        "title": "Panorama: Tools for Modeling, Monitoring, Anomaly Detection, and Adaptation for Scientific Workflows on Dynamic Networked Cloud Infrastructures",
+        "doi": "",
+        "type": "Poster",
+        "citation": "Mandal, A., Ruth, P., Baldin, I., Mayani, R., Ferreira da Silva, R., Meredith, J., Vetter, J., Lynch, V., Mayer, B., Carothers, C., Tierney, B. Panorama: Tools for Modeling, Monitoring, Anomaly Detection, and Adaptation for Scientific Workflows on Dynamic Networked Cloud Infrastructures. SCinet NRE Demonstration at SuperComputing '16. 2016",
+        "url": "http://sc16.supercomputing.org/scinet/research-demos/nre-demo-2016/index.html#30"
+    },{
+        "title": "Pixar’s Linear Algebra",
+        "doi": "",
+        "type": "Journal Article",
+        "citation": "Borland, D., Chartier, T., and Peck, T. (2016) Pixar’s Linear Algebra. IMAGE: The Bulletin of the International Linear Algebra Society. Issue Number 56, pp. 1–48, Spring 2016.",
+        "url": "https://www.ilasic.org/IMAGE/IMAGES/image56.pdf"
+    },{
+        "title": "Polygenic risk scores for cigarettes smoked per day do not generalize to a Native American population",
+        "doi": "10.1016/j.drugalcdep.2016.07.029",
+        "type": "Journal Article"
+    },{
+        "title": "Protective variant associated with alcohol dependence in a Mexican American cohort",
+        "doi": "10.1186/s12881-014-0136-z",
+        "type": "Journal Article"
+    },{
+        "title": "QUARC: An Array Programming Approach to High Performance Computing",
+        "doi": "10.1007/978-3-319-52709-3_1",
+        "type": "Chapter"
+    },{
+        "title": "RADII: Bridging the divide between data and infrastructure management to support data-driven collaborations",
+        "doi": "10.1109/bigdata.2016.7840625",
+        "type": "Conference Paper"
+    },{
+        "title": "Report on Software Metrics for Research Software",
+        "doi":"",
+        "type": "Presentation",
+        "event": {
+            "name": "WSSSPE4",
+            "year": 2016
+        },
+        "citation": "Allen, G., Chen, E., Idaszak, R., Katz, D. (2016) Report on software metrics for research software.",
+        "url": "http://ceur-ws.org/Vol-1686/"
+    },{
+        "title": "Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3)",
+        "doi": "10.5334/jors.118",
+        "type": "Journal Article"
+    },{
+        "title": "Return to the Zombie Gadgets: Undermining Destructive Code Reads via Code Inference Attacks",
+        "doi": "10.1109/sp.2016.61",
+        "type": "Conference Paper",
+        "url": "http://ieeexplore.ieee.org/document/7546544/"
+    },{
+        "title": "Scenario-Based Hazard Trees for Depicting Resolution of Hurricane Uncertainty Over Time",
+        "doi": "10.1061/(asce)nh.1527-6996.0000236",
+        "type": "Journal Article"
+    },{
+        "title": "Single nucleotide polymorphisms in theREG-CTNNA2region of chromosome 2 andNEIL3associated with impulsivity in a Native American sample",
+        "doi": "10.1111/gbb.12297",
+        "type": "Journal Article"
+    },{
+        "title": "The feasibility of genetic dissection of endophenotypes",
+        "doi": "10.1111/psyp.12366",
+        "type": "Journal Article"
+    },{
+        "title": "ExoGENI: A Multi-domain Infrastructure-as-a-Service Testbed",
+        "doi": "10.1007/978-3-319-33769-2_13",
+        "type": "Chapter"
+    },{
+        "title": "The phenotype of multiple congenital anomalies-hypotonia-seizures syndrome 1: Report and review",
+        "doi": "10.1002/ajmg.a.37129",
+        "type": "Journal Article"
+    },{
+        "title": "Toward a Framework for Evaluating Software Success: A Proposed First Step",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "NSF SI2 PI Workshop",
+            "year": 2016
+        },
+        "citation": "Ahalt, S., Berriman, B., Brown, M., Carver, J., Hong, N.C., Fish, A., Idaszak, R., Newman, G., Panda, D., Patra, A., Puckett, E.G., Roland, C., Thain, D., Uluagac, S., & Zhang, B. (2016) Toward a Framework for Evaluating Software Success: A Proposed First Step. Poster at the 2016 NSF SI2 PI Workshop."
+    },{
+        "title": "Toward an End-to-End Framework for Modeling, Monitoring and Anomaly Detection for Scientific Workflows",
+        "doi": "10.1109/ipdpsw.2016.202",
+        "type": "Conference Paper"
+    },{
+        "title": "Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed",
+        "doi": "10.1007/978-3-319-49580-4_4",
+        "type": "Chapter",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-49580-4_4"
+    },{
+        "title": "Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed",
+        "doi": "",
+        "type": "Conference Paper",
+        "event": {
+            "name": "TridentCom",
+            "year": 2016
+        },
+        "citation": "Xin, Y., Baldin, I., Mandal, A., and Ruth, P. (2016) Towards an Experimental LegoLand: Slice Modification and Recovery in ExoGENI Testbed. TridentCom’16. Hangzhou, China"
+    },{
+        "title": "Tracing the development of a haptically-enhanced science simulation for matter and intermolecular forces",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "NARST Annual International Conference",
+            "year": 2016
+        },
+        "citation": "Minogue, J., Borland, D., Russo. M., Chen, S.T., & Davis, T. (2016) Tracing the development of a haptically-enhanced science simulation for matter and intermolecular forces. 2016 NARST Annual International Conference",
+        "url": "https://narst.org/annualconference/2016_Narst_International_Conference_Program.pdf"
+    },{
+        "title": "Tracing the Development of a Haptically-enhanced Simulation for Teaching Phase Change",
+        "doi": "10.1145/2968120.2987723",
+        "type": "Poster"
+    },{
+        "title": "Truth or Fiction: Findings from a Research Project about Data Science in NC",
+        "doi": "",
+        "type": "Presentation",
+        "event": {
+            "name": "Data 4 Decisions Conference",
+            "year": 2016
+        },
+        "citation": "Knowles, D. & McKeen, S. Truth or Fiction: Findings from a Research Project about Data Science in NC. Data 4 Decisions Conference. Raleigh, NC. 2016"
+    },{
+        "title": "Using Juptyer Dashboard and ipympl for Tropical Storm Emergency Management",
+        "doi": "",
+        "type": "Presentation",
+        "event": {
+            "name": "Jupyter Day ATL",
+            "year": 2016
+        },
+        "citation": "Calloway, C.B., Blanton, B.O. Using Juptyer Dashboard and ipympl for Tropical Storm Emergency Management. Jupyter Day ATL. Georgia Tech Research Institute Conference Center. 2016"
+    },{
+        "title": "Variability: A Tuning Headache. Smposium on Parallel and Distributed Processing",
+        "doi": "",
+        "type": "Conference Paper",
+        "event": {
+            "name": "30th IEEE International Parallel & Distributed Processing Symposium",
+            "year": 2016
+        },
+        "citation": "Porterfield, A., Bhalachandra, S., Wang, W., and Fowler, R. (2016) Variability: A Tuning Headache. Symposium on Parallel and Distributed Processing (IPDPS) – Workshop Proceedings. Chicago, Illinois"
+    },{
+        "title": "Variants Near CCK Receptors are Associated With Electrophysiological Responses to Pre-pulse Startle Stimuli in a Mexican American Cohort",
+        "doi": "10.1017/thg.2015.77",
+        "type": "Journal Article"
+    }
+]

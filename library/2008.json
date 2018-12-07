@@ -1,94 +1,92 @@
-{
-    "2008": [
-        {
-            "title": "Advances in Visual Computing",
-            "doi": "10.1007/978-3-540-89646-3"
-        },{
-            "title": "Stormy weather: grid computing powers fine-scale climate modeling",
-            "doi": "",
-            "citation": "Brieger, Leesa, Anne Heavey. “Stormy weather: grid computing powers fine-scale climate modeling“, Feature story in International Science Grid This Week (iSGTW), Feb 27, 2008, Leesa Brieger and Anne Heavey, http://www.isgtw.org/?pid=1000860."
-        },{
-            "title": "Analysis of Application Heartbeats: Learning Structural and Temporal Features in Time Series Data for Identification of Performance Problems Under submission",
-            "doi": "10.1109/sc.2008.5219753"
-        },{
-            "title": "An open infrastructure for scalable, reconfigurable analysis",
-            "doi": "",
-            "citation": "de Supinski, Bronis R., Rob Fowler, Todd Gamblin, Frank Mueller, Prasun Ratn, and Martin Schultz. An open infrastructure for scalable, reconfigurable analysis. In International Workshop on Scalable Tools for High-End Computing (STHEC 2008). ACM/SIGARCH, July 2008. http://moss.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/sthec08.pdf"
-        },{
-            "title": "Externalizing disorders in American Indians:  Comorbidity and a genome wide linkage analysis",
-            "doi": "10.1002/ajmg.b.30666 "
-        },{
-            "title": "Visualization and Analysis of Microstructure in Three-Dimensional Discrete Numerical Models",
-            "doi": "10.1061/(asce)0887-3801(2009)23:5(277)",
-            "citation": "Evans, M., S. Chall,  X. Zhao, and T.M. Rhyne.  “Visualization and Analysis of Microstructure in Three-Dimensional Discrete Numerical Models”, (submitted for publication to the American Society of Civil Engineers’ Journal of Computing in Civil Engineering – 2008 -presently under  review)."
-        },{
-            "title": "Performance engineering challenges: the view from RENCI",
-            "doi": "10.1088/1742-6596/125/1/012065 "
-        },{
-            "title": "Challenges of scale: When all computing becomes grid computing",
-            "doi": "",
-            "citation": "Fowler, Robert J., Todd Gamblin, Gopi Kandaswamy, Anirban Mandal, Alan K. Porterfield, Lavanya Ramakrishnan, and Daniel Reed.  Challenges of scale: When all computing becomes grid computing. In Lucio Grandinetti, editor, High Performance Computing and Grids in Action, Advances in Parallel Computing. IOS Press, Amsterdam, March 2008. http://www.booksonline.iospress.nl/Content/View.aspx?piid=8556"
-        },{
-            "title": "Scalable load-balance measurement for SPMD codes",
-            "doi": "",
-            "citation": "Gamblin, T., B.R. de Supinski, M. Schulz, R.J. Fowler, and D.A. Reed, D.A. Scalable load-balance measurement for SPMD codes. In submission, 2008. Published in IPDPS 2008: http://www.cs.unc.edu/~tgamblin/pubs/wavelet-sc08.pdf"
-        },{
-            "title": "Scalable methods for monitoring and detecting behavioral classes in scientific codes",
-            "doi": "",
-            "citation": "Gamblin, Todd,  Rob Fowler, and Daniel Reed. Scalable methods for monitoring and detecting behavioral classes in scientific codes. In Proceedings of the International Parallel and Distributed Processing Symposium 2008, Miami, FL, April 2008. To appear, IPDPS 2008. http://www.ieeexplore.ieee.org/Xplore/login.jsp?url=/stamp/stamp.jsp?arnumber=4536076&isnumber=4536075 "
-        },{
-            "title": "Scalable load-balance measurement for SPMD codes",
-            "doi": "",
-            "citation": "Gamblin, Todd, Bronis R. de Supinski, M. Schultz, Rob Fowler and Daniel Reed. Scalable load-balance measurement for SPMD codes. In Proceedings of Supercomputing 2008, Austin, TX, November 2008. ACM/IEEE. http://portal.acm.org/citation.cfm?id=1413370.1413417&dl=ACM&coll=ACM"
-        },{
-            "title": "Traffic Grooming for Optical Networks: Foundations, Techniques and Frontiers",
-            "doi": "",
-            "citation": "Huang, S. Traffic Grooming for Optical Networks: Foundations, Techniques and Frontiers Spring 2008, Chapter 5 Computational Complexity"
-        },{
-            "title": "Fault Tolerance and Recovery of Scientific Workflows on Computational Grids",
-            "doi": "",
-            "citation": "Kandaswamy, G., A. Mandal, and D.A. Reed. “Fault Tolerance and Recovery of Scientific Workflows on Computational Grids,” Workshop on Resiliency in High-Performance Computing, 2008. http://vgrads.rice.edu/publications/resilience-ccgrid08"
-        },{
-            "title": "Fault Tolerance and Recovery of Scientific Workflows on Computational Grids",
-            "doi": "10.1109/ccgrid.2008.79"
-        },{
-            "title": "Making the Grade: The Role of Assessment in  Authentic Learning.",
-            "doi": "",
-            "citation": "Lombardi, M. M., “Making the Grade: The Role of Assessment in  Authentic Learning.”EDUCAUSE.  January 2008 http://net.educause.edu/ir/library/pdf/ELI3009.pdf"
-        },{
-            "title": "Resilient Workflow Execution in LEAD",
-            "doi": "",
-            "citation": "Mandal, A. and G. Kandaswamy. “Resilient Workflow Execution in LEAD, ” Teragrid 2008, submitted."
-        },{
-            "title": "Common Knowledge: Openness in Higher Education",
-            "doi": "",
-            "citation": "Oblinger, D. and M. M. Lombardi, “Common Knowledge: Openness in Higher Education,” in Opening Up Education: The Collective  Advancement of Education through Open Technology, Open Content, and Open Knowledge. MIT Press. October 2008."
-        },{
-            "title": "MAESTRO: dynamic runtime power control",
-            "doi": "",
-            "citation": "Porterfield, Allan, Robert Fowler, and Mark Neyer. MAESTRO: dynamic runtime power control. In Workshop on Managed Multicore systems MMCS, Boston, MA, June 2008. http://www.cercs.gatech.edu/mmcs08/program/porterfield.pdf"
-        },{
-            "title": "Performance Consistency on Multi-socket AMD Opteron Systems",
-            "doi": "",
-            "citation": "Porterfield, A., R.J. Fowler, A. Mandal and M.Y. Lim. “Performance Consistency on Multi-socket AMD Opteron Systems,” Available as Technical Report TR-08-07, RENCI, North Carolina, Dec. 2008. http://www.renci.org/publications/techreports/TR-08-07.pdf"
-        },{
-            "title": "NC-FIRST: Weather Information and Training for North Carolina Emergency Managers",
-            "doi": "",
-            "citation": "Proud, J.L., K.J. Galluppi.  “NC-FIRST: Weather Information and Training for North Carolina Emergency Managers,” Preprints, 17th Symposium on Education, New Orleans, LA, American Meteorological Society. Jan. 2008. http://ams.confex.com/ams/88Annual/techprogram/paper_129278.htm"
-        },{
-            "title": "Mobile Micro Rain Radar Deployments in North Carolina",
-            "doi": "",
-            "citation": "Proud, J.L. “Mobile Micro Rain Radar Deployments in North Carolina,” Preprints, 24th Conference on Interactive Information and Processing Systems, New Orleans, LA, American Meteorological Society.  Jan. 2008 http://ams.confex.com/ams/88Annual/techprogram/paper_129290.htm"
-        },{
-            "title": "X-linked dominant scapuloperoneal myopathy is due to a mutation in the gene encoding four-and-a-half-LIM protein 1",
-            "doi": "10.1016/j.ajhg.2007.09.013 "
-        },{
-            "title": "Federation of Rule-Based Data Grids",
-            "doi": "",
-            "citation": "Rajasekar, A., M. Wan, R. Moore, W. Schroeder, “Federation of Rule-Based Data Grids”, Workshop on Digital Archive Preservation and Sustainability, September 2008, Baltimore, Maryland."
-        },{
-            "title": "Workflows for performance evaluation and tuning",
-            "doi": "10.1109/clustr.2008.4663758 "
-        }
-    ]
-}
+[
+    {
+        "title": "Advances in Visual Computing",
+        "doi": "10.1007/978-3-540-89646-3"
+    },{
+        "title": "Stormy weather: grid computing powers fine-scale climate modeling",
+        "doi": "",
+        "citation": "Brieger, Leesa, Anne Heavey. “Stormy weather: grid computing powers fine-scale climate modeling“, Feature story in International Science Grid This Week (iSGTW), Feb 27, 2008, Leesa Brieger and Anne Heavey, http://www.isgtw.org/?pid=1000860."
+    },{
+        "title": "Analysis of Application Heartbeats: Learning Structural and Temporal Features in Time Series Data for Identification of Performance Problems Under submission",
+        "doi": "10.1109/sc.2008.5219753"
+    },{
+        "title": "An open infrastructure for scalable, reconfigurable analysis",
+        "doi": "",
+        "citation": "de Supinski, Bronis R., Rob Fowler, Todd Gamblin, Frank Mueller, Prasun Ratn, and Martin Schultz. An open infrastructure for scalable, reconfigurable analysis. In International Workshop on Scalable Tools for High-End Computing (STHEC 2008). ACM/SIGARCH, July 2008. http://moss.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/sthec08.pdf"
+    },{
+        "title": "Externalizing disorders in American Indians:  Comorbidity and a genome wide linkage analysis",
+        "doi": "10.1002/ajmg.b.30666 "
+    },{
+        "title": "Visualization and Analysis of Microstructure in Three-Dimensional Discrete Numerical Models",
+        "doi": "10.1061/(asce)0887-3801(2009)23:5(277)",
+        "citation": "Evans, M., S. Chall,  X. Zhao, and T.M. Rhyne.  “Visualization and Analysis of Microstructure in Three-Dimensional Discrete Numerical Models”, (submitted for publication to the American Society of Civil Engineers’ Journal of Computing in Civil Engineering – 2008 -presently under  review)."
+    },{
+        "title": "Performance engineering challenges: the view from RENCI",
+        "doi": "10.1088/1742-6596/125/1/012065 "
+    },{
+        "title": "Challenges of scale: When all computing becomes grid computing",
+        "doi": "",
+        "citation": "Fowler, Robert J., Todd Gamblin, Gopi Kandaswamy, Anirban Mandal, Alan K. Porterfield, Lavanya Ramakrishnan, and Daniel Reed.  Challenges of scale: When all computing becomes grid computing. In Lucio Grandinetti, editor, High Performance Computing and Grids in Action, Advances in Parallel Computing. IOS Press, Amsterdam, March 2008. http://www.booksonline.iospress.nl/Content/View.aspx?piid=8556"
+    },{
+        "title": "Scalable load-balance measurement for SPMD codes",
+        "doi": "",
+        "citation": "Gamblin, T., B.R. de Supinski, M. Schulz, R.J. Fowler, and D.A. Reed, D.A. Scalable load-balance measurement for SPMD codes. In submission, 2008. Published in IPDPS 2008: http://www.cs.unc.edu/~tgamblin/pubs/wavelet-sc08.pdf"
+    },{
+        "title": "Scalable methods for monitoring and detecting behavioral classes in scientific codes",
+        "doi": "",
+        "citation": "Gamblin, Todd,  Rob Fowler, and Daniel Reed. Scalable methods for monitoring and detecting behavioral classes in scientific codes. In Proceedings of the International Parallel and Distributed Processing Symposium 2008, Miami, FL, April 2008. To appear, IPDPS 2008. http://www.ieeexplore.ieee.org/Xplore/login.jsp?url=/stamp/stamp.jsp?arnumber=4536076&isnumber=4536075 "
+    },{
+        "title": "Scalable load-balance measurement for SPMD codes",
+        "doi": "",
+        "citation": "Gamblin, Todd, Bronis R. de Supinski, M. Schultz, Rob Fowler and Daniel Reed. Scalable load-balance measurement for SPMD codes. In Proceedings of Supercomputing 2008, Austin, TX, November 2008. ACM/IEEE. http://portal.acm.org/citation.cfm?id=1413370.1413417&dl=ACM&coll=ACM"
+    },{
+        "title": "Traffic Grooming for Optical Networks: Foundations, Techniques and Frontiers",
+        "doi": "",
+        "citation": "Huang, S. Traffic Grooming for Optical Networks: Foundations, Techniques and Frontiers Spring 2008, Chapter 5 Computational Complexity"
+    },{
+        "title": "Fault Tolerance and Recovery of Scientific Workflows on Computational Grids",
+        "doi": "",
+        "citation": "Kandaswamy, G., A. Mandal, and D.A. Reed. “Fault Tolerance and Recovery of Scientific Workflows on Computational Grids,” Workshop on Resiliency in High-Performance Computing, 2008. http://vgrads.rice.edu/publications/resilience-ccgrid08"
+    },{
+        "title": "Fault Tolerance and Recovery of Scientific Workflows on Computational Grids",
+        "doi": "10.1109/ccgrid.2008.79"
+    },{
+        "title": "Making the Grade: The Role of Assessment in  Authentic Learning.",
+        "doi": "",
+        "citation": "Lombardi, M. M., “Making the Grade: The Role of Assessment in  Authentic Learning.”EDUCAUSE.  January 2008 http://net.educause.edu/ir/library/pdf/ELI3009.pdf"
+    },{
+        "title": "Resilient Workflow Execution in LEAD",
+        "doi": "",
+        "citation": "Mandal, A. and G. Kandaswamy. “Resilient Workflow Execution in LEAD, ” Teragrid 2008, submitted."
+    },{
+        "title": "Common Knowledge: Openness in Higher Education",
+        "doi": "",
+        "citation": "Oblinger, D. and M. M. Lombardi, “Common Knowledge: Openness in Higher Education,” in Opening Up Education: The Collective  Advancement of Education through Open Technology, Open Content, and Open Knowledge. MIT Press. October 2008."
+    },{
+        "title": "MAESTRO: dynamic runtime power control",
+        "doi": "",
+        "citation": "Porterfield, Allan, Robert Fowler, and Mark Neyer. MAESTRO: dynamic runtime power control. In Workshop on Managed Multicore systems MMCS, Boston, MA, June 2008. http://www.cercs.gatech.edu/mmcs08/program/porterfield.pdf"
+    },{
+        "title": "Performance Consistency on Multi-socket AMD Opteron Systems",
+        "doi": "",
+        "citation": "Porterfield, A., R.J. Fowler, A. Mandal and M.Y. Lim. “Performance Consistency on Multi-socket AMD Opteron Systems,” Available as Technical Report TR-08-07, RENCI, North Carolina, Dec. 2008. http://www.renci.org/publications/techreports/TR-08-07.pdf"
+    },{
+        "title": "NC-FIRST: Weather Information and Training for North Carolina Emergency Managers",
+        "doi": "",
+        "citation": "Proud, J.L., K.J. Galluppi.  “NC-FIRST: Weather Information and Training for North Carolina Emergency Managers,” Preprints, 17th Symposium on Education, New Orleans, LA, American Meteorological Society. Jan. 2008. http://ams.confex.com/ams/88Annual/techprogram/paper_129278.htm"
+    },{
+        "title": "Mobile Micro Rain Radar Deployments in North Carolina",
+        "doi": "",
+        "citation": "Proud, J.L. “Mobile Micro Rain Radar Deployments in North Carolina,” Preprints, 24th Conference on Interactive Information and Processing Systems, New Orleans, LA, American Meteorological Society.  Jan. 2008 http://ams.confex.com/ams/88Annual/techprogram/paper_129290.htm"
+    },{
+        "title": "X-linked dominant scapuloperoneal myopathy is due to a mutation in the gene encoding four-and-a-half-LIM protein 1",
+        "doi": "10.1016/j.ajhg.2007.09.013 "
+    },{
+        "title": "Federation of Rule-Based Data Grids",
+        "doi": "",
+        "citation": "Rajasekar, A., M. Wan, R. Moore, W. Schroeder, “Federation of Rule-Based Data Grids”, Workshop on Digital Archive Preservation and Sustainability, September 2008, Baltimore, Maryland."
+    },{
+        "title": "Workflows for performance evaluation and tuning",
+        "doi": "10.1109/clustr.2008.4663758 "
+    }
+]

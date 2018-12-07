@@ -1,131 +1,129 @@
-{
-    "2017": [
-        {
-            "title": "Accurate and High Throughput Cell Segmentation Method for Mouse Brain Nuclei Using Cascaded Convolutional Neural Network",
-            "doi": "10.1007/978-3-319-67434-6_7 ",
-            "type": "Chapter"
-        },{
-            "title": "xDCI - Accelerating Data Cyberinfrastructure and Research for Community Science Gateways",
-            "doi": "",
-            "type": "Presentation",
-            "citation": "Ray Idaszak, Stan Ahalt, Kira Bradford, Chris Calloway, Claris Castillo, Jason Coposky, Jon Crabtree, Sarah Davis, Yue Guo, Fan Jiang, Ashok Krishnamurthy, Howard Lander, W. Christopher Lenhardt, Arcot Rajasekar, Kimberly Robasky, Terrell Russell, Erik Scott, Don Sizemore, Michael Stealey, Hao Xu, Hong Yi, Wenzhao Zhang, “xDCI - Accelerating Data Cyberinfrastructure and Research for Community Science Gateways,” Gateways 2017, October 2017.",
-            "url": "https://sciencegateways.org/web/gateways2017/program/schedule"
-        },{
-            "title": "xDCI, a Data Science Cyberinfrastructure for Interdisciplinary Research",
-            "doi": "10.1109/hpec.2017.8091022 ",
-            "type": "Conference Paper"
-        },{
-            "title": "DCRI data solutions all hands meeting",
-            "doi": "",
-            "type": "Presentation",
-            "event": {
-                "name": "DCRI data solutions all hands meeting}",
-                "year": 2017
-            },
-            "citation": "Ahalt, S. (2017). DCRI data solutions all hands meeting. Invited Presentation (Speaker). Durham, NC"
-        },{
-            "title": "Scientific training in the era of big data: A new pedagogy for graduate education",
-            "doi": "10.1089/big.2016.0014 ",
-            "type": "Journal Article",
-            "citation": "Aikat, J., Carsey, T.M., Fecho, K., Jeffay, K., Krishnamurthy, A., Mucha, P.J., Rajasekar, A., & Ahalt, S.C. (2017). Scientific training in the era of big data: A new pedagogy for graduate education. Big Data, 5(1), 12-18. - doi: 10.1089/big.2016.0014"
-        },{
-            "title": "An adaptive core-specific runtime for energy efficiency",
-            "doi": "10.1109/ipdps.2017.114 ",
-            "type": "Conference Paper",
-            "citation": "Bhalachandra, S., Porterfield, A., Olivier, S.L., & Prins, J.F. (2017). An adaptive core-specific runtime for energy efficiency. IEEE Parallel and Distributed Processing Symposium (IPDPS). "
-        },{
-            "title": "The building blocks of interoperability: A multisite analysis of patient demographic attributes available for matching",
-            "doi": "10.4338/ACI-2016-11-RA-0196",
-            "type": "Journal Article",
-            "citation": "Culbertson, Goel, S., Madden, M.B., Safaenili, N., Jackson, K.L., Carton, T., Waitman, R., et al. (2017). The building blocks of interoperability: A multisite analysis of patient demographic attributes - available for matching. Applied Clinical Informatics, 8(2), 322-336. DOI: https://doi.org/10.4338/ACI-2016-11-RA-0196"
-        },{
-            "title": "A framework for estimating long term driven behavior",
-            "doi": "10.1155/2017/3080859",
-            "type": "Journal Article",
-            "citation": "Gadepally, V., Krishnamurthy, A., & Ozguner, U. (2017). A framework for estimating long term driven behavior. Journal of Advanced Transportation, - 2017, 11 pages. DOI:10.1155/2017/3080859"
-        },{
-            "title": "Whole genome sequence study of cannabis dependence in two independent cohorts",
-            "doi": "10.1111/adb.12489",
-            "type": "Journal Article",
-            "citation": "Gizer, I.R., Bizon, C., Gilder, D.A., Ehlers, C.L., & Wilhelmson, K.C. (2017). Whole genome sequence study of cannabis dependence in two independent cohorts. Addiction Biology, doi: 10.1111/adb.12489"
-        },{
-            "title": "Cost-effectiveness analysis of four stimulated colorectal cancer screening interventions, North Carolina",
-            "doi": "10.5888/pcd14.160158",
-            "type": "Journal Article",
-            "citation": "Hassmiller Lich, K.M., Cornejo, D.A., Mayorga, M.E., Pignone, M., Tangka, F.K.L., Richardson, L.C., Kuo, T-M., et al. (2017). Cost-effectiveness analysis of four stimulated colorectal cancer screening interventions, North Carolina. Preventing Chronic Disease, 14(18)"
-        },{
-            "title": "Data flow prioritization for scientific workflows using a virtual SDX on ExoGENI",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "25th GENI Engineering Conference}",
-                "year": 2017
-            },
-            "citation": "Mandal, A., Ruth, P., Baldin, I., Ferreira de Silva, R., & Deelman, E. (2017). Data flow prioritization for scientific workflows using a virtual SDX on ExoGENI (poster). 25th GENI Engineering Conference, Miami, FL",
-            "url": "https://scitech.isi.edu/posters/2017/GEC25-DemoPoster.pdf"
-        },{
-            "title": "ClinGen pathogenicity calculator: A configurable system for assessing pathogenicity of genetic variants",
-            "doi": "10.1037/adb0000270",
-            "type": "Journal Article",
-            "citation": "Otto, J.M., Gizer, I.R., Ellingson, J.M., & Wilhelmsen, K.C. (2017). Genetic variation in the exome: Associations with alcohol and tobacco co-use. Psychology of Addictive Behaviors: Journal of the Society of Psychologists in - Addictive Behaviors, 31(3), 354-366. doi: 10.1037/adb0000270"
-        },{
-            "title": "ClinGen Pathogenicity Calculator: a configurable system for assessing pathogenicity of genetic variants",
-            "doi": "10.1186/s13073-016-0391-z ",
-            "type": "Journal Article",
-            "citation": "Patel, R.Y., Shah, N., Jackson, A.R., Ghosh, R., Pawliczek, P., Paithankar, S., Baker, A., et al. (2017). ClinGen pathogenicity calculator: A configurable system for assessing pathogenicity of genetic variants. Genome Medicine, 9(1)"
-        },{
-            "title": "Whole genome sequence association and ancestry-informed polygenic profile of EEG alpha in a Native American population",
-            "doi": "10.1002/ajmg.b.32533",
-            "type": "Journal Article",
-            "citation": "Peng, Q., Schork, N.J., Wilhelmson, K.C., & Ehlers, C.L. (2017). Whole genome sequence association and ancestry-informed polygenic profile of EEG alpha in a Native American population. Neuropsychiatric Genetics, doi: 10.1002/ajmg.b.32533"
-        },{
-            "title": "A linux real-time packet scheduler for reliable static SDN routing",
-            "doi": "10.4230/LIPIcs.ECRTS.2017.25",
-            "type": "Conference Paper",
-            "citation": "Qian, T., Mueller, F., & Xin, Y. (2017). A linux real-time packet scheduler for reliable static SDN routing. Euromicro conference on real-time systems (ECRTS). ",
-            "url": "http://drops.dagstuhl.de/opus/volltexte/2017/7170/"
-        },{
-            "title": "A novel tobacco use phenotype suggests the 15q25 and 19q13 loci may be differentially associated with cigarettes per - day and tobacco-related problems",
-            "doi": "10.1093/ntr/ntw260",
-            "type": "Journal Article",
-            "citation": "Richmond-Rakerd, L.S., Otto, J.M., Slutske, W.S., Ehlers, C.L., Wilhelmsen, K.C., & Gizer, I.R. (2017). A novel tobacco use phenotype suggests the 15q25 and 19q13 loci may be differentially associated with cigarettes per - day and tobacco-related problems. Nicotine & Tobacco Research, 19(4), 426-434. - doi: 10.1093/ntr/ntw260"
-        },{
-            "title": "Hydroshare: Advancing hydrology through collaborative data and model sharing",
-            "doi": "",
-            "type": "Poster",
-            "event": {
-                "name": "NSF SI2 PI Meeting}",
-                "year": 2017
-            },
-            "citation": "Tarboton, D., Idaszak, R., Horsburgh, J., Ames, D., Goodall, J., Band, L., Merwade, V., et al. (2017). Hydroshare- Advancing hydrology through collaborative data and model sharing. Poster presented at 2017 NSF SI2 PI meeting."
-        },{
-            "title": "Slice-based network transit service: Inter-domain L2 networking on ExoGENI",
-            "doi": "10.1109/infcomw.2017.8116468",
-            "type": "Conference Paper ",
-            "citation": "Yao, Y., Cao, Q., Chase, J., Ruth, P., Baldin, I., Xin, Y., & Mandal, A. (2017). Slice-based network transit service: Inter-domain L2 networking on ExoGENI. INFOCOM17 workshop on Distributed Cloud Computing (DCC ’17). "
-        },{
-            "title": "Integration of expression quantitative trait loci and pleiotropy identifies a novel psoriasis susceptibility gene, PTPN1",
-            "doi": "10.1002/jgm.2939",
-            "type": "Journal Article",
-            "citation": "Yin, X., Lin, Y., Shen, C., Wang, L., Zuo, X., Zheng, X., Yang, S., et al. (2017). Integration of expression quantitative trait loci and pleiotropy identifies a novel psoriasis susceptibility gene, PTPN1. The - Journal of Gene Medicine, 19(1-2), doi: 10.1002/jgm.2939"
-        },{
-            "title": "Genome-wide meta-analysis identifies a novel susceptibility signal at CACNA2D3 for nicotine dependence",
-            "doi": "10.1002/ajmg.b.32540",
-            "type": "Journal Article",
-            "citation": "Yin, X., Bizon, C., Tilson, J., Lin, Y., Gizer, I.R., Ehlers, C.L., & Wilhelmson, K.C. (2017). Genome-wide meta-analysis identifies a novel susceptibility signal at CACNA2D3 for nicotine dependence. American Journal of - Medical Genetics Part B: Neuropsychiatric Genetics. doi: 10.1002/ajmg.b.32540"
-        },{
-            "title": "The Role of microRNA Expression in Cortical Development During Conversion to Psychosis",
-            "doi": "10.1038/npp.2017.34",
-            "type": "Journal Article",
-            "citation": "Zheutlin, A.B., Jeffries, C.D., Perkins, D.O., Chung, Y., Chekroud, A.M., Addington, J., et al. (2017). The role of microRNA expression in cortical development during conversion to psychosis. Neuropsychopharmacology, - doi: 10.1038/npp.2017.34"
-        },{
-            "title": "Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability",
-            "type": "Workshop Report",
-            "citation": "Aspen Institute. (2017). Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability. Aspen, Colorado: Aspen Institute. (Report Contributor)"
-        },{
-            "title": "Research Triangle Environmental Health Collaborative",
-            "type": "Workshop Report",
-            "citation": "Research Triangle Environmental Health Collaborative. (2017). 2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report. Research Triangle Park, NC: RTEHC. (Report Contributor)"
-        }
-    ]
-}
+[
+    {
+        "title": "Accurate and High Throughput Cell Segmentation Method for Mouse Brain Nuclei Using Cascaded Convolutional Neural Network",
+        "doi": "10.1007/978-3-319-67434-6_7 ",
+        "type": "Chapter"
+    },{
+        "title": "xDCI - Accelerating Data Cyberinfrastructure and Research for Community Science Gateways",
+        "doi": "",
+        "type": "Presentation",
+        "citation": "Ray Idaszak, Stan Ahalt, Kira Bradford, Chris Calloway, Claris Castillo, Jason Coposky, Jon Crabtree, Sarah Davis, Yue Guo, Fan Jiang, Ashok Krishnamurthy, Howard Lander, W. Christopher Lenhardt, Arcot Rajasekar, Kimberly Robasky, Terrell Russell, Erik Scott, Don Sizemore, Michael Stealey, Hao Xu, Hong Yi, Wenzhao Zhang, “xDCI - Accelerating Data Cyberinfrastructure and Research for Community Science Gateways,” Gateways 2017, October 2017.",
+        "url": "https://sciencegateways.org/web/gateways2017/program/schedule"
+    },{
+        "title": "xDCI, a Data Science Cyberinfrastructure for Interdisciplinary Research",
+        "doi": "10.1109/hpec.2017.8091022 ",
+        "type": "Conference Paper"
+    },{
+        "title": "DCRI data solutions all hands meeting",
+        "doi": "",
+        "type": "Presentation",
+        "event": {
+            "name": "DCRI data solutions all hands meeting}",
+            "year": 2017
+        },
+        "citation": "Ahalt, S. (2017). DCRI data solutions all hands meeting. Invited Presentation (Speaker). Durham, NC"
+    },{
+        "title": "Scientific training in the era of big data: A new pedagogy for graduate education",
+        "doi": "10.1089/big.2016.0014 ",
+        "type": "Journal Article",
+        "citation": "Aikat, J., Carsey, T.M., Fecho, K., Jeffay, K., Krishnamurthy, A., Mucha, P.J., Rajasekar, A., & Ahalt, S.C. (2017). Scientific training in the era of big data: A new pedagogy for graduate education. Big Data, 5(1), 12-18. - doi: 10.1089/big.2016.0014"
+    },{
+        "title": "An adaptive core-specific runtime for energy efficiency",
+        "doi": "10.1109/ipdps.2017.114 ",
+        "type": "Conference Paper",
+        "citation": "Bhalachandra, S., Porterfield, A., Olivier, S.L., & Prins, J.F. (2017). An adaptive core-specific runtime for energy efficiency. IEEE Parallel and Distributed Processing Symposium (IPDPS). "
+    },{
+        "title": "The building blocks of interoperability: A multisite analysis of patient demographic attributes available for matching",
+        "doi": "10.4338/ACI-2016-11-RA-0196",
+        "type": "Journal Article",
+        "citation": "Culbertson, Goel, S., Madden, M.B., Safaenili, N., Jackson, K.L., Carton, T., Waitman, R., et al. (2017). The building blocks of interoperability: A multisite analysis of patient demographic attributes - available for matching. Applied Clinical Informatics, 8(2), 322-336. DOI: https://doi.org/10.4338/ACI-2016-11-RA-0196"
+    },{
+        "title": "A framework for estimating long term driven behavior",
+        "doi": "10.1155/2017/3080859",
+        "type": "Journal Article",
+        "citation": "Gadepally, V., Krishnamurthy, A., & Ozguner, U. (2017). A framework for estimating long term driven behavior. Journal of Advanced Transportation, - 2017, 11 pages. DOI:10.1155/2017/3080859"
+    },{
+        "title": "Whole genome sequence study of cannabis dependence in two independent cohorts",
+        "doi": "10.1111/adb.12489",
+        "type": "Journal Article",
+        "citation": "Gizer, I.R., Bizon, C., Gilder, D.A., Ehlers, C.L., & Wilhelmson, K.C. (2017). Whole genome sequence study of cannabis dependence in two independent cohorts. Addiction Biology, doi: 10.1111/adb.12489"
+    },{
+        "title": "Cost-effectiveness analysis of four stimulated colorectal cancer screening interventions, North Carolina",
+        "doi": "10.5888/pcd14.160158",
+        "type": "Journal Article",
+        "citation": "Hassmiller Lich, K.M., Cornejo, D.A., Mayorga, M.E., Pignone, M., Tangka, F.K.L., Richardson, L.C., Kuo, T-M., et al. (2017). Cost-effectiveness analysis of four stimulated colorectal cancer screening interventions, North Carolina. Preventing Chronic Disease, 14(18)"
+    },{
+        "title": "Data flow prioritization for scientific workflows using a virtual SDX on ExoGENI",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "25th GENI Engineering Conference}",
+            "year": 2017
+        },
+        "citation": "Mandal, A., Ruth, P., Baldin, I., Ferreira de Silva, R., & Deelman, E. (2017). Data flow prioritization for scientific workflows using a virtual SDX on ExoGENI (poster). 25th GENI Engineering Conference, Miami, FL",
+        "url": "https://scitech.isi.edu/posters/2017/GEC25-DemoPoster.pdf"
+    },{
+        "title": "ClinGen pathogenicity calculator: A configurable system for assessing pathogenicity of genetic variants",
+        "doi": "10.1037/adb0000270",
+        "type": "Journal Article",
+        "citation": "Otto, J.M., Gizer, I.R., Ellingson, J.M., & Wilhelmsen, K.C. (2017). Genetic variation in the exome: Associations with alcohol and tobacco co-use. Psychology of Addictive Behaviors: Journal of the Society of Psychologists in - Addictive Behaviors, 31(3), 354-366. doi: 10.1037/adb0000270"
+    },{
+        "title": "ClinGen Pathogenicity Calculator: a configurable system for assessing pathogenicity of genetic variants",
+        "doi": "10.1186/s13073-016-0391-z ",
+        "type": "Journal Article",
+        "citation": "Patel, R.Y., Shah, N., Jackson, A.R., Ghosh, R., Pawliczek, P., Paithankar, S., Baker, A., et al. (2017). ClinGen pathogenicity calculator: A configurable system for assessing pathogenicity of genetic variants. Genome Medicine, 9(1)"
+    },{
+        "title": "Whole genome sequence association and ancestry-informed polygenic profile of EEG alpha in a Native American population",
+        "doi": "10.1002/ajmg.b.32533",
+        "type": "Journal Article",
+        "citation": "Peng, Q., Schork, N.J., Wilhelmson, K.C., & Ehlers, C.L. (2017). Whole genome sequence association and ancestry-informed polygenic profile of EEG alpha in a Native American population. Neuropsychiatric Genetics, doi: 10.1002/ajmg.b.32533"
+    },{
+        "title": "A linux real-time packet scheduler for reliable static SDN routing",
+        "doi": "10.4230/LIPIcs.ECRTS.2017.25",
+        "type": "Conference Paper",
+        "citation": "Qian, T., Mueller, F., & Xin, Y. (2017). A linux real-time packet scheduler for reliable static SDN routing. Euromicro conference on real-time systems (ECRTS). ",
+        "url": "http://drops.dagstuhl.de/opus/volltexte/2017/7170/"
+    },{
+        "title": "A novel tobacco use phenotype suggests the 15q25 and 19q13 loci may be differentially associated with cigarettes per - day and tobacco-related problems",
+        "doi": "10.1093/ntr/ntw260",
+        "type": "Journal Article",
+        "citation": "Richmond-Rakerd, L.S., Otto, J.M., Slutske, W.S., Ehlers, C.L., Wilhelmsen, K.C., & Gizer, I.R. (2017). A novel tobacco use phenotype suggests the 15q25 and 19q13 loci may be differentially associated with cigarettes per - day and tobacco-related problems. Nicotine & Tobacco Research, 19(4), 426-434. - doi: 10.1093/ntr/ntw260"
+    },{
+        "title": "Hydroshare: Advancing hydrology through collaborative data and model sharing",
+        "doi": "",
+        "type": "Poster",
+        "event": {
+            "name": "NSF SI2 PI Meeting}",
+            "year": 2017
+        },
+        "citation": "Tarboton, D., Idaszak, R., Horsburgh, J., Ames, D., Goodall, J., Band, L., Merwade, V., et al. (2017). Hydroshare- Advancing hydrology through collaborative data and model sharing. Poster presented at 2017 NSF SI2 PI meeting."
+    },{
+        "title": "Slice-based network transit service: Inter-domain L2 networking on ExoGENI",
+        "doi": "10.1109/infcomw.2017.8116468",
+        "type": "Conference Paper ",
+        "citation": "Yao, Y., Cao, Q., Chase, J., Ruth, P., Baldin, I., Xin, Y., & Mandal, A. (2017). Slice-based network transit service: Inter-domain L2 networking on ExoGENI. INFOCOM17 workshop on Distributed Cloud Computing (DCC ’17). "
+    },{
+        "title": "Integration of expression quantitative trait loci and pleiotropy identifies a novel psoriasis susceptibility gene, PTPN1",
+        "doi": "10.1002/jgm.2939",
+        "type": "Journal Article",
+        "citation": "Yin, X., Lin, Y., Shen, C., Wang, L., Zuo, X., Zheng, X., Yang, S., et al. (2017). Integration of expression quantitative trait loci and pleiotropy identifies a novel psoriasis susceptibility gene, PTPN1. The - Journal of Gene Medicine, 19(1-2), doi: 10.1002/jgm.2939"
+    },{
+        "title": "Genome-wide meta-analysis identifies a novel susceptibility signal at CACNA2D3 for nicotine dependence",
+        "doi": "10.1002/ajmg.b.32540",
+        "type": "Journal Article",
+        "citation": "Yin, X., Bizon, C., Tilson, J., Lin, Y., Gizer, I.R., Ehlers, C.L., & Wilhelmson, K.C. (2017). Genome-wide meta-analysis identifies a novel susceptibility signal at CACNA2D3 for nicotine dependence. American Journal of - Medical Genetics Part B: Neuropsychiatric Genetics. doi: 10.1002/ajmg.b.32540"
+    },{
+        "title": "The Role of microRNA Expression in Cortical Development During Conversion to Psychosis",
+        "doi": "10.1038/npp.2017.34",
+        "type": "Journal Article",
+        "citation": "Zheutlin, A.B., Jeffries, C.D., Perkins, D.O., Chung, Y., Chekroud, A.M., Addington, J., et al. (2017). The role of microRNA expression in cortical development during conversion to psychosis. Neuropsychopharmacology, - doi: 10.1038/npp.2017.34"
+    },{
+        "title": "Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability",
+        "type": "Workshop Report",
+        "citation": "Aspen Institute. (2017). Final Report of the Dialogue Series – Internet of Water: Sharing and Integrating Water Data for Sustainability. Aspen, Colorado: Aspen Institute. (Report Contributor)"
+    },{
+        "title": "Research Triangle Environmental Health Collaborative",
+        "type": "Workshop Report",
+        "citation": "Research Triangle Environmental Health Collaborative. (2017). 2016 Environmental Health Summit: Community Engaged Research and Citizen Science: Advancing Environmental Public Health to Meet the Needs of Our Communities Workshop Report. Research Triangle Park, NC: RTEHC. (Report Contributor)"
+    }
+]

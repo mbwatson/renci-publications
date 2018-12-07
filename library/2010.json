@@ -1,232 +1,230 @@
-{
-    "2010": [
-        {
-            "title": "Understanding the “horizontal dimension” of molecular evolution to annotate, classify, and discover proteins with functional domains",
-            "doi": "",
-            "citation": "Rendon, G., Ger, M.F., Kantorovitz, R., et al. (2010). Understanding the “horizontal dimension” of molecular evolution to annotate, classify, and discover proteins with functional domains. Journal of Computer Science and Technology. (25)1."
-        },{
-            "title": "A 3D visualization of multiple time series on maps",
-            "doi": "",
-            "citation": "Thakur, S., & Hanson, A. A 3D visualization of multiple time series on maps. 14th International Conference on Information Visualisation. London, July 26 – 29, 2010."
-        },{
-            "title": "A service-oriented interface to the iRODS data grid",
-            "doi": "",
-            "citation": "Venuti N., Locunto F., Conway M., Brieger L. A service-oriented interface to the iRODS data grid. Proceedings of the Second iRODS User Group Meeting. Chapel Hill, NC, March 2010."
-        },{
-            "title": "A simple abstraction for data modeling",
-            "doi": "",
-            "citation": "Nassar, N.  (2010).  A simple abstraction for data modeling.  ArXiv e-prints. 1009.5233."
-        },{
-            "title": "Age at regular drinking, clinical course, and heritability of alcohol dependence in the San Francisco family study: A gender analysis",
-            "doi": "",
-            "citation": "Ehlers, C.L., Gizer, I.R., Vieten, C., Gilder, A., Gilder, D.A., Stouffer, G.M., Lau, P., Wilhelmsen, K.C.(2010). Age at regular drinking, clinical course, and heritability of alcohol dependence in the San Francisco family study: A gender analysis. The American Journal on Addictions. 19, 101-110."
-        },{
-            "title": "An observing system experiment for tropical cyclone targeting techniques using the global forecast system",
-            "doi": "",
-            "citation": "Aberson, S.D., Majumdar, S.J., Reynolds, C.A., Etherton, B.J. (2010). An observing system experiment for tropical cyclone targeting techniques using the global forecast system. Monthly Weather Review."
-        },{
-            "title": "An open source option for cloud computing in education and research",
-            "doi": "",
-            "citation": "Dreher, P., Vouk, M., Averitt, S., Sills, E. (2010). An open source option for cloud computing in education and research. In Cloud Computing, San Murugesan, Ed, Chapman & Hall, (2010)."
-        },{
-            "title": "Analyzing lock contention in multithreaded applications",
-            "doi": "10.1145/1837853.1693489"
-        },{
-            "title": "Antipsychotic-induced vacuous chewing movements and extrapyramidal side effects are highly heritable in mice",
-            "doi": "",
-            "citation": "Crowley, J. J., Adkins, D. E., Pratt, A. L., Quackenbush, C. R., van den Oord, E. J., Moy, S. S., Wilhelmsen, K. C., Cooper, T. B., Bogue, M. A., McLeod, H. L., Sullivan, P. F. (2010). Antipsychotic-induced vacuous chewing movements and extrapyramidal side effects are highly heritable in mice. The Pharmacogenomics Journal. PM:21079646."
-        },{
-            "title": "Appearance normalization of histology slides",
-            "doi": "",
-            "citation": "Niethammer, M., Borland, D., Marron, J.S., Woosley, J., Thomas, N.E. Appearance normalization of histology slides. MICCAI, International Workshop on Machine Learning in Medical Imaging, 2010. Beijing, China, Sept. 20, 2010."
-        },{
-            "title": "Association between harmful alcohol consumption behavior and dopamine transporter (DAT1) gene polymorphisms in a male Finnish population",
-            "doi": "",
-            "citation": "Lind, P. A., Eriksson, C. J., Wilhelmsen, K. C. (2010). Association between harmful alcohol consumption behavior and dopamine transporter (DAT1) gene polymorphisms in a male Finnish population. Psychiatric Genetics. (19) 117-125. PM:19352220."
-        },{
-            "title": "Cannabis dependence in the San Francisco Family Study: Age of onset of use, DSM-IV symptoms, withdrawal, and heritability",
-            "doi": "",
-            "citation": "Ehlers, C.L., Gizer, I.R., Vieten, C., Gilder, D.A., Stouffer, G.M., Lau, P., Wilhelmsen, K.C. (2010). Cannabis dependence in the San Francisco Family Study: Age of onset of use, DSM-IV symptoms, withdrawal, and heritability. Addictive Behaviors. 35, 102-110."
-        },{
-            "title": "Cloud computing and software services: Theory and techniques (1st ed.)",
-            "doi": "",
-            "citation": "Ahson, S.A. & Ilyas, M. (2010). Cloud computing and software services: Theory and techniques (1st ed.). CRC Press, Inc., Boca Raton, FL, USA. CRC Press; 1 edition (July 19, 2010); ISBN-10: 1439803153 ISBN-13: 978-1439803158."
-        },{
-            "title": "Cloud Network Infrastructure as a Service: An exercise in multi-domain orchestration",
-            "doi": "",
-            "citation": "Chase, J., Yumerefendi, A., Baldin, I., Xin, Y., Mandal, A., Heermann, C., Irwin, D. Cloud Network Infrastructure as a Service: An exercise in multi-domain orchestration. 2nd USENIX Workshop on Hot Topics in Cloud Computing (HotCloud ’10). Boston, June 22, 2010."
-        },{
-            "title": "Collaborative data curation",
-            "doi": "",
-            "citation": "Nassar, N. Collaborative data curation.  UNC BarCamp 2010. Chapel Hill, NC, June, 2010."
-        },{
-            "title": "Creating an open web 2.0 cloud e-Learning experience",
-            "doi": "",
-            "citation": "Shoffner, M., et al. Creating an open web 2.0 cloud e-Learning experience.” 2010 EDUCAUSE Conference. Los Angeles, CA, Oct. 13 – 15, 2010."
-        },{
-            "title": "Cyber infrastructure for community remote sensing",
-            "doi": "",
-            "citation": "Rajasekar, A., Moore, R., Wan, M., Schroeder, W. Cyber infrastructure for community remote sensing. IEEE Geoscience and Remote Sensing Society. Honolulu, HI, July 25-30, 2010."
-        },{
-            "title": "Data approaches for campus bridging",
-            "doi": "",
-            "citation": "Lander, H., Shoffner, M., & the RENCI Data Working Group. Data approaches for campus bridging. NSF Campus Bridging Technologies Task Force meeting. Indianapolis, IN, April 7, 2010."
-        },{
-            "title": "Domain-based identification and analysis of glutamate receptor ion channels and their relatives in prokaryotes",
-            "doi": "10.1371/journal.pone.0012827",
-            "citation": "Ger, M-F., Rendon, G., Tilson, J.L., Jakobsson, E. Domain-based identification and analysis of glutamate receptor ion channels and their - relatives in prokaryotes. Plos ONE. 5(10): e12827. doi: 10.1371/journal.pone.0012827."
-        },{
-            "title": "?",
-            "doi": "",
-            "citation": "Porterfield, A. & Wheeler, K. Dynamic loop scheduling in balanced loops. The International Conference on Parallel Architectures and Compilation Techniques (PACT 2010). Vienna, Austria, September 11 – 15, 2010."
-        },{
-            "title": "?",
-            "doi": "10.1186/1471-2350-11-43",
-            "citation": "Ehlers, C.L., Gizer, I.R., Phillips, E., Wilhelmsen. K.C. (2010). EEG alpha phenotypes: Linkage analysis and relation to alcohol dependence in an American Indian community study. BMC Medical Genetics. - (43)11. doi:10.1186/1471-2350-11-43."
-        },{
-            "title": "EEG spectral phenotypes: Heritability and association with marijuana and alcohol dependence in an American Indian community study",
-            "doi": "",
-            "citation": "Ehlers, C.L., Phillips, E., Gizer, I.R., Gilder, D.A., Wilhelmsen, K.C. (2010). EEG spectral phenotypes: Heritability and association with marijuana and alcohol dependence in an American Indian community study. Drug Alcohol Dependence. 106."
-        },{
-            "title": "Efficiently clustering performance data at massive scales",
-            "doi": "",
-            "citation": "Gamblin, T.,  de Supinski, B., Schulz, M., Fowler, R., Reed, D. Efficiently clustering performance data at massive scales. In Proceedings of the International Conference on Supercomputing 2010 (ICS2010). Tsukuba, Japan, June 2010."
-        },{
-            "title": "Expert review of molecular diagnostics",
-            "doi": "",
-            "citation": "Jeffries, C. Expert review of molecular diagnostics. (2010). CHI Conference on microRNAs: Dramatic Expansion of Research Tools and Discoveries. (5)10."
-        },{
-            "title": "Exploration of polymer conformational similarities in polymer-carbon nanotube interfaces",
-            "doi": "",
-            "citation": "Thakur, S., Tallury, S., Pasquinelli, M.A. Exploration of polymer conformational similarities in polymer-carbon nanotube interfaces. IEEE SoutheastCon 2010 conference: Energizing Our Future. Charlotte, NC, March 18-21, 2010."
-        },{
-            "title": "Gene processing control loops suggested by sequencing, splicing, and RNA folding",
-            "doi": "10.1186/1471-2105-11-602",
-            "citation": "Jeffries, C., Perkins, D., Guan, X. (2010). Gene processing control loops suggested by sequencing, splicing, and RNA folding. BMC Bioinformatics. - doi:10.1186/1471-2105-11-602."
-        },{
-            "title": "Genome-wide scan for self-rating of the effects of alcohol in American Indians",
-            "doi": "",
-            "citation": "Ehlers, C.L., Gizer, I.R., Schuckit, M.A., Wilhelmsen, K.C. (2010). Genome-wide scan for self-rating of the effects of alcohol in American Indians. Psychiatric Genetics."
-        },{
-            "title": "Heritability of MMPI-2 scales in the UCSF family alcoholism study",
-            "doi": "",
-            "citation": "Gizer, I.R., Seaton-Smith, K.L., Ehlers, C.L., Vieten, C., Wilhelmsen, K.C.(2010). Heritability of MMPI-2 scales in the UCSF family alcoholism study. Journal of Addictive Diseases. 29."
-        },{
-            "title": "High performance computing instrumentation and research productivity in U.S. universities",
-            "doi": "",
-            "citation": "Apon, A., Ahalt , S., Dantuluri, V., Gurdgiev, C., Limayem, M., Ngo, L., Stealey, M. (2010). High performance computing instrumentation and research productivity in U.S. universities. Journal of Information Technology Impact. (2)10."
-        },{
-            "title": "Identifying prokaryotic counterparts of HCN and CNG channels by use of an evolutionary domain network",
-            "doi": "",
-            "citation": "Rendon, G., Tilson, J.L., Mashl, R. J., Jakobsson, E. Identifying prokaryotic counterparts of HCN and CNG channels by use of an evolutionary domain network. BMC Genomics."
-        },{
-            "title": "Implications for applications and compilers of multi-core memory concurrency",
-            "doi": "",
-            "citation": "Mandal, A., Lim, M.Y., Porterfield, A., FowlerR. Implications for applications and compilers of multi-core memory concurrency. International Workshop on Languages and Compilers for Parallel Computing (LCPC’10). Houston, TX, October 2010."
-        },{
-            "title": "integrated Rule-Oriented Data System: iRODS",
-            "doi": "",
-            "citation": "Brieger, L. integrated Rule-Oriented Data System: iRODS. OSG Storage Forum. University of Chicago, Sept 21-22, 2010."
-        },{
-            "title": "Policies and Interoperability of Digital Repositories Workshop",
-            "doi": "",
-            "citation": "Brieger, L., Pcolar, D. Interoperability. Policies and Interoperability of Digital Repositories Workshop, The 5th International Conference on Open Repositories. Madrid, Spain, July 6-9, 2010."
-        },{
-            "title": "iRODS Primer: Integrated Rule-Oriented Data System",
-            "doi": "",
-            "citation": "Rajasekar, R., Wan, M., Moore, R., Schroeder, W., Chen, S.-Y., Gilbert, L., Hou, C.-Y., Lee, C., Marciano, R., Tooby, P., de Torcy, A., Zhu, B. iRODS Primer: Integrated Rule-Oriented Data System. Morgan & Claypool, 2010."
-        },{
-            "title": "iRODS: Data sharing technology integrating communities of practice",
-            "doi": "",
-            "citation": "Moore, R. & Rajasekar, A. iRODS: Data sharing technology integrating communities of practice. Proceedings of the 2010 IEEE International Geoscience and Remote Sensing Symposium. Honolulu, HI, July 25, 2010."
-        },{
-            "title": "Lessons about virtual-environment software systems from 20 years of VE building",
-            "doi": "",
-            "citation": "Taylor, R.M., Jerald, J., VanderKnyff, C., Wendt, J., Borland, D., Marshburn, D., Sherman, W.R., Whitton, M.C. (2010). Lessons about virtual-environment software systems from 20 years of VE building. Presence: Teleoperators and Virtual Environments. (2)19."
-        },{
-            "title": "Linkage analyses of cannabis dependence, craving, and withdrawal in the San Francisco family study",
-            "doi": "",
-            "citation": "Ehlers, C.L., Gizer, I.R., Vieten, C., Wilhelmsen, K.C. (2010). Linkage analyses of cannabis dependence, craving, and withdrawal in the San Francisco family study. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics. 153B."
-        },{
-            "title": "Linkage scan of alcohol dependence in the UCSF family alcoholism study",
-            "doi": "",
-            "citation": "Gizer, I.R., Ehlers, C.L., Vieten, C., Seaton-Smith, K.L., Feiler, H.S., Lee, J.V., Segall, S.K., Gilder, D.A., and Wilhelmsen, K.C. (2010). Linkage scan of alcohol dependence in the UCSF family alcoholism study. Drug Alcohol Dependence.  PM:20817416."
-        },{
-            "title": "Linkage scan of nicotine dependence in the University of California, San Francisco (UCSF) family alcoholism study",
-            "doi": "",
-            "citation": "Gizer, I.R., Ehlers, C.L., Vieten, C., Seaton-Smith, K.L., Feiler, H.S., Lee, J.V., Segall, S.K., Gilder, D.A., Wilhelmsen, K.C. (2010). Linkage scan of nicotine dependence in the University of California, San Francisco (UCSF) family alcoholism study. Psychological Medicine."
-        },{
-            "title": "Modeling memory concurrency for multi-socket multi-core systems",
-            "doi": "",
-            "citation": "Mandal, A., Fowler, R., Porterfield, A. Modeling memory concurrency for multi-socket multi-core systems. IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS’10). White Plains, NY, March 2010."
-        },{
-            "title": "Networked cloud orchestration: A GENI perspective",
-            "doi": "",
-            "citation": "Baldin, I., Chase, J., Heermann, C., Irwin, D., Mandal, A., Marupadi, V., Xin, Y., Yumerefendi, A. Networked cloud orchestration: A GENI perspective. GLOBECOM 2010 Management of Emerging Networks and Services (MENS)) Workshop. Miami, FL, Dec. 6-10, 2010."
-        },{
-            "title": "Nuclear and cytoplasmic localization of neural stem cell microRNAs",
-            "doi": "",
-            "citation": "Jeffries, C., Fried, H., Perkins, D. (2010). Nuclear and cytoplasmic localization of neural stem cell microRNAs. RNA. "
-        },{
-            "title": "PowerMon: Fine-grain and intergrated power monitoring for commodity computer systems",
-            "doi": "",
-            "citation": "Bedard, D., Lim, M.Y., Fowler, R., Porterfield, A. PowerMon: Fine-grain and intergrated power monitoring for commodity computer systems. SouthestCon 2010. Charlotte, NC, March 2010."
-        },{
-            "title": "Precalculated protein structure alignments at the RCSB PDB website",
-            "doi": "",
-            "citation": "Prlic, A., Bliven, S., Rose, P.W., Bluhm, W.F., Bizon, C., Godzik, A., Bourne, P.E. (2010). Precalculated protein structure alignments at the RCSB PDB website. Bioinformatics. (26)23."
-        },{
-            "title": "Programming environment and architecture for situational awareness and response",
-            "doi": "",
-            "citation": "Horey, J., Begoli, E., Mills, R., Fowler, R., Scott, E., Bedard, D. Programming environment and architecture for situational awareness and response. International Workshop on Programming Methods for Mobile and Pervasive Systems (PMMPS2010). Helsinki, Finland, May 17, 2010."
-        },{
-            "title": "RCRTool: Design Document; Version 0.1. RENCI Technical Report TR-10-01",
-            "doi": "",
-            "citation": "Porterfield, A., Fowler, R., Lim, M.Y. RCRTool: Design Document; Version 0.1. RENCI Technical Report TR-10-01, RENCI, Chapel Hill, NC, February 2010."
-        },{
-            "title": "SoftPower: Fine-grain power estimations using performance counters",
-            "doi": "",
-            "citation": "Lim, M.Y., Porterfield, A., Fowler, R. SoftPower: Fine-grain power estimations using performance counters. In proceedings of The ACM International Symposium on High Performance Distributed Computing (HPDC). New York, NY, June, 2010."
-        },{
-            "title": "The Geographic Awareness Tool: Techniques for geo-encoding digital library content",
-            "doi": "",
-            "citation": "Powell, J., Mane, K., Collins, L.M., Martinez, M.L.B., McMahon, T. (2010). The Geographic Awareness Tool: Techniques for geo-encoding digital library content. Library Hi Tech News. (9/10)27."
-        },{
-            "title": "The investigation into CYP2E1 in relation to the level of response to alcohol through a combination of linkage and association analysis",
-            "doi": "",
-            "citation": "Webb, A., Lind, P.A., Kalmijn, J., Feiler, H.S., Smith, T.L., Schuckit, M.A., Wilhelmsen, K. (2010). The investigation into CYP2E1 in relation to the level of response to alcohol through a combination of linkage and association analysis. Alcohol: Clinical and Experimental Research."
-        },{
-            "title": "The social computing room: A multipurpose collaborative visualization environment",
-            "doi": "",
-            "citation": "Borland, D., Conway, M., Coposky, J., Ginn, W., Idaszak, R. The social computing room: A multipurpose collaborative visualization environment. The Engineering Reality of Virtual Reality Conference. San Jose, CA, January 21, 2010."
-        },{
-            "title": "TUCASI data infrastructure project",
-            "doi": "",
-            "citation": "Antelman, K., Brieger, L., Cadwell, S., Earp, S. TUCASI data infrastructure project. 2010 LAUNC-CH Conference. Chapel Hill, NC, March 5-8, 2010."
-        },{
-            "title": "Understanding data management plans and funder requirements",
-            "doi": "",
-            "citation": "Hayes, B., Hayslett, M., Brieger, L. Understanding data management plans and funder requirements. Odum Brown Bag series on campus support for Data Management Plans. UNC-CH, Nov 5, 2010."
-        },{
-            "title": "Understanding the horizontal dimension of molecular evolution to annotate, classify, and discover proteins with functional domains",
-            "doi": "",
-            "citation": "Rendon, G., Ger, M.-F., Kantorovitz, R., Natarajan, S., Tilson, J., Jakobsson, E. (2010). Understanding the horizontal dimension of molecular evolution to annotate, classify, and discover proteins with functional domains. Journal of Computer Science and Technology. (1)25."
-        },{
-            "title": "Use of social media and memex approaches to address issues of information overload and fragmentation for students in the STEM disciplines",
-            "doi": "",
-            "citation": "Kramer-Duffield, J., Greenberg, J., Gollop, C, Edwards, P., Shoffner, M. Use of social media and memex approaches to address issues of information overload and fragmentation for students in the STEM disciplines. Journal of the American Society of Information Science and Technology."
-        },{
-            "title": "Using operational and experimental observations in geoscience education",
-            "doi": "",
-            "citation": "Etherton, B.J., Arms, S.A., Oolman, L., Lackmann, G.M., Ramamurthy, M., Hansen, J., Miller, L. (2010). Using operational and experimental observations in geoscience education. Bulletin of the American Meteorological Society."
-        },{
-            "title": "Visual discoveries: Understanding social and economic factors using visual-analytical tools",
-            "doi": "",
-            "citation": "Thakur, S. Visual discoveries: Understanding social and economic factors using visual-analytical tools. 2nd International Conference – Opportunities and Challenges in the Global Business, organized by the International Institute of Foreign Trade and Research. Indore, India, February 2010."
-        },{
-            "title": "Visual-analytics tools for analyzing polymer conformational dynamics",
-            "doi": "",
-            "citation": "Thakur, S., Tallury, S., Pasquinelli, M.A. Visual-analytics tools for analyzing polymer conformational dynamics. American Physical Society March Meeting. Portland, OR, March 15-19, 2010."
-        }
-    ]
-}
+[
+    {
+        "title": "Understanding the “horizontal dimension” of molecular evolution to annotate, classify, and discover proteins with functional domains",
+        "doi": "",
+        "citation": "Rendon, G., Ger, M.F., Kantorovitz, R., et al. (2010). Understanding the “horizontal dimension” of molecular evolution to annotate, classify, and discover proteins with functional domains. Journal of Computer Science and Technology. (25)1."
+    },{
+        "title": "A 3D visualization of multiple time series on maps",
+        "doi": "",
+        "citation": "Thakur, S., & Hanson, A. A 3D visualization of multiple time series on maps. 14th International Conference on Information Visualisation. London, July 26 – 29, 2010."
+    },{
+        "title": "A service-oriented interface to the iRODS data grid",
+        "doi": "",
+        "citation": "Venuti N., Locunto F., Conway M., Brieger L. A service-oriented interface to the iRODS data grid. Proceedings of the Second iRODS User Group Meeting. Chapel Hill, NC, March 2010."
+    },{
+        "title": "A simple abstraction for data modeling",
+        "doi": "",
+        "citation": "Nassar, N.  (2010).  A simple abstraction for data modeling.  ArXiv e-prints. 1009.5233."
+    },{
+        "title": "Age at regular drinking, clinical course, and heritability of alcohol dependence in the San Francisco family study: A gender analysis",
+        "doi": "",
+        "citation": "Ehlers, C.L., Gizer, I.R., Vieten, C., Gilder, A., Gilder, D.A., Stouffer, G.M., Lau, P., Wilhelmsen, K.C.(2010). Age at regular drinking, clinical course, and heritability of alcohol dependence in the San Francisco family study: A gender analysis. The American Journal on Addictions. 19, 101-110."
+    },{
+        "title": "An observing system experiment for tropical cyclone targeting techniques using the global forecast system",
+        "doi": "",
+        "citation": "Aberson, S.D., Majumdar, S.J., Reynolds, C.A., Etherton, B.J. (2010). An observing system experiment for tropical cyclone targeting techniques using the global forecast system. Monthly Weather Review."
+    },{
+        "title": "An open source option for cloud computing in education and research",
+        "doi": "",
+        "citation": "Dreher, P., Vouk, M., Averitt, S., Sills, E. (2010). An open source option for cloud computing in education and research. In Cloud Computing, San Murugesan, Ed, Chapman & Hall, (2010)."
+    },{
+        "title": "Analyzing lock contention in multithreaded applications",
+        "doi": "10.1145/1837853.1693489"
+    },{
+        "title": "Antipsychotic-induced vacuous chewing movements and extrapyramidal side effects are highly heritable in mice",
+        "doi": "",
+        "citation": "Crowley, J. J., Adkins, D. E., Pratt, A. L., Quackenbush, C. R., van den Oord, E. J., Moy, S. S., Wilhelmsen, K. C., Cooper, T. B., Bogue, M. A., McLeod, H. L., Sullivan, P. F. (2010). Antipsychotic-induced vacuous chewing movements and extrapyramidal side effects are highly heritable in mice. The Pharmacogenomics Journal. PM:21079646."
+    },{
+        "title": "Appearance normalization of histology slides",
+        "doi": "",
+        "citation": "Niethammer, M., Borland, D., Marron, J.S., Woosley, J., Thomas, N.E. Appearance normalization of histology slides. MICCAI, International Workshop on Machine Learning in Medical Imaging, 2010. Beijing, China, Sept. 20, 2010."
+    },{
+        "title": "Association between harmful alcohol consumption behavior and dopamine transporter (DAT1) gene polymorphisms in a male Finnish population",
+        "doi": "",
+        "citation": "Lind, P. A., Eriksson, C. J., Wilhelmsen, K. C. (2010). Association between harmful alcohol consumption behavior and dopamine transporter (DAT1) gene polymorphisms in a male Finnish population. Psychiatric Genetics. (19) 117-125. PM:19352220."
+    },{
+        "title": "Cannabis dependence in the San Francisco Family Study: Age of onset of use, DSM-IV symptoms, withdrawal, and heritability",
+        "doi": "",
+        "citation": "Ehlers, C.L., Gizer, I.R., Vieten, C., Gilder, D.A., Stouffer, G.M., Lau, P., Wilhelmsen, K.C. (2010). Cannabis dependence in the San Francisco Family Study: Age of onset of use, DSM-IV symptoms, withdrawal, and heritability. Addictive Behaviors. 35, 102-110."
+    },{
+        "title": "Cloud computing and software services: Theory and techniques (1st ed.)",
+        "doi": "",
+        "citation": "Ahson, S.A. & Ilyas, M. (2010). Cloud computing and software services: Theory and techniques (1st ed.). CRC Press, Inc., Boca Raton, FL, USA. CRC Press; 1 edition (July 19, 2010); ISBN-10: 1439803153 ISBN-13: 978-1439803158."
+    },{
+        "title": "Cloud Network Infrastructure as a Service: An exercise in multi-domain orchestration",
+        "doi": "",
+        "citation": "Chase, J., Yumerefendi, A., Baldin, I., Xin, Y., Mandal, A., Heermann, C., Irwin, D. Cloud Network Infrastructure as a Service: An exercise in multi-domain orchestration. 2nd USENIX Workshop on Hot Topics in Cloud Computing (HotCloud ’10). Boston, June 22, 2010."
+    },{
+        "title": "Collaborative data curation",
+        "doi": "",
+        "citation": "Nassar, N. Collaborative data curation.  UNC BarCamp 2010. Chapel Hill, NC, June, 2010."
+    },{
+        "title": "Creating an open web 2.0 cloud e-Learning experience",
+        "doi": "",
+        "citation": "Shoffner, M., et al. Creating an open web 2.0 cloud e-Learning experience.” 2010 EDUCAUSE Conference. Los Angeles, CA, Oct. 13 – 15, 2010."
+    },{
+        "title": "Cyber infrastructure for community remote sensing",
+        "doi": "",
+        "citation": "Rajasekar, A., Moore, R., Wan, M., Schroeder, W. Cyber infrastructure for community remote sensing. IEEE Geoscience and Remote Sensing Society. Honolulu, HI, July 25-30, 2010."
+    },{
+        "title": "Data approaches for campus bridging",
+        "doi": "",
+        "citation": "Lander, H., Shoffner, M., & the RENCI Data Working Group. Data approaches for campus bridging. NSF Campus Bridging Technologies Task Force meeting. Indianapolis, IN, April 7, 2010."
+    },{
+        "title": "Domain-based identification and analysis of glutamate receptor ion channels and their relatives in prokaryotes",
+        "doi": "10.1371/journal.pone.0012827",
+        "citation": "Ger, M-F., Rendon, G., Tilson, J.L., Jakobsson, E. Domain-based identification and analysis of glutamate receptor ion channels and their - relatives in prokaryotes. Plos ONE. 5(10): e12827. doi: 10.1371/journal.pone.0012827."
+    },{
+        "title": "?",
+        "doi": "",
+        "citation": "Porterfield, A. & Wheeler, K. Dynamic loop scheduling in balanced loops. The International Conference on Parallel Architectures and Compilation Techniques (PACT 2010). Vienna, Austria, September 11 – 15, 2010."
+    },{
+        "title": "?",
+        "doi": "10.1186/1471-2350-11-43",
+        "citation": "Ehlers, C.L., Gizer, I.R., Phillips, E., Wilhelmsen. K.C. (2010). EEG alpha phenotypes: Linkage analysis and relation to alcohol dependence in an American Indian community study. BMC Medical Genetics. - (43)11. doi:10.1186/1471-2350-11-43."
+    },{
+        "title": "EEG spectral phenotypes: Heritability and association with marijuana and alcohol dependence in an American Indian community study",
+        "doi": "",
+        "citation": "Ehlers, C.L., Phillips, E., Gizer, I.R., Gilder, D.A., Wilhelmsen, K.C. (2010). EEG spectral phenotypes: Heritability and association with marijuana and alcohol dependence in an American Indian community study. Drug Alcohol Dependence. 106."
+    },{
+        "title": "Efficiently clustering performance data at massive scales",
+        "doi": "",
+        "citation": "Gamblin, T.,  de Supinski, B., Schulz, M., Fowler, R., Reed, D. Efficiently clustering performance data at massive scales. In Proceedings of the International Conference on Supercomputing 2010 (ICS2010). Tsukuba, Japan, June 2010."
+    },{
+        "title": "Expert review of molecular diagnostics",
+        "doi": "",
+        "citation": "Jeffries, C. Expert review of molecular diagnostics. (2010). CHI Conference on microRNAs: Dramatic Expansion of Research Tools and Discoveries. (5)10."
+    },{
+        "title": "Exploration of polymer conformational similarities in polymer-carbon nanotube interfaces",
+        "doi": "",
+        "citation": "Thakur, S., Tallury, S., Pasquinelli, M.A. Exploration of polymer conformational similarities in polymer-carbon nanotube interfaces. IEEE SoutheastCon 2010 conference: Energizing Our Future. Charlotte, NC, March 18-21, 2010."
+    },{
+        "title": "Gene processing control loops suggested by sequencing, splicing, and RNA folding",
+        "doi": "10.1186/1471-2105-11-602",
+        "citation": "Jeffries, C., Perkins, D., Guan, X. (2010). Gene processing control loops suggested by sequencing, splicing, and RNA folding. BMC Bioinformatics. - doi:10.1186/1471-2105-11-602."
+    },{
+        "title": "Genome-wide scan for self-rating of the effects of alcohol in American Indians",
+        "doi": "",
+        "citation": "Ehlers, C.L., Gizer, I.R., Schuckit, M.A., Wilhelmsen, K.C. (2010). Genome-wide scan for self-rating of the effects of alcohol in American Indians. Psychiatric Genetics."
+    },{
+        "title": "Heritability of MMPI-2 scales in the UCSF family alcoholism study",
+        "doi": "",
+        "citation": "Gizer, I.R., Seaton-Smith, K.L., Ehlers, C.L., Vieten, C., Wilhelmsen, K.C.(2010). Heritability of MMPI-2 scales in the UCSF family alcoholism study. Journal of Addictive Diseases. 29."
+    },{
+        "title": "High performance computing instrumentation and research productivity in U.S. universities",
+        "doi": "",
+        "citation": "Apon, A., Ahalt , S., Dantuluri, V., Gurdgiev, C., Limayem, M., Ngo, L., Stealey, M. (2010). High performance computing instrumentation and research productivity in U.S. universities. Journal of Information Technology Impact. (2)10."
+    },{
+        "title": "Identifying prokaryotic counterparts of HCN and CNG channels by use of an evolutionary domain network",
+        "doi": "",
+        "citation": "Rendon, G., Tilson, J.L., Mashl, R. J., Jakobsson, E. Identifying prokaryotic counterparts of HCN and CNG channels by use of an evolutionary domain network. BMC Genomics."
+    },{
+        "title": "Implications for applications and compilers of multi-core memory concurrency",
+        "doi": "",
+        "citation": "Mandal, A., Lim, M.Y., Porterfield, A., FowlerR. Implications for applications and compilers of multi-core memory concurrency. International Workshop on Languages and Compilers for Parallel Computing (LCPC’10). Houston, TX, October 2010."
+    },{
+        "title": "integrated Rule-Oriented Data System: iRODS",
+        "doi": "",
+        "citation": "Brieger, L. integrated Rule-Oriented Data System: iRODS. OSG Storage Forum. University of Chicago, Sept 21-22, 2010."
+    },{
+        "title": "Policies and Interoperability of Digital Repositories Workshop",
+        "doi": "",
+        "citation": "Brieger, L., Pcolar, D. Interoperability. Policies and Interoperability of Digital Repositories Workshop, The 5th International Conference on Open Repositories. Madrid, Spain, July 6-9, 2010."
+    },{
+        "title": "iRODS Primer: Integrated Rule-Oriented Data System",
+        "doi": "",
+        "citation": "Rajasekar, R., Wan, M., Moore, R., Schroeder, W., Chen, S.-Y., Gilbert, L., Hou, C.-Y., Lee, C., Marciano, R., Tooby, P., de Torcy, A., Zhu, B. iRODS Primer: Integrated Rule-Oriented Data System. Morgan & Claypool, 2010."
+    },{
+        "title": "iRODS: Data sharing technology integrating communities of practice",
+        "doi": "",
+        "citation": "Moore, R. & Rajasekar, A. iRODS: Data sharing technology integrating communities of practice. Proceedings of the 2010 IEEE International Geoscience and Remote Sensing Symposium. Honolulu, HI, July 25, 2010."
+    },{
+        "title": "Lessons about virtual-environment software systems from 20 years of VE building",
+        "doi": "",
+        "citation": "Taylor, R.M., Jerald, J., VanderKnyff, C., Wendt, J., Borland, D., Marshburn, D., Sherman, W.R., Whitton, M.C. (2010). Lessons about virtual-environment software systems from 20 years of VE building. Presence: Teleoperators and Virtual Environments. (2)19."
+    },{
+        "title": "Linkage analyses of cannabis dependence, craving, and withdrawal in the San Francisco family study",
+        "doi": "",
+        "citation": "Ehlers, C.L., Gizer, I.R., Vieten, C., Wilhelmsen, K.C. (2010). Linkage analyses of cannabis dependence, craving, and withdrawal in the San Francisco family study. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics. 153B."
+    },{
+        "title": "Linkage scan of alcohol dependence in the UCSF family alcoholism study",
+        "doi": "",
+        "citation": "Gizer, I.R., Ehlers, C.L., Vieten, C., Seaton-Smith, K.L., Feiler, H.S., Lee, J.V., Segall, S.K., Gilder, D.A., and Wilhelmsen, K.C. (2010). Linkage scan of alcohol dependence in the UCSF family alcoholism study. Drug Alcohol Dependence.  PM:20817416."
+    },{
+        "title": "Linkage scan of nicotine dependence in the University of California, San Francisco (UCSF) family alcoholism study",
+        "doi": "",
+        "citation": "Gizer, I.R., Ehlers, C.L., Vieten, C., Seaton-Smith, K.L., Feiler, H.S., Lee, J.V., Segall, S.K., Gilder, D.A., Wilhelmsen, K.C. (2010). Linkage scan of nicotine dependence in the University of California, San Francisco (UCSF) family alcoholism study. Psychological Medicine."
+    },{
+        "title": "Modeling memory concurrency for multi-socket multi-core systems",
+        "doi": "",
+        "citation": "Mandal, A., Fowler, R., Porterfield, A. Modeling memory concurrency for multi-socket multi-core systems. IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS’10). White Plains, NY, March 2010."
+    },{
+        "title": "Networked cloud orchestration: A GENI perspective",
+        "doi": "",
+        "citation": "Baldin, I., Chase, J., Heermann, C., Irwin, D., Mandal, A., Marupadi, V., Xin, Y., Yumerefendi, A. Networked cloud orchestration: A GENI perspective. GLOBECOM 2010 Management of Emerging Networks and Services (MENS)) Workshop. Miami, FL, Dec. 6-10, 2010."
+    },{
+        "title": "Nuclear and cytoplasmic localization of neural stem cell microRNAs",
+        "doi": "",
+        "citation": "Jeffries, C., Fried, H., Perkins, D. (2010). Nuclear and cytoplasmic localization of neural stem cell microRNAs. RNA. "
+    },{
+        "title": "PowerMon: Fine-grain and intergrated power monitoring for commodity computer systems",
+        "doi": "",
+        "citation": "Bedard, D., Lim, M.Y., Fowler, R., Porterfield, A. PowerMon: Fine-grain and intergrated power monitoring for commodity computer systems. SouthestCon 2010. Charlotte, NC, March 2010."
+    },{
+        "title": "Precalculated protein structure alignments at the RCSB PDB website",
+        "doi": "",
+        "citation": "Prlic, A., Bliven, S., Rose, P.W., Bluhm, W.F., Bizon, C., Godzik, A., Bourne, P.E. (2010). Precalculated protein structure alignments at the RCSB PDB website. Bioinformatics. (26)23."
+    },{
+        "title": "Programming environment and architecture for situational awareness and response",
+        "doi": "",
+        "citation": "Horey, J., Begoli, E., Mills, R., Fowler, R., Scott, E., Bedard, D. Programming environment and architecture for situational awareness and response. International Workshop on Programming Methods for Mobile and Pervasive Systems (PMMPS2010). Helsinki, Finland, May 17, 2010."
+    },{
+        "title": "RCRTool: Design Document; Version 0.1. RENCI Technical Report TR-10-01",
+        "doi": "",
+        "citation": "Porterfield, A., Fowler, R., Lim, M.Y. RCRTool: Design Document; Version 0.1. RENCI Technical Report TR-10-01, RENCI, Chapel Hill, NC, February 2010."
+    },{
+        "title": "SoftPower: Fine-grain power estimations using performance counters",
+        "doi": "",
+        "citation": "Lim, M.Y., Porterfield, A., Fowler, R. SoftPower: Fine-grain power estimations using performance counters. In proceedings of The ACM International Symposium on High Performance Distributed Computing (HPDC). New York, NY, June, 2010."
+    },{
+        "title": "The Geographic Awareness Tool: Techniques for geo-encoding digital library content",
+        "doi": "",
+        "citation": "Powell, J., Mane, K., Collins, L.M., Martinez, M.L.B., McMahon, T. (2010). The Geographic Awareness Tool: Techniques for geo-encoding digital library content. Library Hi Tech News. (9/10)27."
+    },{
+        "title": "The investigation into CYP2E1 in relation to the level of response to alcohol through a combination of linkage and association analysis",
+        "doi": "",
+        "citation": "Webb, A., Lind, P.A., Kalmijn, J., Feiler, H.S., Smith, T.L., Schuckit, M.A., Wilhelmsen, K. (2010). The investigation into CYP2E1 in relation to the level of response to alcohol through a combination of linkage and association analysis. Alcohol: Clinical and Experimental Research."
+    },{
+        "title": "The social computing room: A multipurpose collaborative visualization environment",
+        "doi": "",
+        "citation": "Borland, D., Conway, M., Coposky, J., Ginn, W., Idaszak, R. The social computing room: A multipurpose collaborative visualization environment. The Engineering Reality of Virtual Reality Conference. San Jose, CA, January 21, 2010."
+    },{
+        "title": "TUCASI data infrastructure project",
+        "doi": "",
+        "citation": "Antelman, K., Brieger, L., Cadwell, S., Earp, S. TUCASI data infrastructure project. 2010 LAUNC-CH Conference. Chapel Hill, NC, March 5-8, 2010."
+    },{
+        "title": "Understanding data management plans and funder requirements",
+        "doi": "",
+        "citation": "Hayes, B., Hayslett, M., Brieger, L. Understanding data management plans and funder requirements. Odum Brown Bag series on campus support for Data Management Plans. UNC-CH, Nov 5, 2010."
+    },{
+        "title": "Understanding the horizontal dimension of molecular evolution to annotate, classify, and discover proteins with functional domains",
+        "doi": "",
+        "citation": "Rendon, G., Ger, M.-F., Kantorovitz, R., Natarajan, S., Tilson, J., Jakobsson, E. (2010). Understanding the horizontal dimension of molecular evolution to annotate, classify, and discover proteins with functional domains. Journal of Computer Science and Technology. (1)25."
+    },{
+        "title": "Use of social media and memex approaches to address issues of information overload and fragmentation for students in the STEM disciplines",
+        "doi": "",
+        "citation": "Kramer-Duffield, J., Greenberg, J., Gollop, C, Edwards, P., Shoffner, M. Use of social media and memex approaches to address issues of information overload and fragmentation for students in the STEM disciplines. Journal of the American Society of Information Science and Technology."
+    },{
+        "title": "Using operational and experimental observations in geoscience education",
+        "doi": "",
+        "citation": "Etherton, B.J., Arms, S.A., Oolman, L., Lackmann, G.M., Ramamurthy, M., Hansen, J., Miller, L. (2010). Using operational and experimental observations in geoscience education. Bulletin of the American Meteorological Society."
+    },{
+        "title": "Visual discoveries: Understanding social and economic factors using visual-analytical tools",
+        "doi": "",
+        "citation": "Thakur, S. Visual discoveries: Understanding social and economic factors using visual-analytical tools. 2nd International Conference – Opportunities and Challenges in the Global Business, organized by the International Institute of Foreign Trade and Research. Indore, India, February 2010."
+    },{
+        "title": "Visual-analytics tools for analyzing polymer conformational dynamics",
+        "doi": "",
+        "citation": "Thakur, S., Tallury, S., Pasquinelli, M.A. Visual-analytics tools for analyzing polymer conformational dynamics. American Physical Society March Meeting. Portland, OR, March 15-19, 2010."
+    }
+]

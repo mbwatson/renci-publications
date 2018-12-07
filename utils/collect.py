@@ -1,8 +1,8 @@
 import json
+from pprint import pprint
 import re
 import sys
 import getopt
-from pprint import pprint
 
 def read_pubs(filenames):
     publications = []
@@ -10,13 +10,9 @@ def read_pubs(filenames):
         print(f'Reading "{filename}"... ', end='')
         try:
             with open(filename, encoding='utf-8') as f:
-                year_regex = '.+(\d{4})\.json$'
-                match = re.match(year_regex, filename)
-                if match:
-                    year = match.groups()[0]
-                    pubs = json.load(f)
-                    publications += pubs[year]
-            print(f'Success! ({len(pubs[year])})')
+                pubs = json.load(f)
+                publications += pubs
+            print(f'Success! ({len(pubs)})')
         except FileNotFoundError:
             print(f'Not found')
         except IOError:
@@ -51,7 +47,7 @@ def main(argv):
     if dois_only == True:
         items = [pub.get('doi', '').strip() for pub in publications if 'doi' in pub and pub['doi'].strip() != '']
     else:
-        items = read_pubs(filenames)
+        items = publications
     item_type = 'DOIs' if dois_only == True else 'publications'
     print(f' > Imported {len(items)} {item_type}.\n')
     write_pubs(items, outputfile)

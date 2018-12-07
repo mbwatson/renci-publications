@@ -1,108 +1,106 @@
-{
-    "2009": [
-        {
-            "title": "High-throughput sialylmotif analysis in the glycosyltransferase protein family",
-            "doi": "",
-            "citation": "Datta, A.K., Tilson, J.L., Rendon, G., Jakobsson, E. High-throughput sialylmotif analysis in the glycosyltransferase protein family. Proceedings in TeraGrid ‘op. Arlington, VA, June 22-25, 2009."
-        },{
-            "title": "10.1093/bioinformatics/btn656 ",
-            "doi": "10.1093/bioinformatics/btn656 "
-        },{
-            "title": "Building Solutions for Researchers with a Science Gateway",
-            "doi": "",
-            "citation": "McGee, J., Reilly, J., Rynge, M. Building Solutions for Researchers with a Science Gateway. TeraGrid ’09 Conference. Arlington, VA, June 22-25, 2009."
-        },{
-            "title": "Data vases: 2D and 3D plots for visualizing multiple time series",
-            "doi": "",
-            "citation": "Thakur, S. & Rhyne, T.M. Data vases: 2D and 3D plots for visualizing multiple time series. 5th International Symposium on Visual Computing. Las Vegas, NV, Nov. 30 – Dec. 2, 2009."
-        },{
-            "title": "Data vases: Plots for visualizing multiple time series",
-            "doi": "",
-            "citation": "Thakur, S. & Rhyne, T.M. Data vases: Plots for visualizing multiple time series. IEEE Info Vis 2009. Atlantic City, NJ, Oct. 11-16, 2009."
-        },{
-            "title": "Discovering collectively informative descriptors from high-throughput experiments",
-            "doi": "10.1186/1471-2105-10-431"
-        },{
-            "title": "Dynamic provisioning system for bandwidth-scalable core optical network",
-            "doi": "10.1109/milcom.2009.5379933 "
-        },{
-            "title": "Grid information retrieval",
-            "doi": "",
-            "citation": "Nassar, N.  Grid information retrieval. Open Grid Forum. Chapel Hill, NC, May, 2009."
-        },{
-            "title": "Information visualization services in a library? A public health case study",
-            "doi": "10.1002/bult.2009.1720350505"
-        },{
-            "title": "Large tree visualization of the melanoma genome",
-            "doi": "",
-            "citation": "Heard, J. Large tree visualization of the melanoma genome. UNC Endeavors Magazine. Winter 2009"
-        },{
-            "title": "Multi-threaded library for many-core systems",
-            "doi": "10.1109/ipdps.2009.5161104 "
-        },{
-            "title": "TeraGrid’s integrated information service",
-            "doi": "10.1145/1658260.1658271"
-        },{
-            "title": "Traffic grooming: A changing role in green optical networks",
-            "doi": "10.1109/glocom.2009.5425630 "
-        },{
-            "title": "Visual analytics approach to practice evidence-based medicine",
-            "doi": "",
-            "citation": "Mane, K., Schmitt, C., Bizon, C., Gersing, K., Burchett, B., Pietrobon, R. Visual analytics approach to practice evidence-based medicine. American Medical Informatics Association (AMIA) 2009 Annual Symposium. San Francisco, CA."
-        },{
-            "title": "Visualization of the molecular dynamics of polymers and carbon nanotubes",
-            "doi": "",
-            "citation": "Thakur, S., Tallury, S., Pasquinelli, M.A., Rhyne, T.M. Visualization of the molecular dynamics of polymers and carbon nanotubes. 5th International Symposium on Visual Computing, ISVC Part II. Las Vegas, NV, Nov. 30 – Dec. 2, 2009. "
-        },{
-            "title": "Visualizing all of iBiblio’s historic weblogs",
-            "doi": "",
-            "citation": "Heard, J. Visualizing all of iBiblio’s historic weblogs. UNC Endeavors Magazine. Winter 2009."
-        },{
-            "title": "A method for normalizing histology slides for quantitative analysis",
-            "doi": "10.1109/isbi.2009.5193250 "
-        },{
-            "title": "Policy-based distributed data management systems",
-            "doi": "",
-            "citation": "Moore, R., Rajasekar, A., Wan, M. Policy-based distributed data management systems. OR’09. Atlanta, GA, May 2009."
-        },{
-            "title": "Transcontinental preservation archive prototype",
-            "doi": "",
-            "citation": "Moore, R., Conrad, M., Marciano, R., Rajasekar, A., Wan, M. Transcontinental preservation archive prototype. Indo-US Workshop on International Trends in Digital Preservation. Pune, India, March 2009."
-        },{
-            "title": "Management of very large distributed shared collections",
-            "doi": "10.1081/e-elis3-120043252"
-        },{
-            "title": "Empirical evaluation of multi-core memory concurrency",
-            "doi": "",
-            "citation": "Porterfield, A., Fowler, R., Mandal, A., Lim, M.Y. Empirical evaluation of multi-core memory concurrency. Available as Technical Report TR-09-01, RENCI, North Carolina, Jan. 2009, available at http://www.renci.org/publications/techreports/TR-09-01.pdf."
-        },{
-            "title": "Event processing in policy oriented data grids",
-            "doi": "",
-            "citation": "Rajasekar, A., Wan, M., Moore, R. Event processing in policy oriented data grids. Intelligent Event Processing AAAI Spring Symposium. Stanford, CA, March 2009."
-        },{
-            "title": "Universal view and open policy: characteristics of large-scale data management system",
-            "doi": "10.1109/cts.2009.5067497"
-        },{
-            "title": "iRODS Primer: Integrated Rule-Oriented Data System",
-            "doi": "10.2200/s00233ed1v01y200912icr012"
-        },{
-            "title": "VGrADS: Enabling e-Science Workflows on Grids and Clouds with Fault Tolerance",
-            "doi": "10.1145/1654059.1654107"
-        },{
-            "title": "Algorithms and performance measurements for MotifNetwork analysis programs",
-            "doi": "",
-            "citation": "Tilson, J.L., Kandaswamy, G., Rendon, G., Jakobsson, E. Algorithms and performance measurements for MotifNetwork analysis programs. RENCI Technical Report, TG-09-02, July 2009."
-        },{
-            "title": "MotifNetwork: High throughput determination of evolutionary domain networks",
-            "doi": "",
-            "citation": "Tilson, J.L., Kandaswamy, G., Rendon, G., Jakobsson, E. MotifNetwork: High throughput determination of evolutionary domain networks. Proceedings of the 2009 International Conference on Bioinformatics and Computational Biology (BIOCOMP’09). Las Vegas, NV, July 13-16, 2009."
-        },{
-            "title": "In silico construction of a protein interaction landscape for nucleotide excision repair",
-            "doi": "10.1007/s12013-009-9042-y"
-        },{
-            "title": "Combined fault tolerance and scheduling techniques for workflow applications on computational grids",
-            "doi": "10.1109/ccgrid.2009.59"
+[
+    {
+        "title": "High-throughput sialylmotif analysis in the glycosyltransferase protein family",
+        "doi": "",
+        "citation": "Datta, A.K., Tilson, J.L., Rendon, G., Jakobsson, E. High-throughput sialylmotif analysis in the glycosyltransferase protein family. Proceedings in TeraGrid ‘op. Arlington, VA, June 22-25, 2009."
+    },{
+        "title": "10.1093/bioinformatics/btn656 ",
+        "doi": "10.1093/bioinformatics/btn656 "
+    },{
+        "title": "Building Solutions for Researchers with a Science Gateway",
+        "doi": "",
+        "citation": "McGee, J., Reilly, J., Rynge, M. Building Solutions for Researchers with a Science Gateway. TeraGrid ’09 Conference. Arlington, VA, June 22-25, 2009."
+    },{
+        "title": "Data vases: 2D and 3D plots for visualizing multiple time series",
+        "doi": "",
+        "citation": "Thakur, S. & Rhyne, T.M. Data vases: 2D and 3D plots for visualizing multiple time series. 5th International Symposium on Visual Computing. Las Vegas, NV, Nov. 30 – Dec. 2, 2009."
+    },{
+        "title": "Data vases: Plots for visualizing multiple time series",
+        "doi": "",
+        "citation": "Thakur, S. & Rhyne, T.M. Data vases: Plots for visualizing multiple time series. IEEE Info Vis 2009. Atlantic City, NJ, Oct. 11-16, 2009."
+    },{
+        "title": "Discovering collectively informative descriptors from high-throughput experiments",
+        "doi": "10.1186/1471-2105-10-431"
+    },{
+        "title": "Dynamic provisioning system for bandwidth-scalable core optical network",
+        "doi": "10.1109/milcom.2009.5379933 "
+    },{
+        "title": "Grid information retrieval",
+        "doi": "",
+        "citation": "Nassar, N.  Grid information retrieval. Open Grid Forum. Chapel Hill, NC, May, 2009."
+    },{
+        "title": "Information visualization services in a library? A public health case study",
+        "doi": "10.1002/bult.2009.1720350505"
+    },{
+        "title": "Large tree visualization of the melanoma genome",
+        "doi": "",
+        "citation": "Heard, J. Large tree visualization of the melanoma genome. UNC Endeavors Magazine. Winter 2009"
+    },{
+        "title": "Multi-threaded library for many-core systems",
+        "doi": "10.1109/ipdps.2009.5161104 "
+    },{
+        "title": "TeraGrid’s integrated information service",
+        "doi": "10.1145/1658260.1658271"
+    },{
+        "title": "Traffic grooming: A changing role in green optical networks",
+        "doi": "10.1109/glocom.2009.5425630 "
+    },{
+        "title": "Visual analytics approach to practice evidence-based medicine",
+        "doi": "",
+        "citation": "Mane, K., Schmitt, C., Bizon, C., Gersing, K., Burchett, B., Pietrobon, R. Visual analytics approach to practice evidence-based medicine. American Medical Informatics Association (AMIA) 2009 Annual Symposium. San Francisco, CA."
+    },{
+        "title": "Visualization of the molecular dynamics of polymers and carbon nanotubes",
+        "doi": "",
+        "citation": "Thakur, S., Tallury, S., Pasquinelli, M.A., Rhyne, T.M. Visualization of the molecular dynamics of polymers and carbon nanotubes. 5th International Symposium on Visual Computing, ISVC Part II. Las Vegas, NV, Nov. 30 – Dec. 2, 2009. "
+    },{
+        "title": "Visualizing all of iBiblio’s historic weblogs",
+        "doi": "",
+        "citation": "Heard, J. Visualizing all of iBiblio’s historic weblogs. UNC Endeavors Magazine. Winter 2009."
+    },{
+        "title": "A method for normalizing histology slides for quantitative analysis",
+        "doi": "10.1109/isbi.2009.5193250 "
+    },{
+        "title": "Policy-based distributed data management systems",
+        "doi": "",
+        "citation": "Moore, R., Rajasekar, A., Wan, M. Policy-based distributed data management systems. OR’09. Atlanta, GA, May 2009."
+    },{
+        "title": "Transcontinental preservation archive prototype",
+        "doi": "",
+        "citation": "Moore, R., Conrad, M., Marciano, R., Rajasekar, A., Wan, M. Transcontinental preservation archive prototype. Indo-US Workshop on International Trends in Digital Preservation. Pune, India, March 2009."
+    },{
+        "title": "Management of very large distributed shared collections",
+        "doi": "10.1081/e-elis3-120043252"
+    },{
+        "title": "Empirical evaluation of multi-core memory concurrency",
+        "doi": "",
+        "citation": "Porterfield, A., Fowler, R., Mandal, A., Lim, M.Y. Empirical evaluation of multi-core memory concurrency. Available as Technical Report TR-09-01, RENCI, North Carolina, Jan. 2009, available at http://www.renci.org/publications/techreports/TR-09-01.pdf."
+    },{
+        "title": "Event processing in policy oriented data grids",
+        "doi": "",
+        "citation": "Rajasekar, A., Wan, M., Moore, R. Event processing in policy oriented data grids. Intelligent Event Processing AAAI Spring Symposium. Stanford, CA, March 2009."
+    },{
+        "title": "Universal view and open policy: characteristics of large-scale data management system",
+        "doi": "10.1109/cts.2009.5067497"
+    },{
+        "title": "iRODS Primer: Integrated Rule-Oriented Data System",
+        "doi": "10.2200/s00233ed1v01y200912icr012"
+    },{
+        "title": "VGrADS: Enabling e-Science Workflows on Grids and Clouds with Fault Tolerance",
+        "doi": "10.1145/1654059.1654107"
+    },{
+        "title": "Algorithms and performance measurements for MotifNetwork analysis programs",
+        "doi": "",
+        "citation": "Tilson, J.L., Kandaswamy, G., Rendon, G., Jakobsson, E. Algorithms and performance measurements for MotifNetwork analysis programs. RENCI Technical Report, TG-09-02, July 2009."
+    },{
+        "title": "MotifNetwork: High throughput determination of evolutionary domain networks",
+        "doi": "",
+        "citation": "Tilson, J.L., Kandaswamy, G., Rendon, G., Jakobsson, E. MotifNetwork: High throughput determination of evolutionary domain networks. Proceedings of the 2009 International Conference on Bioinformatics and Computational Biology (BIOCOMP’09). Las Vegas, NV, July 13-16, 2009."
+    },{
+        "title": "In silico construction of a protein interaction landscape for nucleotide excision repair",
+        "doi": "10.1007/s12013-009-9042-y"
+    },{
+        "title": "Combined fault tolerance and scheduling techniques for workflow applications on computational grids",
+        "doi": "10.1109/ccgrid.2009.59"
 
-        }
-    ]
-}
+    }
+]
