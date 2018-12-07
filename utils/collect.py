@@ -4,9 +4,19 @@ import re
 import sys
 import getopt
 
-def read_pubs(filenames: list):
+def read_pubs(filenames: list) -> list:
     '''
-
+    Create a list of publications from a set list of filenames.
+    It is expected that the publications in the incoming filen
+    are in JSON format, like so
+    [
+        {
+            "title": "Some Interesting Study",
+            "doi": "10.039f/spe39",
+            "type": "Journal Article"
+        }, 
+        ...
+    ].
     '''
     publications = []
     for filename in filenames:
