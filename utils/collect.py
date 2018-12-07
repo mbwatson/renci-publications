@@ -4,7 +4,10 @@ import re
 import sys
 import getopt
 
-def read_pubs(filenames):
+def read_pubs(filenames: list):
+    '''
+
+    '''
     publications = []
     for filename in filenames:
         print(f'Reading "{filename}"... ', end='')
@@ -19,14 +22,14 @@ def read_pubs(filenames):
             print(f'Read error')
     return publications
 
-def write_pubs(publications, filename):
+def write_pubs(publications: list, filename: str):
     try:
         with open(filename, 'w') as f:
             json.dump(publications, f, indent=4)
     except:
         print('A write error occurred')
 
-def main(argv):
+def main(argv: list):
     dois_only = False
     outputfile = default_outputfile
     try:
