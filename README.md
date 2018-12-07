@@ -1,7 +1,5 @@
 # RENCI Publications
 
-## [Browse Publications](library/publications.md)
-
 ## What is This?
 
 This repo houses publication information for RENCI.
@@ -79,34 +77,11 @@ The `./publications` directory contains lists of all harvested citations and DOI
 
 #### Building the Library
 
-The `./utils` directory contains some utility scripts to automate generating a file of DOIs and turning that into a JSON library of publication metadata
+The `./utils` directory contains one helpful scripts that will combine all the publication metadata from separate JSON files into one super JSON file.
 
-###### Scrape
+```bash
+$ python collect.py [-o <outputfilename>] [dois]
+```
 
-In the `./utils` directory, run `$ python scrape.py` to generate a `dois.txt` file of DOIs.
+Use the `-o` flag to specify an output file, and use the `dois` flag to indicate that only a list of DOIs should be output. Otherwise, all publication metadata will be written to file.
 
-###### Fetch Metadata
-
-In the `./utils` directory, run `$ python build.py` to fetch the metadata for known DOIs from the Crossref API and generate the JSON file `./library/publications.md` of metadata. Within it, a general publication object will have the structure shown below.
-
-```javascript
-const publications = [
-    ...,
-    {
-        "doi": "XX.YYYY/A1234-567-89",
-        "title": "Some Article Title",
-        "authors": [
-            "Alice Alicerson",
-            "Bob Bobberton",
-            "Carl Carlton",
-            "Donna Donaldson",
-        ],
-        "type": "journal-article",
-        "container": [
-            "A Prolific Journal"
-        ],
-        "date": "2007-07-15",
-        "citation": "Anderson, A., Bobberton, B., Carlton, C. Donaldson, D.  \u201cSome Article Title.\u201d A Prolific Journal 123.4-5 (2007): 112\u2013115."
-    },
-    ...
-  ```

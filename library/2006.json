@@ -1,24 +1,28 @@
 {
-    "title": "Call path profiling for unmodified, optimized binaries",
-    "doi": "",
-    "citation": "Froyd, Nathan, Nathan Tallent, John Mellor-Crummey, and Rob Fowler. Call path profiling for unmodified, optimized binaries. In Proceedings of the GCC and GNU Toolchain Developers’ Summit, Ottawa, Canada, June 2006."
-},{
-    "title": "Runtime methods for  automatic behavioral stratification of scientific codes",
-    "doi": "",
-    "citation": "Gamblin, Todd, Rob Fowler, and Daniel A. Reed.  Runtime methods for  automatic behavioral stratification of scientific codes. In Proceedings of the Los Alamos Computer  Science Institute 7th   Annual Symposium, Santa Fe, MN, October 2006. Best Poster Award."
-},{
-    "title": "Evaluation of a Workflow Scheduler Using Integrated Performance Modeling and Batch Queue Wait Time Prediction,",
-    "doi": "10.1109/sc.2006.29 ",
-},{
-    "title": "Real-time Storm Surge Ensemble Modeling in a Grid Environment",
-    "doi": "",
-    "citation": "Ramakrishnan, Lavanya, Brian O. Blanton, Howard M. Lander, Richard A. Luettich, Jr, Daniel A. Reed, Steven R. Thorpe, “Real-time Storm Surge Ensemble Modeling in a Grid Environment”, Second International Workshop on Grid Computing Environments (GCE), Workshop at SC|06, November 2006, Tampa, Florida."
-},{
-    "title": "Grid Portals for Bioinformatics",
-    "doi": "",
-    "citation": "Ramakrishnan, L., M. S.C Reed, J. L. Tilson, D. A. Reed “Grid Portals for Bioinformatics”  Second International Workshop on Grid Computing Environments (GCE), Workshop at SC|06, Tampa, Florida (2006)."
-},{
-    "title": "Guest Editors’ Introduction: Exploring Geovisualization,",
-    "doi": "10.1109/mcg.2006.80",
-    "citation": "Rhyne T-M, A. MacEachren, J. Dykes, “Guest Editors’ Introduction: Exploring Geovisualization,” /IEEE Computer Graphics and Applications/, vol. 26, no. 4, pp. 20-21, Jul/Aug, 2006."
+  "2006": [
+    {
+      "title": "Call path profiling for unmodified, optimized binaries",
+      "doi": "",
+      "citation": "Froyd, Nathan, Nathan Tallent, John Mellor-Crummey, and Rob Fowler. Call path profiling for unmodified, optimized binaries. In Proceedings of the GCC and GNU Toolchain Developers’ Summit, Ottawa, Canada, June 2006."
+    },{
+      "title": "Runtime methods for automatic behavioral stratification of scientific codes",
+      "doi": "",
+      "citation": "Gamblin, Todd, Rob Fowler, and Daniel A. Reed. Runtime methods for automatic behavioral stratification of scientific codes. In Proceedings of the Los Alamos Computer Science Institute 7th Annual Symposium, Santa Fe, MN, October 2006. Best Poster Award."
+    },{
+      "title": "Evaluation of a Workflow Scheduler Using Integrated Performance Modeling and Batch Queue Wait Time Prediction,",
+      "doi": "10.1109/sc.2006.29"
+    },{
+      "title": "Real-time Storm Surge Ensemble Modeling in a Grid Environment",
+      "doi": "",
+      "citation": "Ramakrishnan, Lavanya, Brian O. Blanton, Howard M. Lander, Richard A. Luettich, Jr, Daniel A. Reed, Steven R. Thorpe, “Real-time Storm Surge Ensemble Modeling in a Grid Environment”, Second International Workshop on Grid Computing Environments (GCE), Workshop at SC|06, November 2006, Tampa, Florida."
+    },{
+      "title": "Grid Portals for Bioinformatics",
+      "doi": "",
+      "citation": "Ramakrishnan, L., M. S.C Reed, J. L. Tilson, D. A. Reed “Grid Portals for Bioinformatics” Second International Workshop on Grid Computing Environments (GCE), Workshop at SC|06, Tampa, Florida (2006)."
+    },{
+      "title": "Guest Editors’ Introduction: Exploring Geovisualization",
+      "doi": "10.1109/mcg.2006.80",
+      "citation": "Rhyne T-M, A. MacEachren, J. Dykes, “Guest Editors’ Introduction: Exploring Geovisualization,” /IEEE Computer Graphics and Applications/, vol. 26, no. 4, pp. 20-21, Jul/Aug, 2006."
+    }
+  ]
 }

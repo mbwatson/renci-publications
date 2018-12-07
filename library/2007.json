@@ -1,110 +1,114 @@
 {
-    "title": "Performance engineering: Understanding and improving the performance of large-scale codes",
-    "doi": "",
-    "citation": "Bailey, David, Robert Lucas, Paul Hovland, Boyana Norris, Kathy Yelick, Dan Gunter, Bronis de Supinski, Dan Quinlan, Pat Worley, Jeff Vetter, Phil Roth, John Mellor-Crummey, Allan Snavely, Jeff Hollingsworth, Dan Reed, Rob Fowler, Ying Zhang, Mary Hall, Jacque Chame, Jack Dongarra, and Shirley Moore. Performance engineering: Understanding and improving the performance of large-scale codes. CT Watch Quarterly, 3(4):18–23, Nov 2007.",
-},{
-    "title": "A Unified Software Architecture to Enable Cross-Layer Design in the Future Internet",
-    "doi": "10.1109/icccn.2007.4317792"
-},{
-    "title": "Building the Bioscience Gateway, Science Gateways: Common Community Interfaces to Grid Resources,",
-    "doi": "",
-    "citation": "Blatecky, A., K. Gamiel, L. Ramakrishnan, D. Reed, M. Reed. “Building the Bioscience Gateway, Science Gateways: Common Community Interfaces to Grid Resources,” Global Grid Forum 14, Chicago IL, June 27-30, 2007,",
-},{
-    "title": "Qualitative performance characteristics of large-scale scientific workflows executing on the TeraGrid",
-    "doi": "",
-    "citation": "Buneci, Emma, and Daniel Reed. Qualitative performance characteristics of large-scale scientific workflows executing on the TeraGrid. Invited Presentation. Teragrid ’07 Conference – Student Research Competition, June 2007.  Best Poster award.",
-},{
-    "title": "An open framework for scalable, reconﬁgurable analysis",
-    "doi": "",
-    "citation": "de Supinski, B.R., R. Fowler, T. Gamblin, F. Mueller, M. Schulz, and P. Ratn. An open framework for scalable, reconﬁgurable analysis.",
-},{
-    "title": "The SILO Architecture for Services Integration, Control, and Optimization for the Future Internet",
-    "doi": "10.1109/icc.2007.316"
-},{
-    "title": "Association between single nucleotide polymorphisms in the cannabinoid receptor gene (CNR1) and impulsivity in southwest California Indians",
-    "doi": "10.1375/twin.10.6.805"
-},{
-    "title": "Heritability of illicit drug use and transition to dependence in Southwest California Indians",
-    "doi": "10.1097/01.ypg.0000242201.56342.1a"
-},{
-    "title": "An open framework for scalable, reconfigurable performance analysis",
-    "doi": "",
-    "citation": "Gamblin, Todd, Prasun  Ratn,  Bronis R. de Supinkski, Martin Schulz, Frank Mueller, Robert J. Fowler, and Daniel A. Reed. An open  framework for scalable, reconfigurable performance analysis. In Supercomputing 2007 (SC’07),  Reno, NV, November 2007 (poster).",
-},{
-    "title": "?",
-    "doi": "",
-    "citation": "Guan, X., D. Bowman, J.L. Tilson, D. Simpson, G. Rendon, E. Jakobsson and W. Kaufman. “”, Determinants of genome stability in human disease,” Chapel Hill, NC, October 2007.",
-},{
-    "title": "Gene-lifecourse interaction for alcohol consumption in adolescence and young adulthood: Five monoamine genes",
-    "doi": "10.1002/ajmg.b.30340"
-},{
-    "title": "?",
-    "doi": "",
-    "citation": "International Research Network Connections Workshop Report; Future of IRNC Program – October, 2007. http://www.internet2.org/presentations/fall08/20081015-international-thompson.pdf",
-},{
-    "title": "Authentic Learning for the 21st Century: An Overview.",
-    "doi": "",
-    "citation": "Lombardi, M., M. ELI. “Authentic Learning for the 21st Century: An Overview.” EDUCAUSE. May 2007. http://net.educause.edu/ir/library/pdf/ELI3009.pdf",
-},{
-    "title": "Approaches That Work: How Authentic Learning is Transforming Higher Education.",
-    "doi": "",
-    "citation": "Lombardi, M. M., “Approaches That Work: How Authentic Learning is Transforming Higher Education.”  EDUCAUSE. July 2007.",
-},{
-    "title": "Gateway to the TeraGrid for Bio-Scientists: A Tutorial. What does it do? How is it used in course curricula? How was it constructed?",
-    "doi": "",
-    "citation": "McGee, J., J. L. Tilson, S. McLean. “Gateway to the TeraGrid for Bio-Scientists: A Tutorial. What does it do? How is it used in course curricula? How was it constructed?”, TeraGrid 2007, Madison, WI, June, 2007.",
-},{
-    "title": "RENCI Summer Institute",
-    "doi": "",
-    "citation": "McLean, S., J. Shelton, J.L. Tilson, N. Nicely, E. Scott, D. Bedard, T. Ford, (RENCI) and B. Gotwals, G. Gabrielli, G.A. Stefan (NCSSM) “RENCI Summer Institute” July 2007.",
-},{
-    "title": "Quantitative effects of common genetic variations in the 3’UTR of the human LDL-receptor gene and their associations with plasma lipid levels in the Atherosclerosis Risk  in Communities study",
-    "doi": "10.1007/s00439-007-0422-3"
-},{
-    "title": "Bridging Teaching, Learning, and Education in Grid-enabled Bioinformatics",
-    "doi": "",
-    "citation": "Rendon, G., S. McLean, J.R. Mashl, M.A., Miller, N. Nicely, B. Southey, J. Tenegra, J. L.  Tilson, and E. Jakobsson. “Bridging Teaching, Learning, and Education in Grid-enabled Bioinformatics”, TeraGrid 2007, Madison, WI, June, 2007.",
-},{
-    "title": "Finding prokaryotic ion channels",
-    "doi": "",
-    "citation": "Rendon, G., J. Tilson,  M-F Ger, E. Jakobsson. “Finding prokaryotic ion channels”, American Chemical Society ACS’07, Annual Meeting, Boston, MA 2007.",
-},{
-    "title": "Visualization and the Larger World of Computer Graphics: What’s Happening Out There?",
-    "doi": "",
-    "citation": "Rhyne, T.M. “Visualization and the Larger World of Computer Graphics: What’s Happening Out There?”, in TR NEWS, (a publication of the Transportation Research Board), 252, September-October 2007, pp. 20 – 23. http://research.csc.ncsu.edu/cva/TRN_RHYNE.pdf",
-},{
-    "title": "On the Suitability of Composable Services for the Assurable Future Internet",
-    "doi": "10.1109/milcom.2007.4455045"
-},{
-    "title": "Genetic and environmental sources of variation in heart rate response to infused nicotine in twins",
-    "doi": "10.1158/1055-9965.epi-06-1093"
-},{
-    "title": "MotifNetwork: A Grid-enabled Workflow for High-throughput Domain-centered Analysis of Biological Sequences",
-    "doi": "",
-    "citation": "Tilson, Jeffery R., Gloria Rendon, and Eric Jakobsson “MotifNetwork: A Grid-enabled Workflow for High-throughput Domain-centered Analysis of Biological Sequences”, Pacific Rim Application and Grid Middleware Assembly (PRAGMA13) Workshop. NCSA, Sept, 2007.",
-},{
-    "title": "MotifNetwork: Genome-Wide Domain  Analysis using Grid-enabled Workflows",
-    "doi": "10.1109/bibe.2007.4375662"
-},{
-    "title": "MotifNetwork: A Grid-enabled Workflow for High-throughput Domain Analysis of Biological Sequences: Implications for annotation and study of phylogeny, protein interactions, and intraspecies variation",
-    "doi": "10.1109/bibe.2007.4375625"
-},{
-    "title": "MotifNetwork: Genome-Wide Domain  Analysis using Grid-enabled Workflows",
-    "doi": "10.1109/bibe.2007.4375662"
-},{
-    "title": "MotifNetwork: A Grid-enabled Workflow for High-throughput Domain Analysis of Biological Sequences: Implications for annotation and study of phylogeny, protein interactions, and intraspecies variation",
-    "doi": "10.1109/bibe.2007.4375625"
-},{
-    "title": "A Composition Algorithm for the {SILO} Cross-Layer Optimization Service Architecture",
-    "doi": "",
-    "citation": "Vellala, M. and A. Wang and G. N. Rouskas and R. Dutta and  I. Baldine and D. Stevenson “A Composition Algorithm for the {SILO} Cross-Layer Optimization Service Architecture” in Proceedings of ANTS 2007. http://rouskas.csc.ncsu.edu/Publications/Conferences/ANTS-Vellala-2007.pdf",
-},{
-    "title": "Simulating association studies: a data-based resampling method for candidate regions or whole genome scans",
-    "doi": "10.1093/bioinformatics/btm386"
-},{
-    "title": "Simulating Association Studies: a Data-based Resampling Method for Candidate Regions or Whole Genome Scans.",
-    "doi": "10.1093/bioinformatics/btm386"
-},{
-    "title": "US QCD computational performance studies with PERI",
-    "doi": "10.1088/1742-6596/78/1/012083"
+    "2007": [
+        {
+            "title": "Performance engineering: Understanding and improving the performance of large-scale codes",
+            "doi": "",
+            "citation": "Bailey, David, Robert Lucas, Paul Hovland, Boyana Norris, Kathy Yelick, Dan Gunter, Bronis de Supinski, Dan Quinlan, Pat Worley, Jeff Vetter, Phil Roth, John Mellor-Crummey, Allan Snavely, Jeff Hollingsworth, Dan Reed, Rob Fowler, Ying Zhang, Mary Hall, Jacque Chame, Jack Dongarra, and Shirley Moore. Performance engineering: Understanding and improving the performance of large-scale codes. CT Watch Quarterly, 3(4):18–23, Nov 2007."
+        },{
+            "title": "A Unified Software Architecture to Enable Cross-Layer Design in the Future Internet",
+            "doi": "10.1109/icccn.2007.4317792"
+        },{
+            "title": "Building the Bioscience Gateway, Science Gateways: Common Community Interfaces to Grid Resources,",
+            "doi": "",
+            "citation": "Blatecky, A., K. Gamiel, L. Ramakrishnan, D. Reed, M. Reed. “Building the Bioscience Gateway, Science Gateways: Common Community Interfaces to Grid Resources,” Global Grid Forum 14, Chicago IL, June 27-30, 2007."
+        },{
+            "title": "Qualitative performance characteristics of large-scale scientific workflows executing on the TeraGrid",
+            "doi": "",
+            "citation": "Buneci, Emma, and Daniel Reed. Qualitative performance characteristics of large-scale scientific workflows executing on the TeraGrid. Invited Presentation. Teragrid ’07 Conference – Student Research Competition, June 2007.  Best Poster award."
+        },{
+            "title": "An open framework for scalable, reconﬁgurable analysis",
+            "doi": "",
+            "citation": "de Supinski, B.R., R. Fowler, T. Gamblin, F. Mueller, M. Schulz, and P. Ratn. An open framework for scalable, reconﬁgurable analysis."
+        },{
+            "title": "The SILO Architecture for Services Integration, Control, and Optimization for the Future Internet",
+            "doi": "10.1109/icc.2007.316"
+        },{
+            "title": "Association between single nucleotide polymorphisms in the cannabinoid receptor gene (CNR1) and impulsivity in southwest California Indians",
+            "doi": "10.1375/twin.10.6.805"
+        },{
+            "title": "Heritability of illicit drug use and transition to dependence in Southwest California Indians",
+            "doi": "10.1097/01.ypg.0000242201.56342.1a"
+        },{
+            "title": "An open framework for scalable, reconfigurable performance analysis",
+            "doi": "",
+            "citation": "Gamblin, Todd, Prasun  Ratn,  Bronis R. de Supinkski, Martin Schulz, Frank Mueller, Robert J. Fowler, and Daniel A. Reed. An open  framework for scalable, reconfigurable performance analysis. In Supercomputing 2007 (SC’07),  Reno, NV, November 2007 (poster)."
+        },{
+            "title": "?",
+            "doi": "",
+            "citation": "Guan, X., D. Bowman, J.L. Tilson, D. Simpson, G. Rendon, E. Jakobsson and W. Kaufman. “”, Determinants of genome stability in human disease,” Chapel Hill, NC, October 2007."
+        },{
+            "title": "Gene-lifecourse interaction for alcohol consumption in adolescence and young adulthood: Five monoamine genes",
+            "doi": "10.1002/ajmg.b.30340"
+        },{
+            "title": "?",
+            "doi": "",
+            "citation": "International Research Network Connections Workshop Report; Future of IRNC Program – October, 2007. http://www.internet2.org/presentations/fall08/20081015-international-thompson.pdf"
+        },{
+            "title": "Authentic Learning for the 21st Century: An Overview.",
+            "doi": "",
+            "citation": "Lombardi, M., M. ELI. “Authentic Learning for the 21st Century: An Overview.” EDUCAUSE. May 2007. http://net.educause.edu/ir/library/pdf/ELI3009.pdf"
+        },{
+            "title": "Approaches That Work: How Authentic Learning is Transforming Higher Education.",
+            "doi": "",
+            "citation": "Lombardi, M. M., “Approaches That Work: How Authentic Learning is Transforming Higher Education.”  EDUCAUSE. July 2007."
+        },{
+            "title": "Gateway to the TeraGrid for Bio-Scientists: A Tutorial. What does it do? How is it used in course curricula? How was it constructed?",
+            "doi": "",
+            "citation": "McGee, J., J. L. Tilson, S. McLean. “Gateway to the TeraGrid for Bio-Scientists: A Tutorial. What does it do? How is it used in course curricula? How was it constructed?”, TeraGrid 2007, Madison, WI, June, 2007."
+        },{
+            "title": "RENCI Summer Institute",
+            "doi": "",
+            "citation": "McLean, S., J. Shelton, J.L. Tilson, N. Nicely, E. Scott, D. Bedard, T. Ford, (RENCI) and B. Gotwals, G. Gabrielli, G.A. Stefan (NCSSM) “RENCI Summer Institute” July 2007."
+        },{
+            "title": "Quantitative effects of common genetic variations in the 3’UTR of the human LDL-receptor gene and their associations with plasma lipid levels in the Atherosclerosis Risk  in Communities study",
+            "doi": "10.1007/s00439-007-0422-3"
+        },{
+            "title": "Bridging Teaching, Learning, and Education in Grid-enabled Bioinformatics",
+            "doi": "",
+            "citation": "Rendon, G., S. McLean, J.R. Mashl, M.A., Miller, N. Nicely, B. Southey, J. Tenegra, J. L.  Tilson, and E. Jakobsson. “Bridging Teaching, Learning, and Education in Grid-enabled Bioinformatics”, TeraGrid 2007, Madison, WI, June, 2007."
+        },{
+            "title": "Finding prokaryotic ion channels",
+            "doi": "",
+            "citation": "Rendon, G., J. Tilson,  M-F Ger, E. Jakobsson. “Finding prokaryotic ion channels”, American Chemical Society ACS’07, Annual Meeting, Boston, MA 2007."
+        },{
+            "title": "Visualization and the Larger World of Computer Graphics: What’s Happening Out There?",
+            "doi": "",
+            "citation": "Rhyne, T.M. “Visualization and the Larger World of Computer Graphics: What’s Happening Out There?”, in TR NEWS, (a publication of the Transportation Research Board), 252, September-October 2007, pp. 20 – 23. http://research.csc.ncsu.edu/cva/TRN_RHYNE.pdf"
+        },{
+            "title": "On the Suitability of Composable Services for the Assurable Future Internet",
+            "doi": "10.1109/milcom.2007.4455045"
+        },{
+            "title": "Genetic and environmental sources of variation in heart rate response to infused nicotine in twins",
+            "doi": "10.1158/1055-9965.epi-06-1093"
+        },{
+            "title": "MotifNetwork: A Grid-enabled Workflow for High-throughput Domain-centered Analysis of Biological Sequences",
+            "doi": "",
+            "citation": "Tilson, Jeffery R., Gloria Rendon, and Eric Jakobsson “MotifNetwork: A Grid-enabled Workflow for High-throughput Domain-centered Analysis of Biological Sequences”, Pacific Rim Application and Grid Middleware Assembly (PRAGMA13) Workshop. NCSA, Sept, 2007."
+        },{
+            "title": "MotifNetwork: Genome-Wide Domain  Analysis using Grid-enabled Workflows",
+            "doi": "10.1109/bibe.2007.4375662"
+        },{
+            "title": "MotifNetwork: A Grid-enabled Workflow for High-throughput Domain Analysis of Biological Sequences: Implications for annotation and study of phylogeny, protein interactions, and intraspecies variation",
+            "doi": "10.1109/bibe.2007.4375625"
+        },{
+            "title": "MotifNetwork: Genome-Wide Domain  Analysis using Grid-enabled Workflows",
+            "doi": "10.1109/bibe.2007.4375662"
+        },{
+            "title": "MotifNetwork: A Grid-enabled Workflow for High-throughput Domain Analysis of Biological Sequences: Implications for annotation and study of phylogeny, protein interactions, and intraspecies variation",
+            "doi": "10.1109/bibe.2007.4375625"
+        },{
+            "title": "A Composition Algorithm for the {SILO} Cross-Layer Optimization Service Architecture",
+            "doi": "",
+            "citation": "Vellala, M. and A. Wang and G. N. Rouskas and R. Dutta and  I. Baldine and D. Stevenson “A Composition Algorithm for the {SILO} Cross-Layer Optimization Service Architecture” in Proceedings of ANTS 2007. http://rouskas.csc.ncsu.edu/Publications/Conferences/ANTS-Vellala-2007.pdf"
+        },{
+            "title": "Simulating association studies: a data-based resampling method for candidate regions or whole genome scans",
+            "doi": "10.1093/bioinformatics/btm386"
+        },{
+            "title": "Simulating Association Studies: a Data-based Resampling Method for Candidate Regions or Whole Genome Scans.",
+            "doi": "10.1093/bioinformatics/btm386"
+        },{
+            "title": "US QCD computational performance studies with PERI",
+            "doi": "10.1088/1742-6596/78/1/012083"
+        }
+    ]
 }
