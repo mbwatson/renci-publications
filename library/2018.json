@@ -206,7 +206,7 @@
             "name": "NeuroInformatics",
             "year": 2018
         },
-        "notes": "This talk presented the DataBridge for Neuroscience project at the INCF 2018 Workshop on Advanced Data Discovery for Neuroscience held in conjunction with NeuroInformatics 2018, Montreal Canada.",
+        "note": "This talk presented the DataBridge for Neuroscience project at the INCF 2018 Workshop on Advanced Data Discovery for Neuroscience held in conjunction with NeuroInformatics 2018, Montreal Canada.",
         "url": "http://www.neuroinformatics2018.org/abstracts/"
     },{
         "tite": "INCF 2018 Workshop on Advanced Data Discovery for Neuroscience",
@@ -306,6 +306,6 @@
             "name": "NeuroInformatics",
             "year": 2018
         },
-        "notes": "This poster discusses the NSF Funded DataBridge for Neuroscience project. The primary goal of this project was to introduce advanced techniques for Data Discovery to the Neuroinformatics community."
+        "note": "This poster discusses the NSF Funded DataBridge for Neuroscience project. The primary goal of this project was to introduce advanced techniques for Data Discovery to the Neuroinformatics community."
     }
 ]
