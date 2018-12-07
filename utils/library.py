@@ -89,6 +89,10 @@ class Library:
             pub = Publication(dois[i])
             publications.append(pub)
             print(f'...done!')
+        # for pub in publications:
+        #     print(pub.title)
+        #     print(pub.citation)
+        #     print()
         self.publications = publications
 
     def write(self, filename):

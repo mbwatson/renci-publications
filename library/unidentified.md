@@ -1,3 +1,29 @@
+# DOIs Encountered While Investigating Others
+
+These may need to be added to our collection.
+
+- 10.1145/1088149.1088161
+- 10.1016/j.bpj.2009.12.3891
+- 10.1145/1401132.1401259
+- 10.1109/bibe.2007.4375625
+- 10.1109/sc.2008.5222553 
+- 10.1109/ipdps.2008.4536236
+- 10.1007/978-3-642-10520-3_89
+- 10.1007/978-3-642-10520-3_12
+- 10.1353/lib.2006.0006
+- 10.2200/s00760ed1v01y201702icr057 
+- 10.1177/1473871613487086
+- 10.1145/2110363.2110453
+- 10.1016/j.procs.2012.04.185
+- 10.1007/978-3-319-03437-9_3
+- 10.1007/978-3-662-48148-6_8
+- 10.1016/s0010-4655(00)00061-8
+- 10.1007/s00214-014-1564-8 
+- 10.1145/2506583.2506608 
+- 10.5334/jors.ax
+- 10.1109/socialcom.2013.6 
+- RELATED: 10.21236/ada551861 
+
 # 2016
 
 ### South Big Data Hub Overview
@@ -365,7 +391,7 @@ URL: https://www.bi.vt.edu/nsf-big-data/schedule
 ### A resilient and distributed software infrastructure for wide-area measurement CPS systems
 - DOI: -
 - CITATION: Qian, T., Xu, H., Mueller, F., Chakraborty, A., & Xin, Y. (2017). A resilient and distributed software infrastructure for wide-area measurement CPS systems. ACM Transaction on CPS, submitted
-- RELATED: 10.1109/pesgm.2016.7741949 
+-10.1109/pesgm.2016.7741949 
 
 ### Contextual visualization: making the unseen visible to combat bias during visual analysis
 - DOI: -
