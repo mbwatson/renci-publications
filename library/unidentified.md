@@ -403,3 +403,8 @@ URL: https://www.bi.vt.edu/nsf-big-data/schedule
 - TYPE: Journal Article
 - CITATION: Ramirez, G., Sarino, F., Tilson, J.L., & Ermler, W.C. Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO. Journal of Chemistry (under review)
 
+### Visualization model validation via inline replication
+D. Gotz, W. Wang, A. T. Chen, and D. Borland. Visualization model validation via inline replication. Information Visualization. Accepted for publication. 2019.
+ 
+### Evaluating visual analytics for health informatics applications: a systematic review from the AMIA VIS Working Group Task Force on Evaluation
+D. T. Y. Wu, A. T. Chen, J. D. Manning, G. Levy-Fix, U. Backonja, D. Borland, J. J. Caban, D. W. Dowding, H. Hochheiser, V. Kagan, S. Kandaswamy, M. Kumar, A. Nunez, E. Pan, and D. Gotz. Evaluating visual analytics for health informatics applications: a systematic review from the AMIA VIS Working Group Task Force on Evaluation. Journal of the American Medical Informatics Association. Accepted for publication. 2019.
