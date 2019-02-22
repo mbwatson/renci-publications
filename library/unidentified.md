@@ -394,7 +394,7 @@ URL: https://www.bi.vt.edu/nsf-big-data/schedule
 -10.1109/pesgm.2016.7741949 
 
 ### Contextual visualization: making the unseen visible to combat bias during visual analysis
-- DOI: -
+- DOI: 10.1109/MCG.2018.2874782
 - TYPE: Journal Article
 - CITATION: Borland, D., Wang, W., & Gotz, D. Contextual visualization: making the unseen visible to combat bias during visual analysis. (2018). IEEE Computer Graphics and Applications. Accepted for publication
 
@@ -404,7 +404,9 @@ URL: https://www.bi.vt.edu/nsf-big-data/schedule
 - CITATION: Ramirez, G., Sarino, F., Tilson, J.L., & Ermler, W.C. Spin-Orbit configuration interaction calculations of electronic transition energies and spectral properties of PbO. Journal of Chemistry (under review)
 
 ### Visualization model validation via inline replication
-D. Gotz, W. Wang, A. T. Chen, and D. Borland. Visualization model validation via inline replication. Information Visualization. Accepted for publication. 2019.
- 
+- DOI: 10.1177/1473871618821747
+- TYPE: Journal Article
+- CITATION: Gotz, D., Wang, W., Chen, A. T., & Borland, D. (2019). Visualization model validation via inline replication. Information Visualization, 147387161882174. doi:10.1177/1473871618821747
+
 ### Evaluating visual analytics for health informatics applications: a systematic review from the AMIA VIS Working Group Task Force on Evaluation
 D. T. Y. Wu, A. T. Chen, J. D. Manning, G. Levy-Fix, U. Backonja, D. Borland, J. J. Caban, D. W. Dowding, H. Hochheiser, V. Kagan, S. Kandaswamy, M. Kumar, A. Nunez, E. Pan, and D. Gotz. Evaluating visual analytics for health informatics applications: a systematic review from the AMIA VIS Working Group Task Force on Evaluation. Journal of the American Medical Informatics Association. Accepted for publication. 2019.
